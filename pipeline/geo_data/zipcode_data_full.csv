@@ -1,0 +1,2572 @@
+,zipcode,class,city,county,Area Code(s),pop,% of Population% of Pop
+0,90001,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"55,859",0.14%
+1,90002,Standard,Los Angeles,Los Angeles,213 / 323 / 562 / 738,"53,150",0.13%
+2,90003,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"72,764",0.18%
+3,90004,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"58,585",0.15%
+4,90005,Standard,Los Angeles,Los Angeles,213 / 310 / 323 / 562 / 626 / 738 / 818,"37,987",0.10%
+5,90006,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"58,229",0.15%
+6,90007,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"40,944",0.10%
+7,90008,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"33,041",0.08%
+8,90009 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+9,90010,Standard,Los Angeles,Los Angeles,213 / 310 / 323 / 562 / 626 / 738 / 818,"5,400",0.01%
+10,90011,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"102,308",0.26%
+11,90012,Standard,Los Angeles,Los Angeles,213 / 323 / 738 / 818,"33,851",0.09%
+12,90013,Standard,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,"15,589",0.04%
+13,90014,Standard,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,"9,254",0.02%
+14,90015,Standard,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 818,"27,324",0.07%
+15,90016,Standard,Los Angeles,Los Angeles,424,"46,512",0.12%
+16,90017,Standard,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 818,"27,295",0.07%
+17,90018,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"50,179",0.13%
+18,90019,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"62,002",0.16%
+19,90020,Standard,Los Angeles,Los Angeles,213 / 310 / 323 / 562 / 626 / 738 / 818,"38,694",0.10%
+20,90021,Standard,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,"5,192",0.01%
+21,90022,Standard,Los Angeles,Los Angeles,323 / 562 / 738,"64,517",0.16%
+22,90023,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"45,939",0.12%
+23,90024,Standard,Los Angeles,Los Angeles,310 / 323 / 738 / 818,"52,862",0.13%
+24,90025,Standard,Los Angeles,Los Angeles,310 / 424 / 818,"45,466",0.11%
+25,90026,Standard,Los Angeles,Los Angeles,213 / 738,"63,329",0.16%
+26,90027,Standard,Los Angeles,Los Angeles,213 / 323 / 738 / 747 / 818,"44,471",0.11%
+27,90028,Standard,Los Angeles,Los Angeles,213 / 310 / 323 / 738 / 747 / 818,"32,330",0.08%
+28,90029,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"34,695",0.09%
+29,90030 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+30,90031,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"37,333",0.09%
+31,90032,Standard,Los Angeles,Los Angeles,626,"43,506",0.11%
+32,90033,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"46,081",0.12%
+33,90034,Standard,Los Angeles,Los Angeles,424 / 310,"57,152",0.14%
+34,90035,Standard,Los Angeles,Los Angeles,424 / 310,"30,294",0.08%
+35,90036,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"39,549",0.10%
+36,90037,Standard,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 738,"63,706",0.16%
+37,90038,Standard,Los Angeles,Los Angeles,213 / 310 / 323 / 738 / 747 / 818,"27,414",0.07%
+38,90039,Standard,Los Angeles,Los Angeles,323 / 738 / 747 / 818,"28,059",0.07%
+39,90040,Standard,Los Angeles,Los Angeles,323 / 562 / 738,"12,089",0.03%
+40,90041,Standard,Los Angeles,Los Angeles,213 / 323 / 626 / 738,"26,654",0.07%
+41,90042,Standard,Los Angeles,Los Angeles,213 / 323 / 626 / 738,"58,295",0.15%
+42,90043,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"46,179",0.12%
+43,90044,Standard,Los Angeles,Los Angeles,213 / 310 / 323 / 738,"94,354",0.24%
+44,90045,Standard,Los Angeles,Los Angeles,323 / 738,"41,035",0.10%
+45,90046,Standard,Los Angeles,Los Angeles,323 / 738,"49,987",0.13%
+46,90047,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"50,154",0.13%
+47,90048,Standard,Los Angeles,Los Angeles,310 / 323 / 738,"22,604",0.06%
+48,90049,Standard,Los Angeles,Los Angeles,818 / 310,"36,980",0.09%
+49,90050 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+50,90051 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+51,90052 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,13,0.00%
+52,90053 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+53,90054 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+54,90055 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+55,90056,Standard,Los Angeles,Los Angeles,323 / 738,"8,184",0.02%
+56,90057,Standard,Los Angeles,Los Angeles,213 / 738,"45,510",0.12%
+57,90058,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"3,751",0.01%
+58,90059,Standard,Los Angeles,Los Angeles,213 / 310 / 738,"43,551",0.11%
+59,90060 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+60,90061,Standard,Los Angeles,Los Angeles,213 / 310 / 323 / 738,"29,570",0.07%
+61,90062,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"32,524",0.08%
+62,90063,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"50,227",0.13%
+63,90064,Standard,Los Angeles,Los Angeles,310 / 818,"27,553",0.07%
+64,90065,Standard,Los Angeles,Los Angeles,213 / 323 / 738,"44,328",0.11%
+65,90066,Standard,Los Angeles,Los Angeles,310 / 424,"55,304",0.14%
+66,90067,Standard,Los Angeles,Los Angeles,310 / 323 / 738,"3,344",0.01%
+67,90068,Standard,Los Angeles,Los Angeles,213 / 310 / 323 / 738,"24,361",0.06%
+68,90069,Standard,West Hollywood,Los Angeles,323 / 738 / 818,"20,584",0.05%
+69,90070 ,P.O. Box,Los Angeles,Los Angeles,213 / 738,0,0.00%
+70,90071,Standard,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,907,0.00%
+71,90072 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+72,90073 ,P.O. Box,Los Angeles,Los Angeles,310 / 424 / 818,936,0.00%
+73,90074 ,Unique,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+74,90075 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+75,90076 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+76,90077,Standard,Los Angeles,Los Angeles,818 / 310,"8,874",0.02%
+77,90078 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+78,90079,Standard,Los Angeles,Los Angeles,213 / 323 / 424 / 626 / 738 / 747 / 818,16,0.00%
+79,90080 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+80,90081 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+81,90082 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+82,90083 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+83,90084 ,Unique,Los Angeles,Los Angeles,310 / 323 / 738 / 818,0,0.00%
+84,90085 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+85,90086 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+86,90087 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+87,90088 ,Unique,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+88,90089 ,Unique,Los Angeles,Los Angeles,213 / 323 / 738,"5,172",0.01%
+89,90091 ,P.O. Box,Los Angeles,Los Angeles,323 / 562 / 738,0,0.00%
+90,90093 ,P.O. Box,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+91,90094,Standard,Playa Vista,Los Angeles,323 / 738,"12,746",0.03%
+92,90095 ,Unique,Los Angeles,Los Angeles,310 / 323 / 738 / 818,1,0.00%
+93,90096 ,Unique,Los Angeles,Los Angeles,213 / 323 / 738,0,0.00%
+94,90099 ,Unique,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+95,90134,Standard,Los Angeles,Los Angeles,213 / 323 / 738,0,0.00%
+96,90140 ,Unique,Los Angeles,Los Angeles,323 / 562 / 738,0,0.00%
+97,90189 ,Unique,Los Angeles,Los Angeles,213 / 310 / 323 / 424 / 562 / 626 / 738 / 747 / 818,0,0.00%
+98,90201,Standard,Bell Gardens,Los Angeles,323 / 738,"95,810",0.24%
+99,90202 ,P.O. Box,Bell,Los Angeles,323 / 738,0,0.00%
+100,90205 ,Unique,Bell Gardens,Los Angeles,310 / 323 / 424 / 738,0,0.00%
+101,90209 ,P.O. Box,Beverly Hills,Los Angeles,310 / 323 / 424 / 738,0,0.00%
+102,90210,Standard,Beverly Hills,Los Angeles,310 / 323 / 424 / 738,"21,134",0.05%
+103,90211,Standard,Beverly Hills,Los Angeles,310 / 323 / 424 / 738,"8,260",0.02%
+104,90212,Standard,Beverly Hills,Los Angeles,310 / 323 / 424 / 738,"11,451",0.03%
+105,90213 ,P.O. Box,Beverly Hills,Los Angeles,310 / 323 / 424 / 738,0,0.00%
+106,90220,Standard,Compton,Los Angeles,310 / 323 / 424 / 562 / 738,"50,412",0.13%
+107,90221,Standard,Compton,Los Angeles,310 / 323 / 424 / 562 / 738,"52,561",0.13%
+108,90222,Standard,Compton,Los Angeles,310 / 323 / 424 / 562 / 738,"32,397",0.08%
+109,90223 ,P.O. Box,Compton,Los Angeles,310 / 323 / 424 / 562 / 738,0,0.00%
+110,90224 ,P.O. Box,Compton,Los Angeles,310 / 323 / 424 / 562 / 738,0,0.00%
+111,90230,Standard,Culver City,Los Angeles,310 / 323 / 424 / 738,"32,743",0.08%
+112,90231 ,P.O. Box,Culver City,Los Angeles,310 / 323 / 424 / 738,0,0.00%
+113,90232,Standard,Culver City,Los Angeles,310 / 323 / 424 / 738,"16,452",0.04%
+114,90239 ,P.O. Box,Downey,Los Angeles,562,0,0.00%
+115,90240,Standard,Downey,Los Angeles,562,"26,495",0.07%
+116,90241,Standard,Downey,Los Angeles,562,"44,921",0.11%
+117,90242,Standard,Downey,Los Angeles,562,"42,939",0.11%
+118,90245,Standard,El Segundo,Los Angeles,310 / 424,"17,272",0.04%
+119,90247,Standard,Gardena,Los Angeles,213 / 310 / 323 / 424 / 562 / 738,"48,543",0.12%
+120,90248,Standard,Gardena,Los Angeles,213 / 310 / 323 / 424 / 562 / 738,"11,295",0.03%
+121,90249,Standard,Gardena,Los Angeles,213 / 310 / 323 / 424 / 562 / 738,"27,125",0.07%
+122,90250,Standard,Hawthorne,Los Angeles,310 / 323 / 424 / 738,"97,653",0.25%
+123,90251 ,P.O. Box,Hawthorne,Los Angeles,310 / 323 / 424 / 738,0,0.00%
+124,90254,Standard,Hermosa Beach,Los Angeles,424 / 310,"19,736",0.05%
+125,90255,Standard,Huntington Park,Los Angeles,213 / 323 / 738,"71,157",0.18%
+126,90260,Standard,Lawndale,Los Angeles,424 / 310,"33,338",0.08%
+127,90262,Standard,Lynwood,Los Angeles,323 / 738,"67,099",0.17%
+128,90263 ,Unique,Malibu,Los Angeles,310 / 424,"1,972",0.00%
+129,90264 ,P.O. Box,Malibu,Los Angeles,424 / 310,0,0.00%
+130,90265,Standard,Malibu,Los Angeles,424 / 310,"15,186",0.04%
+131,90266,Standard,Manhattan Beach,Los Angeles,310,"35,506",0.09%
+132,90267 ,P.O. Box,Manhattan Beach,Los Angeles,310,0,0.00%
+133,90270,Standard,Maywood,Los Angeles,323 / 738,"25,113",0.06%
+134,90272,Standard,Pacific Palisades,Los Angeles,424,"22,849",0.06%
+135,90274,Standard,Palos Verdes Peninsula,Los Angeles,310,"25,307",0.06%
+136,90275,Standard,Rancho Palos Verdes,Los Angeles,310,"42,452",0.11%
+137,90277,Standard,Redondo Beach,Los Angeles,424 / 310,"37,856",0.10%
+138,90278,Standard,Redondo Beach,Los Angeles,424 / 310,"42,188",0.11%
+139,90280,Standard,South Gate,Los Angeles,323 / 738,"92,678",0.23%
+140,90290,Standard,Topanga,Los Angeles,424 / 310,"6,640",0.02%
+141,90291,Standard,Venice,Los Angeles,310 / 424,"28,442",0.07%
+142,90292,Standard,Marina Del Rey,Los Angeles,310 / 424,"27,681",0.07%
+143,90293,Standard,Playa Del Rey,Los Angeles,310 / 424,"12,633",0.03%
+144,90294 ,P.O. Box,Venice,Los Angeles,310 / 424,0,0.00%
+145,90295 ,P.O. Box,Marina Del Rey,Los Angeles,310 / 424,0,0.00%
+146,90296 ,P.O. Box,Playa Del Rey,Los Angeles,310 / 424,0,0.00%
+147,90301,Standard,Inglewood,Los Angeles,310 / 323 / 424 / 738,"36,270",0.09%
+148,90302,Standard,Inglewood,Los Angeles,310 / 323 / 424 / 738,"29,264",0.07%
+149,90303,Standard,Inglewood,Los Angeles,310,"24,490",0.06%
+150,90304,Standard,Inglewood,Los Angeles,424 / 310,"26,058",0.07%
+151,90305,Standard,Inglewood,Los Angeles,424 / 310,"15,367",0.04%
+152,90306 ,P.O. Box,Inglewood,Los Angeles,310 / 323 / 424 / 738,0,0.00%
+153,90307 ,P.O. Box,Inglewood,Los Angeles,310 / 323 / 424 / 738,0,0.00%
+154,90308 ,P.O. Box,Inglewood,Los Angeles,310 / 323 / 424 / 738,0,0.00%
+155,90309 ,P.O. Box,Inglewood,Los Angeles,310 / 323 / 424 / 738,0,0.00%
+156,90310 ,P.O. Box,Inglewood,Los Angeles,310 / 323 / 424 / 738,0,0.00%
+157,90311,Standard,Inglewood,Los Angeles,310 / 323 / 424 / 738,0,0.00%
+158,90312 ,P.O. Box,Inglewood,Los Angeles,310 / 323 / 424 / 738,0,0.00%
+159,90401,Standard,Santa Monica,Los Angeles,310 / 424,"8,167",0.02%
+160,90402,Standard,Santa Monica,Los Angeles,310,"12,295",0.03%
+161,90403,Standard,Santa Monica,Los Angeles,310 / 424,"25,278",0.06%
+162,90404,Standard,Santa Monica,Los Angeles,310 / 424,"21,995",0.06%
+163,90405,Standard,Santa Monica,Los Angeles,310 / 424,"27,966",0.07%
+164,90406 ,P.O. Box,Santa Monica,Los Angeles,310 / 424,0,0.00%
+165,90407 ,P.O. Box,Santa Monica,Los Angeles,310 / 424,0,0.00%
+166,90408 ,P.O. Box,Santa Monica,Los Angeles,310 / 424,0,0.00%
+167,90409 ,P.O. Box,Santa Monica,Los Angeles,310 / 424,0,0.00%
+168,90410 ,P.O. Box,Santa Monica,Los Angeles,310 / 424,0,0.00%
+169,90411 ,P.O. Box,Santa Monica,Los Angeles,310 / 424,0,0.00%
+170,90501,Standard,Torrance,Los Angeles,310 / 424,"43,990",0.11%
+171,90502,Standard,Torrance,Los Angeles,310 / 424,"18,977",0.05%
+172,90503,Standard,Torrance,Los Angeles,310 / 424,"45,386",0.11%
+173,90504,Standard,Torrance,Los Angeles,310 / 424,"32,503",0.08%
+174,90505,Standard,Torrance,Los Angeles,310,"36,643",0.09%
+175,90506,Standard,Torrance,Los Angeles,310 / 424,0,0.00%
+176,90507 ,P.O. Box,Torrance,Los Angeles,310 / 424,0,0.00%
+177,90508 ,P.O. Box,Torrance,Los Angeles,310 / 424,0,0.00%
+178,90509 ,P.O. Box,Torrance,Los Angeles,310 / 424,0,0.00%
+179,90510 ,P.O. Box,Torrance,Los Angeles,310 / 424,0,0.00%
+180,90601,Standard,Whittier,Los Angeles,562,"32,625",0.08%
+181,90602,Standard,Whittier,Los Angeles,562,"25,521",0.06%
+182,90603,Standard,Whittier,Los Angeles,562,"21,174",0.05%
+183,90604,Standard,Whittier,Los Angeles,562,"40,110",0.10%
+184,90605,Standard,Whittier,Los Angeles,562,"40,189",0.10%
+185,90606,Standard,Whittier,Los Angeles,562,"32,078",0.08%
+186,90607 ,P.O. Box,Whittier,Los Angeles,562,0,0.00%
+187,90608 ,P.O. Box,Whittier,Los Angeles,562,0,0.00%
+188,90609 ,P.O. Box,Whittier,Los Angeles,562,0,0.00%
+189,90610 ,P.O. Box,Whittier,Los Angeles,562,0,0.00%
+190,90620,Standard,Buena Park,Orange,714 / 657,"46,564",0.12%
+191,90621,Standard,Buena Park,Orange,714 / 657,"36,972",0.09%
+192,90622 ,P.O. Box,Buena Park,Orange,714 / 657,0,0.00%
+193,90623,Standard,La Palma,Orange,714 / 657,"15,906",0.04%
+194,90624 ,P.O. Box,Buena Park,Orange,714 / 657,0,0.00%
+195,90630,Standard,Cypress,Orange,714 / 657,"49,965",0.13%
+196,90631,Standard,La Habra,Orange,562,"69,533",0.18%
+197,90632 ,P.O. Box,La Habra,Orange,562,0,0.00%
+198,90633 ,P.O. Box,La Habra,Orange,562,0,0.00%
+199,90637 ,P.O. Box,La Mirada,Los Angeles,562,0,0.00%
+200,90638,Standard,La Mirada,Los Angeles,714,"46,967",0.12%
+201,90639 ,Unique,La Mirada,Los Angeles,714,"1,511",0.00%
+202,90640,Standard,Montebello,Los Angeles,213 / 323 / 738,"62,678",0.16%
+203,90650,Standard,Norwalk,Los Angeles,562,"102,891",0.26%
+204,90651 ,P.O. Box,Norwalk,Los Angeles,562,0,0.00%
+205,90652 ,P.O. Box,Norwalk,Los Angeles,562,0,0.00%
+206,90660,Standard,Pico Rivera,Los Angeles,562,"62,013",0.16%
+207,90661 ,P.O. Box,Pico Rivera,Los Angeles,562,0,0.00%
+208,90662 ,P.O. Box,Pico Rivera,Los Angeles,562,0,0.00%
+209,90670,Standard,Santa Fe Springs,Los Angeles,562,"17,761",0.04%
+210,90671 ,P.O. Box,Santa Fe Springs,Los Angeles,562,0,0.00%
+211,90680,Standard,Stanton,Orange,657 / 714,"30,045",0.08%
+212,90701,Standard,Artesia,Los Angeles,562 / 310,"16,434",0.04%
+213,90702 ,P.O. Box,Artesia,Los Angeles,562 / 310,0,0.00%
+214,90703,Standard,Cerritos,Los Angeles,562 / 310,"49,735",0.13%
+215,90704 ,P.O. Box,Avalon,Los Angeles,424 / 310 / 562,"3,715",0.01%
+216,90706,Standard,Bellflower,Los Angeles,562,"79,179",0.20%
+217,90707 ,P.O. Box,Bellflower,Los Angeles,562,0,0.00%
+218,90710,Standard,Harbor City,Los Angeles,424 / 310,"26,605",0.07%
+219,90711 ,P.O. Box,Lakewood,Los Angeles,213 / 310 / 323 / 562 / 657 / 738,0,0.00%
+220,90712,Standard,Lakewood,Los Angeles,213 / 310 / 323 / 562 / 657 / 738,"32,332",0.08%
+221,90713,Standard,Lakewood,Los Angeles,213 / 310 / 323 / 562 / 657 / 738,"28,755",0.07%
+222,90714 ,P.O. Box,Lakewood,Los Angeles,213 / 310 / 323 / 562 / 657 / 738,0,0.00%
+223,90715,Standard,Lakewood,Los Angeles,562 / 310,"20,999",0.05%
+224,90716,Standard,Hawaiian Gardens,Los Angeles,562 / 310,"14,098",0.04%
+225,90717,Standard,Lomita,Los Angeles,424 / 310,"22,044",0.06%
+226,90720,Standard,Los Alamitos,Orange,562 / 657 / 714,"22,955",0.06%
+227,90721 ,P.O. Box,Los Alamitos,Orange,562 / 657 / 714,0,0.00%
+228,90723,Standard,Paramount,Los Angeles,562,"53,770",0.14%
+229,90731,Standard,San Pedro,Los Angeles,424 / 310 / 562,"61,270",0.15%
+230,90732,Standard,San Pedro,Los Angeles,424 / 310 / 562,"21,397",0.05%
+231,90733 ,P.O. Box,San Pedro,Los Angeles,424 / 310 / 562,0,0.00%
+232,90734 ,P.O. Box,San Pedro,Los Angeles,424 / 310 / 562,0,0.00%
+233,90740,Standard,Seal Beach,Orange,562 / 714,"24,769",0.06%
+234,90742 ,P.O. Box,Sunset Beach,Orange,714 / 562,748,0.00%
+235,90743 ,P.O. Box,Surfside,Orange,714 / 562,466,0.00%
+236,90744,Standard,Wilmington,Los Angeles,310 / 323 / 424 / 562 / 738,"53,074",0.13%
+237,90745,Standard,Carson,Los Angeles,562,"59,937",0.15%
+238,90746,Standard,Carson,Los Angeles,562,"27,147",0.07%
+239,90747 ,Unique,Carson,Los Angeles,562,22,0.00%
+240,90748 ,P.O. Box,Wilmington,Los Angeles,310 / 323 / 424 / 562 / 738,0,0.00%
+241,90749 ,P.O. Box,Carson,Los Angeles,310 / 424,0,0.00%
+242,90755,Standard,Signal Hill,Los Angeles,562,"11,923",0.03%
+243,90801 ,P.O. Box,Long Beach,Los Angeles,562 / 424,0,0.00%
+244,90802,Standard,Long Beach,Los Angeles,310 / 323 / 424 / 562 / 714 / 738,"41,686",0.11%
+245,90803,Standard,Long Beach,Los Angeles,562,"32,192",0.08%
+246,90804,Standard,Long Beach,Los Angeles,562,"39,370",0.10%
+247,90805,Standard,Long Beach,Los Angeles,310 / 323 / 562 / 738,"95,350",0.24%
+248,90806,Standard,Long Beach,Los Angeles,562,"41,611",0.11%
+249,90807,Standard,Long Beach,Los Angeles,562 / 714 / 657,"32,412",0.08%
+250,90808,Standard,Long Beach,Los Angeles,213 / 310 / 323 / 562 / 657 / 714 / 738,"39,747",0.10%
+251,90809 ,P.O. Box,Long Beach,Los Angeles,562 / 424,0,0.00%
+252,90810,Standard,Long Beach,Los Angeles,562,"38,529",0.10%
+253,90813,Standard,Long Beach,Los Angeles,310 / 323 / 562 / 714 / 738,"54,565",0.14%
+254,90814,Standard,Long Beach,Los Angeles,562,"19,042",0.05%
+255,90815,Standard,Long Beach,Los Angeles,562 / 714 / 657,"41,837",0.11%
+256,90822,Standard,Long Beach,Los Angeles,310 / 323 / 424 / 562 / 714 / 738,54,0.00%
+257,90831,Standard,Long Beach,Los Angeles,562 / 424,0,0.00%
+258,90832 ,P.O. Box,Long Beach,Los Angeles,562 / 424,0,0.00%
+259,90833,Standard,Long Beach,Los Angeles,562 / 424,0,0.00%
+260,90840 ,Unique,Long Beach,Los Angeles,310 / 323 / 424 / 562 / 714 / 738,8,0.00%
+261,90842 ,Unique,Long Beach,Los Angeles,562 / 424,0,0.00%
+262,90844 ,Unique,Long Beach,Los Angeles,310 / 323 / 562 / 714 / 738,0,0.00%
+263,90846 ,Unique,Long Beach,Los Angeles,562 / 424,0,0.00%
+264,90847 ,Unique,Long Beach,Los Angeles,562 / 424,0,0.00%
+265,90848 ,Unique,Long Beach,Los Angeles,562 / 424,0,0.00%
+266,90853 ,P.O. Box,Long Beach,Los Angeles,562 / 424,0,0.00%
+267,90895 ,Unique,Carson,Los Angeles,562,0,0.00%
+268,91001,Standard,Altadena,Los Angeles,323 / 626 / 738,"36,578",0.09%
+269,91003 ,P.O. Box,Altadena,Los Angeles,323 / 626 / 738,0,0.00%
+270,91006,Standard,Arcadia,Los Angeles,626,"31,949",0.08%
+271,91007,Standard,Arcadia,Los Angeles,626,"33,804",0.09%
+272,91008,Standard,Duarte,Los Angeles,626,"1,010",0.00%
+273,91009 ,P.O. Box,Duarte,Los Angeles,626,0,0.00%
+274,91010,Standard,Duarte,Los Angeles,626,"26,730",0.07%
+275,91011,Standard,La Canada Flintridge,Los Angeles,818,"20,588",0.05%
+276,91012 ,P.O. Box,La Canada Flintridge,Los Angeles,818,0,0.00%
+277,91016,Standard,Monrovia,Los Angeles,626,"41,852",0.11%
+278,91017 ,P.O. Box,Monrovia,Los Angeles,626,0,0.00%
+279,91020,Standard,Montrose,Los Angeles,818 / 747,"8,439",0.02%
+280,91021 ,P.O. Box,Montrose,Los Angeles,818 / 747,0,0.00%
+281,91023 ,P.O. Box,Mount Wilson,Los Angeles,626,0,0.00%
+282,91024,Standard,Sierra Madre,Los Angeles,626,"11,268",0.03%
+283,91025 ,P.O. Box,Sierra Madre,Los Angeles,626,0,0.00%
+284,91030,Standard,South Pasadena,Los Angeles,323 / 626 / 738,"26,927",0.07%
+285,91031 ,P.O. Box,South Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+286,91040,Standard,Sunland,Los Angeles,818 / 747,"21,588",0.05%
+287,91041 ,P.O. Box,Sunland,Los Angeles,818 / 747,0,0.00%
+288,91042,Standard,Tujunga,Los Angeles,747 / 818,"28,036",0.07%
+289,91043 ,P.O. Box,Tujunga,Los Angeles,818 / 747,0,0.00%
+290,91046 ,P.O. Box,Verdugo City,Los Angeles,818 / 747,141,0.00%
+291,91066 ,P.O. Box,Arcadia,Los Angeles,626,0,0.00%
+292,91077 ,P.O. Box,Arcadia,Los Angeles,626,0,0.00%
+293,91101,Standard,Pasadena,Los Angeles,323 / 626 / 738,"20,583",0.05%
+294,91102 ,P.O. Box,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+295,91103,Standard,Pasadena,Los Angeles,323 / 626 / 738,"26,887",0.07%
+296,91104,Standard,Pasadena,Los Angeles,323 / 626 / 738,"34,707",0.09%
+297,91105,Standard,Pasadena,Los Angeles,323 / 626 / 738,"13,869",0.04%
+298,91106,Standard,Pasadena,Los Angeles,323 / 626 / 738,"24,172",0.06%
+299,91107,Standard,Pasadena,Los Angeles,323 / 626 / 738,"33,729",0.09%
+300,91108,Standard,San Marino,Los Angeles,626,"12,777",0.03%
+301,91109 ,P.O. Box,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+302,91110 ,Unique,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+303,91114 ,P.O. Box,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+304,91115 ,P.O. Box,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+305,91116 ,P.O. Box,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+306,91117 ,P.O. Box,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+307,91118 ,P.O. Box,San Marino,Los Angeles,323 / 626 / 738,0,0.00%
+308,91121 ,Unique,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+309,91123 ,Unique,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+310,91124 ,Unique,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+311,91125 ,Unique,Pasadena,Los Angeles,323 / 626 / 738,161,0.00%
+312,91126 ,Unique,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+313,91129 ,Unique,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+314,91182 ,Unique,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+315,91184 ,Unique,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+316,91185 ,Unique,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+317,91188 ,Unique,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+318,91189 ,Unique,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+319,91199 ,Unique,Pasadena,Los Angeles,323 / 626 / 738,0,0.00%
+320,91201,Standard,Glendale,Los Angeles,323 / 738 / 747 / 818,"22,608",0.06%
+321,91202,Standard,Glendale,Los Angeles,747 / 818,"22,875",0.06%
+322,91203,Standard,Glendale,Los Angeles,747 / 818,"16,930",0.04%
+323,91204,Standard,Glendale,Los Angeles,323 / 738 / 747 / 818,"17,302",0.04%
+324,91205,Standard,Glendale,Los Angeles,323 / 738 / 747 / 818,"36,693",0.09%
+325,91206,Standard,Glendale,Los Angeles,213 / 323 / 626 / 738,"33,252",0.08%
+326,91207,Standard,Glendale,Los Angeles,747 / 818,"10,369",0.03%
+327,91208,Standard,Glendale,Los Angeles,747 / 818,"16,776",0.04%
+328,91209 ,P.O. Box,Glendale,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+329,91210,Standard,Glendale,Los Angeles,323 / 738 / 747 / 818,555,0.00%
+330,91214,Standard,La Crescenta,Los Angeles,818 / 747,"31,097",0.08%
+331,91221 ,P.O. Box,Glendale,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+332,91222 ,P.O. Box,Glendale,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+333,91224 ,P.O. Box,La Crescenta,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+334,91225 ,P.O. Box,Glendale,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+335,91226 ,P.O. Box,Glendale,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+336,91301,Standard,Agoura Hills,Los Angeles,818 / 747,"24,790",0.06%
+337,91302,Standard,Calabasas,Los Angeles,424 / 310,"25,468",0.06%
+338,91303,Standard,Canoga Park,Los Angeles,818 / 747,"28,457",0.07%
+339,91304,Standard,Canoga Park,Los Angeles,818 / 747,"52,386",0.13%
+340,91305 ,P.O. Box,Canoga Park,Los Angeles,818 / 747,0,0.00%
+341,91306,Standard,Winnetka,Los Angeles,818 / 747,"46,669",0.12%
+342,91307,Standard,West Hills,Los Angeles,818,"24,855",0.06%
+343,91308 ,P.O. Box,West Hills,Los Angeles,818 / 747,0,0.00%
+344,91309 ,P.O. Box,Canoga Park,Los Angeles,818 / 747,0,0.00%
+345,91310 ,P.O. Box,Castaic,Los Angeles,661,0,0.00%
+346,91311,Standard,Chatsworth,Los Angeles,818 / 747,"39,014",0.10%
+347,91313 ,P.O. Box,Chatsworth,Los Angeles,818 / 747,0,0.00%
+348,91316,Standard,Encino,Los Angeles,818,"28,777",0.07%
+349,91319 ,P.O. Box,Newbury Park,Ventura,805 / 820,0,0.00%
+350,91320,Standard,Newbury Park,Ventura,805 / 820,"44,462",0.11%
+351,91321,Standard,Newhall,Los Angeles,661,"33,560",0.08%
+352,91322 ,P.O. Box,Newhall,Los Angeles,661,0,0.00%
+353,91324,Standard,Northridge,Los Angeles,818 / 747,"29,500",0.07%
+354,91325,Standard,Northridge,Los Angeles,818 / 747,"35,250",0.09%
+355,91326,Standard,Porter Ranch,Los Angeles,818 / 747,"38,041",0.10%
+356,91327 ,P.O. Box,Northridge,Los Angeles,818 / 747,0,0.00%
+357,91328 ,P.O. Box,Northridge,Los Angeles,818 / 747,0,0.00%
+358,91330 ,Unique,Northridge,Los Angeles,818 / 747,"2,273",0.01%
+359,91331,Standard,Pacoima,Los Angeles,818 / 747,"100,720",0.25%
+360,91333 ,P.O. Box,Pacoima,Los Angeles,818 / 747,0,0.00%
+361,91334 ,P.O. Box,Pacoima,Los Angeles,818 / 747,0,0.00%
+362,91335,Standard,Reseda,Los Angeles,818 / 747,"76,650",0.19%
+363,91337 ,P.O. Box,Reseda,Los Angeles,818 / 747,0,0.00%
+364,91340,Standard,San Fernando,Los Angeles,818 / 747,"34,610",0.09%
+365,91341 ,P.O. Box,San Fernando,Los Angeles,818 / 747,0,0.00%
+366,91342,Standard,Sylmar,Los Angeles,818 / 747,"96,429",0.24%
+367,91343,Standard,North Hills,Los Angeles,818 / 747,"62,595",0.16%
+368,91344,Standard,Granada Hills,Los Angeles,818 / 747,"52,481",0.13%
+369,91345,Standard,Mission Hills,Los Angeles,818 / 747,"18,895",0.05%
+370,91346 ,P.O. Box,Mission Hills,Los Angeles,818 / 747,0,0.00%
+371,91350,Standard,Santa Clarita,Los Angeles,661,"41,514",0.11%
+372,91351,Standard,Canyon Country,Los Angeles,661,"34,684",0.09%
+373,91352,Standard,Sun Valley,Los Angeles,213 / 310 / 323 / 626 / 738 / 747 / 818,"47,274",0.12%
+374,91353 ,P.O. Box,Sun Valley,Los Angeles,323 / 738 / 818,0,0.00%
+375,91354,Standard,Valencia,Los Angeles,661,"33,962",0.09%
+376,91355,Standard,Valencia,Los Angeles,661,"32,886",0.08%
+377,91356,Standard,Tarzana,Los Angeles,818,"30,664",0.08%
+378,91357 ,P.O. Box,Tarzana,Los Angeles,818,0,0.00%
+379,91358 ,P.O. Box,Thousand Oaks,Ventura,805 / 820,0,0.00%
+380,91359 ,P.O. Box,Westlake Village,Ventura,805 / 820,0,0.00%
+381,91360,Standard,Thousand Oaks,Ventura,805 / 820,"43,046",0.11%
+382,91361,Standard,Westlake Village,Ventura,805 / 818 / 820,"20,262",0.05%
+383,91362,Standard,Thousand Oaks,Ventura,805 / 820,"35,803",0.09%
+384,91364,Standard,Woodland Hills,Los Angeles,818,"27,071",0.07%
+385,91365 ,P.O. Box,Woodland Hills,Los Angeles,818,0,0.00%
+386,91367,Standard,Woodland Hills,Los Angeles,818,"46,498",0.12%
+387,91371 ,Unique,Woodland Hills,Los Angeles,818 / 747,14,0.00%
+388,91372 ,P.O. Box,Calabasas,Los Angeles,818,0,0.00%
+389,91376 ,P.O. Box,Agoura Hills,Los Angeles,818 / 747,0,0.00%
+390,91377,Standard,Oak Park,Ventura,818,"13,898",0.04%
+391,91380 ,P.O. Box,Santa Clarita,Los Angeles,661,0,0.00%
+392,91381,Standard,Stevenson Ranch,Los Angeles,661,"20,862",0.05%
+393,91382,Standard,Santa Clarita,Los Angeles,661,0,0.00%
+394,91383,Standard,Santa Clarita,Los Angeles,820,0,0.00%
+395,91384,Standard,Castaic,Los Angeles,661 / 805 / 820,"28,585",0.07%
+396,91385 ,P.O. Box,Valencia,Los Angeles,818 / 747,0,0.00%
+397,91386 ,P.O. Box,Canyon Country,Los Angeles,661,0,0.00%
+398,91387,Standard,Canyon Country,Los Angeles,661,"45,749",0.12%
+399,91390,Standard,Santa Clarita,Los Angeles,661,"20,128",0.05%
+400,91392 ,P.O. Box,Sylmar,Los Angeles,818 / 747,0,0.00%
+401,91393 ,P.O. Box,North Hills,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+402,91394 ,P.O. Box,Granada Hills,Los Angeles,818 / 747,0,0.00%
+403,91395 ,P.O. Box,Mission Hills,Los Angeles,818 / 747,0,0.00%
+404,91396 ,P.O. Box,Winnetka,Los Angeles,818 / 747,0,0.00%
+405,91401,Standard,Van Nuys,Los Angeles,323 / 738 / 818,"39,621",0.10%
+406,91402,Standard,Panorama City,Los Angeles,818,"70,140",0.18%
+407,91403,Standard,Sherman Oaks,Los Angeles,213 / 323 / 424 / 738 / 747 / 818,"25,329",0.06%
+408,91404 ,P.O. Box,Van Nuys,Los Angeles,213 / 323 / 424 / 738 / 747 / 818,0,0.00%
+409,91405,Standard,Van Nuys,Los Angeles,323 / 738 / 818,"55,319",0.14%
+410,91406,Standard,Van Nuys,Los Angeles,818,"53,252",0.13%
+411,91407 ,P.O. Box,Van Nuys,Los Angeles,213 / 323 / 424 / 738 / 747 / 818,0,0.00%
+412,91408 ,P.O. Box,Van Nuys,Los Angeles,213 / 323 / 424 / 738 / 747 / 818,0,0.00%
+413,91409 ,P.O. Box,Van Nuys,Los Angeles,213 / 323 / 424 / 738 / 747 / 818,0,0.00%
+414,91410 ,P.O. Box,Van Nuys,Los Angeles,213 / 323 / 424 / 738 / 747 / 818,0,0.00%
+415,91411,Standard,Van Nuys,Los Angeles,213 / 323 / 424 / 738 / 747 / 818,"24,984",0.06%
+416,91412 ,P.O. Box,Panorama City,Los Angeles,818,0,0.00%
+417,91413 ,P.O. Box,Sherman Oaks,Los Angeles,213 / 323 / 424 / 738 / 747 / 818,0,0.00%
+418,91416 ,P.O. Box,Encino,Los Angeles,818 / 747,0,0.00%
+419,91423,Standard,Sherman Oaks,Los Angeles,213 / 323 / 424 / 738 / 747 / 818,"32,635",0.08%
+420,91426 ,P.O. Box,Encino,Los Angeles,818 / 747,0,0.00%
+421,91436,Standard,Encino,Los Angeles,818 / 747,"15,189",0.04%
+422,91470 ,Unique,Van Nuys,Los Angeles,213 / 323 / 424 / 738 / 747 / 818,0,0.00%
+423,91482 ,Unique,Van Nuys,Los Angeles,213 / 323 / 424 / 738 / 747 / 818,0,0.00%
+424,91499 ,Unique,Van Nuys,Los Angeles,213 / 323 / 424 / 738 / 747 / 818,0,0.00%
+425,91501,Standard,Burbank,Los Angeles,323 / 738 / 747 / 818,"21,157",0.05%
+426,91502,Standard,Burbank,Los Angeles,323 / 738 / 747 / 818,"11,665",0.03%
+427,91503 ,P.O. Box,Burbank,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+428,91504,Standard,Burbank,Los Angeles,213 / 310 / 323 / 626 / 738 / 747 / 818,"26,678",0.07%
+429,91505,Standard,Burbank,Los Angeles,213 / 310 / 323 / 626 / 738 / 818,"32,371",0.08%
+430,91506,Standard,Burbank,Los Angeles,323 / 738 / 747 / 818,"19,338",0.05%
+431,91507 ,P.O. Box,Burbank,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+432,91508 ,P.O. Box,Burbank,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+433,91510 ,P.O. Box,Burbank,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+434,91521 ,Unique,Burbank,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+435,91522 ,Unique,Burbank,Los Angeles,213 / 310 / 323 / 738,0,0.00%
+436,91523 ,Unique,Burbank,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+437,91601,Standard,North Hollywood,Los Angeles,323 / 738 / 747 / 818,"39,429",0.10%
+438,91602,Standard,North Hollywood,Los Angeles,323 / 738 / 747 / 818,"19,647",0.05%
+439,91603 ,P.O. Box,North Hollywood,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+440,91604,Standard,Studio City,Los Angeles,747,"30,947",0.08%
+441,91605,Standard,North Hollywood,Los Angeles,323 / 738 / 818,"54,341",0.14%
+442,91606,Standard,North Hollywood,Los Angeles,323 / 738 / 747 / 818,"43,955",0.11%
+443,91607,Standard,Valley Village,Los Angeles,323 / 738 / 747 / 818,"30,502",0.08%
+444,91608,Standard,Universal City,Los Angeles,213 / 310 / 323 / 738,37,0.00%
+445,91609 ,P.O. Box,North Hollywood,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+446,91610 ,P.O. Box,Toluca Lake,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+447,91614 ,P.O. Box,Studio City,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+448,91615 ,P.O. Box,North Hollywood,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+449,91616 ,P.O. Box,North Hollywood,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+450,91617 ,P.O. Box,Valley Village,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+451,91618 ,P.O. Box,North Hollywood,Los Angeles,323 / 738 / 747 / 818,0,0.00%
+452,91701,Standard,Rancho Cucamonga,San Bernardino,909 / 840,"38,778",0.10%
+453,91702,Standard,Azusa,Los Angeles,626,"62,328",0.16%
+454,91706,Standard,Baldwin Park,Los Angeles,626,"73,313",0.19%
+455,91708,Standard,Chino,San Bernardino,909 / 840,"14,381",0.04%
+456,91709,Standard,Chino Hills,San Bernardino,909 / 840,"78,530",0.20%
+457,91710,Standard,Chino,San Bernardino,909 / 840,"82,576",0.21%
+458,91711,Standard,Claremont,Los Angeles,909 / 840,"38,122",0.10%
+459,91714 ,P.O. Box,City Of Industry,Los Angeles,323 / 626 / 738 / 818,0,0.00%
+460,91715 ,P.O. Box,City Of Industry,Los Angeles,323 / 626 / 738 / 818,0,0.00%
+461,91716 ,P.O. Box,City Of Industry,Los Angeles,323 / 626 / 738 / 818,0,0.00%
+462,91722,Standard,Covina,Los Angeles,626 / 840 / 562 / 909,"36,111",0.09%
+463,91723,Standard,Covina,Los Angeles,626 / 840 / 562 / 909,"19,653",0.05%
+464,91724,Standard,Covina,Los Angeles,626 / 840 / 562 / 909,"27,180",0.07%
+465,91729 ,P.O. Box,Rancho Cucamonga,San Bernardino,909 / 951 / 840,0,0.00%
+466,91730,Standard,Rancho Cucamonga,San Bernardino,909 / 951 / 840,"68,883",0.17%
+467,91731,Standard,El Monte,Los Angeles,323 / 626 / 738,"28,197",0.07%
+468,91732,Standard,El Monte,Los Angeles,323 / 626 / 738,"60,137",0.15%
+469,91733,Standard,South El Monte,Los Angeles,323 / 626 / 738,"41,990",0.11%
+470,91734 ,P.O. Box,El Monte,Los Angeles,323 / 626 / 738,0,0.00%
+471,91735 ,Unique,El Monte,Los Angeles,323 / 626 / 738,0,0.00%
+472,91737,Standard,Rancho Cucamonga,San Bernardino,840 / 909,"24,568",0.06%
+473,91739,Standard,Rancho Cucamonga,San Bernardino,909 / 840,"42,411",0.11%
+474,91740,Standard,Glendora,Los Angeles,626,"26,644",0.07%
+475,91741,Standard,Glendora,Los Angeles,626,"26,999",0.07%
+476,91743 ,P.O. Box,Guasti,San Bernardino,909 / 951 / 840,0,0.00%
+477,91744,Standard,La Puente,Los Angeles,626,"81,817",0.21%
+478,91745,Standard,Hacienda Heights,Los Angeles,626,"54,280",0.14%
+479,91746,Standard,La Puente,Los Angeles,626,"29,509",0.07%
+480,91747 ,P.O. Box,La Puente,Los Angeles,626,0,0.00%
+481,91748,Standard,Rowland Heights,Los Angeles,626,"44,737",0.11%
+482,91749 ,P.O. Box,La Puente,Los Angeles,626,0,0.00%
+483,91750,Standard,La Verne,Los Angeles,909 / 626 / 840,"33,376",0.08%
+484,91752,Standard,Mira Loma,Riverside,951,"38,610",0.10%
+485,91754,Standard,Monterey Park,Los Angeles,818,"33,300",0.08%
+486,91755,Standard,Monterey Park,Los Angeles,818,"27,637",0.07%
+487,91756 ,Unique,Monterey Park,Los Angeles,818,0,0.00%
+488,91758,Standard,Ontario,San Bernardino,909 / 951 / 840,0,0.00%
+489,91759 ,P.O. Box,Mt Baldy,San Bernardino,760,432,0.00%
+490,91761,Standard,Ontario,San Bernardino,909 / 951 / 840,"60,306",0.15%
+491,91762,Standard,Ontario,San Bernardino,909 / 840,"62,524",0.16%
+492,91763,Standard,Montclair,San Bernardino,909 / 951 / 840,"37,631",0.10%
+493,91764,Standard,Ontario,San Bernardino,909 / 951 / 840,"55,322",0.14%
+494,91765,Standard,Diamond Bar,Los Angeles,909 / 840,"46,449",0.12%
+495,91766,Standard,Pomona,Los Angeles,909 / 840 / 626,"70,701",0.18%
+496,91767,Standard,Pomona,Los Angeles,909 / 840 / 626,"51,654",0.13%
+497,91768,Standard,Pomona,Los Angeles,909 / 840 / 626,"35,568",0.09%
+498,91769 ,P.O. Box,Pomona,Los Angeles,909 / 840 / 626,0,0.00%
+499,91770,Standard,Rosemead,Los Angeles,626,"59,360",0.15%
+500,91771 ,Unique,Rosemead,Los Angeles,626,0,0.00%
+501,91772 ,Unique,Rosemead,Los Angeles,626,0,0.00%
+502,91773,Standard,San Dimas,Los Angeles,840 / 909,"34,592",0.09%
+503,91775,Standard,San Gabriel,Los Angeles,626,"24,252",0.06%
+504,91776,Standard,San Gabriel,Los Angeles,626,"38,031",0.10%
+505,91778 ,P.O. Box,San Gabriel,Los Angeles,626,0,0.00%
+506,91780,Standard,Temple City,Los Angeles,626,"35,751",0.09%
+507,91784,Standard,Upland,San Bernardino,909 / 840,"26,718",0.07%
+508,91785 ,P.O. Box,Upland,San Bernardino,840 / 909,0,0.00%
+509,91786,Standard,Upland,San Bernardino,909 / 840,"55,763",0.14%
+510,91788 ,P.O. Box,Walnut,Los Angeles,909 / 840,0,0.00%
+511,91789,Standard,Walnut,Los Angeles,909 / 840,"41,235",0.10%
+512,91790,Standard,West Covina,Los Angeles,626,"46,364",0.12%
+513,91791,Standard,West Covina,Los Angeles,626,"34,267",0.09%
+514,91792,Standard,West Covina,Los Angeles,626,"30,683",0.08%
+515,91793 ,P.O. Box,West Covina,Los Angeles,626,0,0.00%
+516,91801,Standard,Alhambra,Los Angeles,323 / 626 / 738 / 818,"53,669",0.14%
+517,91802 ,P.O. Box,Alhambra,Los Angeles,323 / 626 / 738 / 818,0,0.00%
+518,91803,Standard,Alhambra,Los Angeles,323 / 626 / 738 / 818,"29,374",0.07%
+519,91804,Standard,Alhambra,Los Angeles,323 / 626 / 738 / 818,0,0.00%
+520,91896 ,P.O. Box,Alhambra,Los Angeles,323 / 626 / 738 / 818,0,0.00%
+521,91899 ,P.O. Box,Alhambra,Los Angeles,323 / 626 / 738 / 818,0,0.00%
+522,91901,Standard,Alpine,San Diego,619 / 858,"17,688",0.04%
+523,91902,Standard,Bonita,San Diego,619,"17,902",0.05%
+524,91903 ,P.O. Box,Alpine,San Diego,619 / 858,0,0.00%
+525,91905,Standard,Boulevard,San Diego,619 / 760,"1,799",0.00%
+526,91906,Standard,Campo,San Diego,619 / 858,"3,904",0.01%
+527,91908 ,P.O. Box,Bonita,San Diego,619,0,0.00%
+528,91909 ,P.O. Box,Chula Vista,San Diego,619 / 858,0,0.00%
+529,91910,Standard,Chula Vista,San Diego,619 / 858,"79,613",0.20%
+530,91911,Standard,Chula Vista,San Diego,619 / 858,"85,442",0.22%
+531,91912 ,P.O. Box,Chula Vista,San Diego,619 / 858,0,0.00%
+532,91913,Standard,Chula Vista,San Diego,619 / 858,"55,923",0.14%
+533,91914,Standard,Chula Vista,San Diego,619,"17,522",0.04%
+534,91915,Standard,Chula Vista,San Diego,619,"33,218",0.08%
+535,91916,Standard,Descanso,San Diego,619 / 858,"1,720",0.00%
+536,91917,Standard,Dulzura,San Diego,619 / 858,"1,126",0.00%
+537,91921 ,P.O. Box,Chula Vista,San Diego,619 / 858,0,0.00%
+538,91931 ,P.O. Box,Guatay,San Diego,619 / 858,481,0.00%
+539,91932,Standard,Imperial Beach,San Diego,619,"26,013",0.07%
+540,91933 ,P.O. Box,Imperial Beach,San Diego,619,0,0.00%
+541,91934,Standard,Jacumba,San Diego,619 / 858,693,0.00%
+542,91935,Standard,Jamul,San Diego,619 / 858,"8,841",0.02%
+543,91941,Standard,La Mesa,San Diego,619 / 858,"33,895",0.09%
+544,91942,Standard,La Mesa,San Diego,619 / 858,"40,813",0.10%
+545,91943 ,P.O. Box,La Mesa,San Diego,619 / 858,0,0.00%
+546,91944 ,P.O. Box,La Mesa,San Diego,619 / 858,0,0.00%
+547,91945,Standard,Lemon Grove,San Diego,619 / 858,"27,814",0.07%
+548,91946 ,P.O. Box,Lemon Grove,San Diego,619 / 858,0,0.00%
+549,91948 ,P.O. Box,Mount Laguna,San Diego,619 / 858,87,0.00%
+550,91950,Standard,National City,San Diego,619,"57,849",0.15%
+551,91951 ,P.O. Box,National City,San Diego,619,0,0.00%
+552,91962,Standard,Pine Valley,San Diego,619 / 858,"1,860",0.00%
+553,91963,Standard,Potrero,San Diego,619 / 858,"1,101",0.00%
+554,91976 ,P.O. Box,Spring Valley,San Diego,619 / 858,0,0.00%
+555,91977,Standard,Spring Valley,San Diego,619 / 858,"60,795",0.15%
+556,91978,Standard,Spring Valley,San Diego,619,"9,949",0.03%
+557,91979 ,P.O. Box,Spring Valley,San Diego,619 / 858,0,0.00%
+558,91980,Standard,Tecate,San Diego,619 / 858,145,0.00%
+559,91987 ,Unique,Tecate,San Diego,619 / 858,0,0.00%
+560,92003,Standard,Bonsall,San Diego,760 / 442,"4,781",0.01%
+561,92004,Standard,Borrego Springs,San Diego,760 / 442,"3,414",0.01%
+562,92007,Standard,Cardiff By The Sea,San Diego,760,"10,981",0.03%
+563,92008,Standard,Carlsbad,San Diego,760,"27,282",0.07%
+564,92009,Standard,Carlsbad,San Diego,760 / 442,"44,816",0.11%
+565,92010,Standard,Carlsbad,San Diego,442 / 760,"18,887",0.05%
+566,92011,Standard,Carlsbad,San Diego,442 / 760,"23,757",0.06%
+567,92013 ,P.O. Box,Carlsbad,San Diego,760 / 442,0,0.00%
+568,92014,Standard,Del Mar,San Diego,858,"13,203",0.03%
+569,92018 ,P.O. Box,Carlsbad,San Diego,760,0,0.00%
+570,92019,Standard,El Cajon,San Diego,619 / 858,"45,108",0.11%
+571,92020,Standard,El Cajon,San Diego,619 / 858,"60,454",0.15%
+572,92021,Standard,El Cajon,San Diego,619 / 858,"70,584",0.18%
+573,92022 ,P.O. Box,El Cajon,San Diego,619 / 858,0,0.00%
+574,92023 ,P.O. Box,Encinitas,San Diego,760,0,0.00%
+575,92024,Standard,Encinitas,San Diego,760 / 442,"51,190",0.13%
+576,92025,Standard,Escondido,San Diego,760 / 442,"51,586",0.13%
+577,92026,Standard,Escondido,San Diego,760 / 442,"52,797",0.13%
+578,92027,Standard,Escondido,San Diego,760 / 442,"56,840",0.14%
+579,92028,Standard,Fallbrook,San Diego,760 / 442,"51,614",0.13%
+580,92029,Standard,Escondido,San Diego,760 / 442,"21,236",0.05%
+581,92030 ,P.O. Box,Escondido,San Diego,760 / 442,0,0.00%
+582,92033 ,P.O. Box,Escondido,San Diego,760 / 442,0,0.00%
+583,92036,Standard,Julian,San Diego,760,"3,735",0.01%
+584,92037,Standard,La Jolla,San Diego,858 / 619,"41,260",0.10%
+585,92038 ,P.O. Box,La Jolla,San Diego,858 / 619,0,0.00%
+586,92039 ,P.O. Box,La Jolla,San Diego,858 / 619,0,0.00%
+587,92040,Standard,Lakeside,San Diego,619 / 858,"43,640",0.11%
+588,92046 ,P.O. Box,Escondido,San Diego,760 / 442,0,0.00%
+589,92049 ,P.O. Box,Oceanside,San Diego,760 / 442,0,0.00%
+590,92051 ,P.O. Box,Oceanside,San Diego,760 / 442,0,0.00%
+591,92052 ,P.O. Box,Oceanside,San Diego,760 / 442,0,0.00%
+592,92054,Standard,Oceanside,San Diego,760 / 442,"38,667",0.10%
+593,92055 ,P.O. Box,Camp Pendleton,San Diego,760,"9,684",0.02%
+594,92056,Standard,Oceanside,San Diego,760 / 442,"53,750",0.14%
+595,92057,Standard,Oceanside,San Diego,760 / 442,"57,844",0.15%
+596,92058,Standard,Oceanside,San Diego,442 / 760,"45,389",0.11%
+597,92059,Standard,Pala,San Diego,442 / 760,"1,872",0.00%
+598,92060 ,P.O. Box,Palomar Mountain,San Diego,442 / 760,288,0.00%
+599,92061,Standard,Pauma Valley,San Diego,442 / 760,"2,246",0.01%
+600,92064,Standard,Poway,San Diego,858,"48,884",0.12%
+601,92065,Standard,Ramona,San Diego,760 / 442,"37,047",0.09%
+602,92066,Standard,Ranchita,San Diego,760 / 442,330,0.00%
+603,92067 ,P.O. Box,Rancho Santa Fe,San Diego,858 / 619,"9,344",0.02%
+604,92068 ,P.O. Box,San Luis Rey,San Diego,760 / 442,0,0.00%
+605,92069,Standard,San Marcos,San Diego,760 / 442,"49,407",0.12%
+606,92070,Standard,Santa Ysabel,San Diego,760 / 442,"1,093",0.00%
+607,92071,Standard,Santee,San Diego,619,"60,163",0.15%
+608,92072 ,P.O. Box,Santee,San Diego,619 / 858,0,0.00%
+609,92074 ,P.O. Box,Poway,San Diego,858,0,0.00%
+610,92075,Standard,Solana Beach,San Diego,858,"12,051",0.03%
+611,92078,Standard,San Marcos,San Diego,760 / 442,"52,347",0.13%
+612,92079 ,P.O. Box,San Marcos,San Diego,760 / 442,0,0.00%
+613,92081,Standard,Vista,San Diego,442 / 760,"28,745",0.07%
+614,92082,Standard,Valley Center,San Diego,760 / 442,"20,860",0.05%
+615,92083,Standard,Vista,San Diego,760 / 442,"39,219",0.10%
+616,92084,Standard,Vista,San Diego,760 / 442,"49,941",0.13%
+617,92085 ,P.O. Box,Vista,San Diego,760 / 442,0,0.00%
+618,92086,Standard,Warner Springs,San Diego,760 / 442,"1,490",0.00%
+619,92088 ,P.O. Box,Fallbrook,San Diego,760 / 442,0,0.00%
+620,92091,Standard,Rancho Santa Fe,San Diego,858 / 619,"1,571",0.00%
+621,92092 ,Unique,La Jolla,San Diego,858,"5,251",0.01%
+622,92093 ,Unique,La Jolla,San Diego,858,"5,076",0.01%
+623,92096 ,Unique,San Marcos,San Diego,760 / 442,35,0.00%
+624,92101,Standard,San Diego,San Diego,619 / 858,"47,505",0.12%
+625,92102,Standard,San Diego,San Diego,619 / 858,"39,783",0.10%
+626,92103,Standard,San Diego,San Diego,619 / 858 / 760,"33,311",0.08%
+627,92104,Standard,San Diego,San Diego,619 / 858 / 760,"44,265",0.11%
+628,92105,Standard,San Diego,San Diego,619 / 858,"66,579",0.17%
+629,92106,Standard,San Diego,San Diego,619,"20,214",0.05%
+630,92107,Standard,San Diego,San Diego,619,"28,684",0.07%
+631,92108,Standard,San Diego,San Diego,858 / 619,"24,266",0.06%
+632,92109,Standard,San Diego,San Diego,619,"44,671",0.11%
+633,92110,Standard,San Diego,San Diego,619,"31,048",0.08%
+634,92111,Standard,San Diego,San Diego,858 / 619,"46,686",0.12%
+635,92112 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+636,92113,Standard,San Diego,San Diego,619,"50,457",0.13%
+637,92114,Standard,San Diego,San Diego,619 / 858,"66,248",0.17%
+638,92115,Standard,San Diego,San Diego,619,"64,251",0.16%
+639,92116,Standard,San Diego,San Diego,619 / 858,"31,523",0.08%
+640,92117,Standard,San Diego,San Diego,858 / 619,"51,505",0.13%
+641,92118,Standard,Coronado,San Diego,619 / 858,"20,629",0.05%
+642,92119,Standard,San Diego,San Diego,619,"24,298",0.06%
+643,92120,Standard,San Diego,San Diego,619,"30,768",0.08%
+644,92121,Standard,San Diego,San Diego,858 / 619 / 760 / 442,"4,658",0.01%
+645,92122,Standard,San Diego,San Diego,858 / 619 / 760 / 442,"45,646",0.12%
+646,92123,Standard,San Diego,San Diego,858 / 619,"30,937",0.08%
+647,92124,Standard,San Diego,San Diego,619 / 858,"30,530",0.08%
+648,92126,Standard,San Diego,San Diego,858 / 619 / 760 / 442,"74,788",0.19%
+649,92127,Standard,San Diego,San Diego,858,"52,274",0.13%
+650,92128,Standard,San Diego,San Diego,858 / 619,"49,083",0.12%
+651,92129,Standard,San Diego,San Diego,858 / 619,"52,415",0.13%
+652,92130,Standard,San Diego,San Diego,858,"61,595",0.16%
+653,92131,Standard,San Diego,San Diego,858 / 619,"36,394",0.09%
+654,92132 ,Unique,San Diego,San Diego,619 / 858,0,0.00%
+655,92134 ,Unique,San Diego,San Diego,619 / 858,396,0.00%
+656,92135 ,P.O. Box,San Diego,San Diego,619 / 858,"1,610",0.00%
+657,92136 ,Unique,San Diego,San Diego,619,"7,014",0.02%
+658,92137 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+659,92138 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+660,92139,Standard,San Diego,San Diego,619,"35,771",0.09%
+661,92140 ,Unique,San Diego,San Diego,619 / 858 / 760,"2,183",0.01%
+662,92142 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+663,92143 ,P.O. Box,San Ysidro,San Diego,619 / 858,0,0.00%
+664,92145 ,Unique,San Diego,San Diego,858 / 619 / 760,"6,057",0.02%
+665,92147 ,Unique,San Diego,San Diego,619,256,0.00%
+666,92149 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+667,92150 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+668,92152 ,Unique,San Diego,San Diego,619,0,0.00%
+669,92153 ,P.O. Box,San Diego,San Diego,619,0,0.00%
+670,92154,Standard,San Diego,San Diego,619,"84,027",0.21%
+671,92155 ,Unique,San Diego,San Diego,619 / 858,210,0.00%
+672,92158 ,Unique,San Diego,San Diego,619,0,0.00%
+673,92159 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+674,92160 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+675,92161 ,Unique,San Diego,San Diego,858 / 619,66,0.00%
+676,92163 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+677,92165 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+678,92166 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+679,92167 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+680,92168 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+681,92169 ,P.O. Box,San Diego,San Diego,619,0,0.00%
+682,92170 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+683,92171 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+684,92172 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+685,92173,Standard,San Ysidro,San Diego,619,"29,703",0.08%
+686,92174 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+687,92175 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+688,92176 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+689,92177 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+690,92178 ,P.O. Box,Coronado,San Diego,619 / 858,0,0.00%
+691,92179 ,P.O. Box,San Diego,San Diego,619 / 858,"3,824",0.01%
+692,92182 ,Unique,San Diego,San Diego,619,27,0.00%
+693,92186 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+694,92187 ,Unique,San Diego,San Diego,619 / 858,0,0.00%
+695,92191 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+696,92192 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+697,92193 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+698,92195 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+699,92196 ,P.O. Box,San Diego,San Diego,619 / 858,0,0.00%
+700,92197 ,P.O. Box,San Diego,San Diego,619,0,0.00%
+701,92198 ,P.O. Box,San Diego,San Diego,858 / 619,0,0.00%
+702,92199,Standard,San Diego,San Diego,619 / 858,0,0.00%
+703,92201,Standard,Indio,Riverside,760 / 442,"66,989",0.17%
+704,92202 ,P.O. Box,Indio,Riverside,760 / 442,0,0.00%
+705,92203,Standard,Indio,Riverside,760 / 442,"31,366",0.08%
+706,92210,Standard,Indian Wells,Riverside,760 / 442,"4,757",0.01%
+707,92211,Standard,Palm Desert,Riverside,760 / 442,"26,403",0.07%
+708,92220,Standard,Banning,Riverside,951,"32,947",0.08%
+709,92222 ,P.O. Box,Bard,Imperial,442 / 760,64,0.00%
+710,92223,Standard,Beaumont,Riverside,840 / 909,"59,924",0.15%
+711,92225,Standard,Blythe,Riverside,760 / 442,"21,104",0.05%
+712,92226 ,P.O. Box,Blythe,Riverside,760 / 442,0,0.00%
+713,92227,Standard,Brawley,Imperial,442 / 760,"27,492",0.07%
+714,92230,Standard,Cabazon,Riverside,951,"2,650",0.01%
+715,92231,Standard,Calexico,Imperial,442 / 760,"39,542",0.10%
+716,92232 ,P.O. Box,Calexico,Imperial,442 / 760,0,0.00%
+717,92233,Standard,Calipatria,Imperial,760 / 442,"7,019",0.02%
+718,92234,Standard,Cathedral City,Riverside,760,"51,509",0.13%
+719,92235 ,P.O. Box,Cathedral City,Riverside,760,0,0.00%
+720,92236,Standard,Coachella,Riverside,760,"42,220",0.11%
+721,92239 ,P.O. Box,Desert Center,Riverside,760 / 442,292,0.00%
+722,92240,Standard,Desert Hot Springs,Riverside,760 / 442,"40,920",0.10%
+723,92241,Standard,Desert Hot Springs,Riverside,760 / 442,"9,270",0.02%
+724,92242,Standard,Earp,San Bernardino,760 / 442,"1,231",0.00%
+725,92243,Standard,El Centro,Imperial,760 / 442,"49,149",0.12%
+726,92244 ,P.O. Box,El Centro,Imperial,760 / 442,0,0.00%
+727,92247 ,P.O. Box,La Quinta,Riverside,760,0,0.00%
+728,92248 ,P.O. Box,La Quinta,Riverside,760,0,0.00%
+729,92249,Standard,Heber,Imperial,442 / 760,"6,975",0.02%
+730,92250,Standard,Holtville,Imperial,760 / 442,"7,883",0.02%
+731,92251,Standard,Imperial,Imperial,760 / 442,"25,851",0.07%
+732,92252,Standard,Joshua Tree,San Bernardino,442 / 760,"8,463",0.02%
+733,92253,Standard,La Quinta,Riverside,760,"37,422",0.09%
+734,92254,Standard,Mecca,Riverside,760 / 442,"12,414",0.03%
+735,92255 ,P.O. Box,Palm Desert,Riverside,760 / 442,0,0.00%
+736,92256,Standard,Morongo Valley,San Bernardino,442 / 760,"3,517",0.01%
+737,92257,Standard,Niland,Imperial,760 / 442,"1,676",0.00%
+738,92258 ,P.O. Box,North Palm Springs,Riverside,760 / 442 / 951,"1,236",0.00%
+739,92259 ,P.O. Box,Ocotillo,Imperial,760 / 442,328,0.00%
+740,92260,Standard,Palm Desert,Riverside,760 / 442,"31,641",0.08%
+741,92261 ,P.O. Box,Palm Desert,Riverside,760 / 442,0,0.00%
+742,92262,Standard,Palm Springs,Riverside,760 / 442 / 951,"26,593",0.07%
+743,92263 ,P.O. Box,Palm Springs,Riverside,760 / 442 / 951,0,0.00%
+744,92264,Standard,Palm Springs,Riverside,760 / 442 / 951,"19,254",0.05%
+745,92266 ,P.O. Box,Palo Verde,Imperial,442 / 760,198,0.00%
+746,92267 ,P.O. Box,Parker Dam,San Bernardino,760,86,0.00%
+747,92268 ,P.O. Box,Pioneertown,San Bernardino,442 / 760,489,0.00%
+748,92270,Standard,Rancho Mirage,Riverside,760,"16,999",0.04%
+749,92273 ,P.O. Box,Seeley,Imperial,760 / 442,"1,694",0.00%
+750,92274,Standard,Thermal,Riverside,760 / 442,"19,251",0.05%
+751,92275 ,P.O. Box,Salton City,Imperial,760 / 442,"1,390",0.00%
+752,92276,Standard,Thousand Palms,Riverside,760,"7,953",0.02%
+753,92277,Standard,Twentynine Palms,San Bernardino,760 / 442,"23,988",0.06%
+754,92278 ,P.O. Box,Twentynine Palms,San Bernardino,760 / 442,"6,371",0.02%
+755,92280,Standard,Vidal,San Bernardino,442,26,0.00%
+756,92281 ,P.O. Box,Westmorland,Imperial,760 / 442,"2,122",0.01%
+757,92282,Standard,Whitewater,Riverside,442,"1,350",0.00%
+758,92283,Standard,Winterhaven,Imperial,442 / 760,"2,695",0.01%
+759,92284,Standard,Yucca Valley,San Bernardino,760 / 442,"25,931",0.07%
+760,92285,Standard,Landers,San Bernardino,760 / 442,"2,769",0.01%
+761,92286 ,P.O. Box,Yucca Valley,San Bernardino,760 / 442,0,0.00%
+762,92301,Standard,Adelanto,San Bernardino,760 / 442,"38,912",0.10%
+763,92304 ,P.O. Box,Amboy,San Bernardino,442,17,0.00%
+764,92305,Standard,Angelus Oaks,San Bernardino,840 / 909,581,0.00%
+765,92307,Standard,Apple Valley,San Bernardino,760 / 442,"41,649",0.11%
+766,92308,Standard,Apple Valley,San Bernardino,760 / 442,"42,469",0.11%
+767,92309,Standard,Baker,San Bernardino,760 / 442,452,0.00%
+768,92310,Standard,Fort Irwin,San Bernardino,760 / 442,"8,102",0.02%
+769,92311,Standard,Barstow,San Bernardino,760 / 442,"34,524",0.09%
+770,92312 ,P.O. Box,Barstow,San Bernardino,760 / 442,0,0.00%
+771,92313,Standard,Grand Terrace,San Bernardino,840 / 909 / 951,"13,150",0.03%
+772,92314,Standard,Big Bear City,San Bernardino,909 / 442 / 840,"10,411",0.03%
+773,92315,Standard,Big Bear Lake,San Bernardino,840 / 909,"5,148",0.01%
+774,92316,Standard,Bloomington,San Bernardino,909 / 840,"31,463",0.08%
+775,92317 ,P.O. Box,Blue Jay,San Bernardino,909 / 840,"1,089",0.00%
+776,92318,Standard,Bryn Mawr,San Bernardino,909 / 840 / 951,0,0.00%
+777,92320,Standard,Calimesa,Riverside,909 / 840,"10,036",0.03%
+778,92321 ,P.O. Box,Cedar Glen,San Bernardino,909 / 840,"1,310",0.00%
+779,92322 ,P.O. Box,Cedarpines Park,San Bernardino,909 / 442 / 760 / 840,"1,441",0.00%
+780,92323,Standard,Cima,San Bernardino,442 / 760,0,0.00%
+781,92324,Standard,Colton,San Bernardino,909 / 840 / 951,"58,626",0.15%
+782,92325 ,P.O. Box,Crestline,San Bernardino,909 / 840,"9,892",0.03%
+783,92327,Standard,Daggett,San Bernardino,760 / 442,484,0.00%
+784,92328,Standard,Death Valley,Inyo,760 / 442,640,0.00%
+785,92329 ,P.O. Box,Phelan,San Bernardino,760 / 442,0,0.00%
+786,92331 ,P.O. Box,Fontana,San Bernardino,909 / 840,0,0.00%
+787,92332,Standard,Essex,San Bernardino,760 / 442,97,0.00%
+788,92333 ,P.O. Box,Fawnskin,San Bernardino,840 / 909,510,0.00%
+789,92334 ,P.O. Box,Fontana,San Bernardino,909 / 840,0,0.00%
+790,92335,Standard,Fontana,San Bernardino,909 / 840,"96,605",0.24%
+791,92336,Standard,Fontana,San Bernardino,909 / 840,"100,594",0.25%
+792,92337,Standard,Fontana,San Bernardino,909 / 840,"36,394",0.09%
+793,92338,Standard,Ludlow,San Bernardino,442,0,0.00%
+794,92339,Standard,Forest Falls,San Bernardino,840 / 909,"1,053",0.00%
+795,92340 ,P.O. Box,Hesperia,San Bernardino,760 / 442,0,0.00%
+796,92341 ,P.O. Box,Green Valley Lake,San Bernardino,840 / 909,458,0.00%
+797,92342,Standard,Helendale,San Bernardino,760,"6,955",0.02%
+798,92344,Standard,Hesperia,San Bernardino,442 / 760,"23,166",0.06%
+799,92345,Standard,Hesperia,San Bernardino,760 / 442,"86,499",0.22%
+800,92346,Standard,Highland,San Bernardino,909 / 840,"57,812",0.15%
+801,92347,Standard,Hinkley,San Bernardino,442 / 760,888,0.00%
+802,92350 ,Unique,Loma Linda,San Bernardino,909 / 840 / 951,258,0.00%
+803,92352 ,P.O. Box,Lake Arrowhead,San Bernardino,909 / 840,"7,038",0.02%
+804,92354,Standard,Loma Linda,San Bernardino,909 / 840 / 951,"22,626",0.06%
+805,92356,Standard,Lucerne Valley,San Bernardino,760 / 442,"6,050",0.02%
+806,92357 ,Unique,Loma Linda,San Bernardino,909 / 840 / 951,0,0.00%
+807,92358,Standard,Lytle Creek,San Bernardino,760,834,0.00%
+808,92359,Standard,Mentone,San Bernardino,909 / 840,"8,900",0.02%
+809,92363,Standard,Needles,San Bernardino,760 / 442,"5,634",0.01%
+810,92364,Standard,Nipton,San Bernardino,760 / 442,40,0.00%
+811,92365,Standard,Newberry Springs,San Bernardino,760 / 442,"2,214",0.01%
+812,92366,Standard,Mountain Pass,San Bernardino,442 / 760,0,0.00%
+813,92368,Standard,Oro Grande,San Bernardino,760 / 442,858,0.00%
+814,92369 ,P.O. Box,Patton,San Bernardino,909 / 840,"1,481",0.00%
+815,92371,Standard,Phelan,San Bernardino,760 / 442,"16,345",0.04%
+816,92372,Standard,Pinon Hills,San Bernardino,760 / 661 / 442,"5,594",0.01%
+817,92373,Standard,Redlands,San Bernardino,909 / 840,"35,348",0.09%
+818,92374,Standard,Redlands,San Bernardino,909 / 840,"43,587",0.11%
+819,92375 ,P.O. Box,Redlands,San Bernardino,909 / 840,0,0.00%
+820,92376,Standard,Rialto,San Bernardino,909 / 840,"84,548",0.21%
+821,92377,Standard,Rialto,San Bernardino,909 / 840,"20,734",0.05%
+822,92378 ,P.O. Box,Rimforest,San Bernardino,909 / 840,677,0.00%
+823,92382 ,P.O. Box,Running Springs,San Bernardino,909 / 840,"5,721",0.01%
+824,92384 ,P.O. Box,Shoshone,Inyo,760 / 442,24,0.00%
+825,92385 ,P.O. Box,Skyforest,San Bernardino,909 / 840,221,0.00%
+826,92386 ,P.O. Box,Sugarloaf,San Bernardino,909 / 442 / 840,"2,477",0.01%
+827,92389 ,P.O. Box,Tecopa,Inyo,760 / 442,123,0.00%
+828,92391 ,P.O. Box,Twin Peaks,San Bernardino,909 / 840,"2,239",0.01%
+829,92392,Standard,Victorville,San Bernardino,760 / 442,"62,294",0.16%
+830,92393 ,P.O. Box,Victorville,San Bernardino,442 / 760 / 840 / 909,0,0.00%
+831,92394,Standard,Victorville,San Bernardino,760 / 442,"41,057",0.10%
+832,92395,Standard,Victorville,San Bernardino,442 / 760 / 840 / 909,"47,556",0.12%
+833,92397,Standard,Wrightwood,San Bernardino,760 / 442,"5,485",0.01%
+834,92398 ,P.O. Box,Yermo,San Bernardino,760 / 442,"1,234",0.00%
+835,92399,Standard,Yucaipa,San Bernardino,840 / 909,"55,794",0.14%
+836,92401,Standard,San Bernardino,San Bernardino,909 / 840 / 951,"2,016",0.01%
+837,92402 ,P.O. Box,San Bernardino,San Bernardino,909 / 840 / 951,0,0.00%
+838,92403,Standard,San Bernardino,San Bernardino,909 / 840 / 951,0,0.00%
+839,92404,Standard,San Bernardino,San Bernardino,909 / 840,"64,270",0.16%
+840,92405,Standard,San Bernardino,San Bernardino,909 / 840,"32,165",0.08%
+841,92406 ,P.O. Box,San Bernardino,San Bernardino,909 / 840 / 951,0,0.00%
+842,92407,Standard,San Bernardino,San Bernardino,909 / 442 / 760 / 840,"67,814",0.17%
+843,92408,Standard,San Bernardino,San Bernardino,840 / 909,"13,488",0.03%
+844,92410,Standard,San Bernardino,San Bernardino,909 / 840 / 951,"51,651",0.13%
+845,92411,Standard,San Bernardino,San Bernardino,909 / 840,"27,014",0.07%
+846,92413 ,P.O. Box,San Bernardino,San Bernardino,909 / 840 / 951,0,0.00%
+847,92415 ,Unique,San Bernardino,San Bernardino,909 / 840 / 951,2,0.00%
+848,92418 ,Unique,San Bernardino,San Bernardino,909 / 840 / 951,0,0.00%
+849,92423 ,P.O. Box,San Bernardino,San Bernardino,909 / 840 / 951,0,0.00%
+850,92427 ,P.O. Box,San Bernardino,San Bernardino,909 / 840 / 951,0,0.00%
+851,92501,Standard,Riverside,Riverside,840 / 909 / 951,"22,017",0.06%
+852,92502 ,P.O. Box,Riverside,Riverside,840 / 909 / 951,0,0.00%
+853,92503,Standard,Riverside,Riverside,951,"90,011",0.23%
+854,92504,Standard,Riverside,Riverside,840 / 909 / 951,"54,642",0.14%
+855,92505,Standard,Riverside,Riverside,951,"50,919",0.13%
+856,92506,Standard,Riverside,Riverside,840 / 909 / 951,"45,185",0.11%
+857,92507,Standard,Riverside,Riverside,840 / 909 / 951,"63,191",0.16%
+858,92508,Standard,Riverside,Riverside,840 / 909,"35,415",0.09%
+859,92509,Standard,Jurupa Valley,Riverside,951,"78,166",0.20%
+860,92513 ,P.O. Box,Riverside,Riverside,840 / 909 / 951,0,0.00%
+861,92514 ,P.O. Box,Riverside,Riverside,840 / 909 / 951,0,0.00%
+862,92516 ,P.O. Box,Riverside,Riverside,840 / 909 / 951,0,0.00%
+863,92517 ,P.O. Box,Riverside,Riverside,840 / 909 / 951,0,0.00%
+864,92518,Standard,March Air Reserve Base,Riverside,951,806,0.00%
+865,92519 ,P.O. Box,Riverside,Riverside,840 / 909 / 951,0,0.00%
+866,92521 ,Unique,Riverside,Riverside,840 / 909 / 951,40,0.00%
+867,92522 ,Unique,Riverside,Riverside,840 / 909 / 951,0,0.00%
+868,92530,Standard,Lake Elsinore,Riverside,951,"59,098",0.15%
+869,92531 ,P.O. Box,Lake Elsinore,Riverside,951,0,0.00%
+870,92532,Standard,Lake Elsinore,Riverside,951,"27,560",0.07%
+871,92536,Standard,Aguanga,Riverside,951,"3,737",0.01%
+872,92539,Standard,Anza,Riverside,951,"4,966",0.01%
+873,92543,Standard,Hemet,Riverside,840 / 909 / 951,"39,323",0.10%
+874,92544,Standard,Hemet,Riverside,840 / 909 / 951,"50,007",0.13%
+875,92545,Standard,Hemet,Riverside,840 / 909 / 951,"44,072",0.11%
+876,92546 ,P.O. Box,Hemet,Riverside,840 / 909 / 951,0,0.00%
+877,92548,Standard,Homeland,Riverside,951,"7,408",0.02%
+878,92549 ,P.O. Box,Idyllwild,Riverside,951,"4,234",0.01%
+879,92551,Standard,Moreno Valley,Riverside,951,"34,294",0.09%
+880,92552 ,P.O. Box,Moreno Valley,Riverside,951,0,0.00%
+881,92553,Standard,Moreno Valley,Riverside,951,"76,761",0.19%
+882,92554 ,P.O. Box,Moreno Valley,Riverside,951,0,0.00%
+883,92555,Standard,Moreno Valley,Riverside,951,"43,580",0.11%
+884,92556 ,P.O. Box,Moreno Valley,Riverside,909 / 840,0,0.00%
+885,92557,Standard,Moreno Valley,Riverside,951,"54,549",0.14%
+886,92561,Standard,Mountain Center,Riverside,442 / 760,"1,648",0.00%
+887,92562,Standard,Murrieta,Riverside,951,"64,270",0.16%
+888,92563,Standard,Murrieta,Riverside,951,"73,224",0.19%
+889,92564 ,P.O. Box,Murrieta,Riverside,951,0,0.00%
+890,92567,Standard,Nuevo,Riverside,951,"9,729",0.02%
+891,92570,Standard,Perris,Riverside,951,"59,015",0.15%
+892,92571,Standard,Perris,Riverside,951,"59,450",0.15%
+893,92572 ,P.O. Box,Perris,Riverside,951,0,0.00%
+894,92581 ,P.O. Box,San Jacinto,Riverside,840 / 909 / 951,0,0.00%
+895,92582,Standard,San Jacinto,Riverside,951,"21,161",0.05%
+896,92583,Standard,San Jacinto,Riverside,840 / 909 / 951,"34,674",0.09%
+897,92584,Standard,Menifee,Riverside,951,"55,517",0.14%
+898,92585,Standard,Menifee,Riverside,951,"24,887",0.06%
+899,92586,Standard,Menifee,Riverside,951,"22,188",0.06%
+900,92587,Standard,Menifee,Riverside,951,"17,529",0.04%
+901,92589 ,P.O. Box,Temecula,Riverside,840 / 909 / 951,0,0.00%
+902,92590,Standard,Temecula,Riverside,840 / 909 / 951,"4,840",0.01%
+903,92591,Standard,Temecula,Riverside,840 / 909 / 951,"42,021",0.11%
+904,92592,Standard,Temecula,Riverside,840 / 909 / 951,"79,740",0.20%
+905,92593 ,P.O. Box,Temecula,Riverside,840 / 909 / 951,0,0.00%
+906,92595,Standard,Wildomar,Riverside,951,"34,405",0.09%
+907,92596,Standard,Winchester,Riverside,951,"31,081",0.08%
+908,92599 ,Unique,Perris,Riverside,951,0,0.00%
+909,92602,Standard,Irvine,Orange,949,"29,581",0.07%
+910,92603,Standard,Irvine,Orange,949 / 714 / 657,"20,137",0.05%
+911,92604,Standard,Irvine,Orange,949,"27,151",0.07%
+912,92605 ,P.O. Box,Huntington Beach,Orange,657 / 714 / 562,0,0.00%
+913,92606,Standard,Irvine,Orange,949 / 714,"23,383",0.06%
+914,92607 ,P.O. Box,Laguna Niguel,Orange,949 / 714,0,0.00%
+915,92609 ,P.O. Box,El Toro,Orange,949 / 714,0,0.00%
+916,92610,Standard,Foothill Ranch,Orange,949,"12,545",0.03%
+917,92612,Standard,Irvine,Orange,949 / 714,"31,822",0.08%
+918,92614,Standard,Irvine,Orange,949 / 714,"28,456",0.07%
+919,92615 ,P.O. Box,Huntington Beach,Orange,657 / 714 / 562,0,0.00%
+920,92616 ,P.O. Box,Irvine,Orange,949 / 714,0,0.00%
+921,92617,Standard,Irvine,Orange,949 / 714,"25,232",0.06%
+922,92618,Standard,Irvine,Orange,949 / 657,"57,488",0.15%
+923,92619 ,P.O. Box,Irvine,Orange,949 / 714,0,0.00%
+924,92620,Standard,Irvine,Orange,949 / 657,"64,424",0.16%
+925,92623 ,P.O. Box,Irvine,Orange,949 / 714,0,0.00%
+926,92624,Standard,Capistrano Beach,Orange,949 / 714,"7,170",0.02%
+927,92625,Standard,Corona Del Mar,Orange,949,"12,017",0.03%
+928,92626,Standard,Costa Mesa,Orange,714 / 657 / 949 / 562,"50,885",0.13%
+929,92627,Standard,Costa Mesa,Orange,949,"61,764",0.16%
+930,92628 ,P.O. Box,Costa Mesa,Orange,949,0,0.00%
+931,92629,Standard,Dana Point,Orange,949 / 714,"25,939",0.07%
+932,92630,Standard,Lake Forest,Orange,949 / 714,"66,359",0.17%
+933,92637,Standard,Laguna Woods,Orange,949 / 714,"17,644",0.04%
+934,92646,Standard,Huntington Beach,Orange,657 / 714,"56,788",0.14%
+935,92647,Standard,Huntington Beach,Orange,657 / 714 / 562,"60,455",0.15%
+936,92648,Standard,Huntington Beach,Orange,657 / 714 / 562,"46,691",0.12%
+937,92649,Standard,Huntington Beach,Orange,714 / 562,"34,082",0.09%
+938,92650 ,P.O. Box,East Irvine,Orange,949 / 657,0,0.00%
+939,92651,Standard,Laguna Beach,Orange,949 / 714,"24,096",0.06%
+940,92652 ,P.O. Box,Laguna Beach,Orange,949 / 714,0,0.00%
+941,92653,Standard,Laguna Hills,Orange,949 / 714,"30,077",0.08%
+942,92654 ,P.O. Box,Laguna Hills,Orange,949 / 714,0,0.00%
+943,92655,Standard,Midway City,Orange,714,"8,878",0.02%
+944,92656,Standard,Aliso Viejo,Orange,949 / 714,"53,473",0.14%
+945,92657,Standard,Newport Coast,Orange,949,"10,294",0.03%
+946,92658 ,P.O. Box,Newport Beach,Orange,949,0,0.00%
+947,92659 ,P.O. Box,Newport Beach,Orange,949,0,0.00%
+948,92660,Standard,Newport Beach,Orange,949,"36,259",0.09%
+949,92661,Standard,Newport Beach,Orange,949,"3,457",0.01%
+950,92662,Standard,Newport Beach,Orange,949,"2,490",0.01%
+951,92663,Standard,Newport Beach,Orange,949,"20,812",0.05%
+952,92672,Standard,San Clemente,Orange,949,"41,067",0.10%
+953,92673,Standard,San Clemente,Orange,949,"29,642",0.07%
+954,92674 ,P.O. Box,San Clemente,Orange,949,0,0.00%
+955,92675,Standard,San Juan Capistrano,Orange,949 / 714,"35,203",0.09%
+956,92676,Standard,Silverado,Orange,657 / 714,"1,997",0.01%
+957,92677,Standard,Laguna Niguel,Orange,949,"64,355",0.16%
+958,92678 ,P.O. Box,Trabuco Canyon,Orange,949,651,0.00%
+959,92679,Standard,Trabuco Canyon,Orange,949,"31,016",0.08%
+960,92683,Standard,Westminster,Orange,657 / 714,"90,946",0.23%
+961,92684 ,P.O. Box,Westminster,Orange,657 / 714,0,0.00%
+962,92685 ,P.O. Box,Westminster,Orange,657 / 714,0,0.00%
+963,92688,Standard,Rancho Santa Margarita,Orange,949,"44,688",0.11%
+964,92690 ,P.O. Box,Mission Viejo,Orange,949 / 714,0,0.00%
+965,92691,Standard,Mission Viejo,Orange,949 / 714,"47,918",0.12%
+966,92692,Standard,Mission Viejo,Orange,949,"46,434",0.12%
+967,92693 ,P.O. Box,San Juan Capistrano,Orange,949 / 714,0,0.00%
+968,92694,Standard,Ladera Ranch,Orange,949,"36,637",0.09%
+969,92697 ,Unique,Irvine,Orange,949 / 714,0,0.00%
+970,92698 ,Unique,Aliso Viejo,Orange,949 / 714,0,0.00%
+971,92701,Standard,Santa Ana,Orange,714 / 949 / 657 / 562,"48,789",0.12%
+972,92702 ,P.O. Box,Santa Ana,Orange,714 / 949 / 657 / 562,0,0.00%
+973,92703,Standard,Santa Ana,Orange,714 / 657,"65,621",0.17%
+974,92704,Standard,Santa Ana,Orange,714 / 657,"82,841",0.21%
+975,92705,Standard,Santa Ana,Orange,714 / 657,"45,902",0.12%
+976,92706,Standard,Santa Ana,Orange,714 / 949 / 657,"35,621",0.09%
+977,92707,Standard,Santa Ana,Orange,714 / 657 / 949 / 562,"56,456",0.14%
+978,92708,Standard,Fountain Valley,Orange,714,"57,192",0.14%
+979,92711 ,P.O. Box,Santa Ana,Orange,714 / 949 / 657 / 562,0,0.00%
+980,92728 ,P.O. Box,Fountain Valley,Orange,714,0,0.00%
+981,92735 ,P.O. Box,Santa Ana,Orange,714 / 949 / 657 / 562,0,0.00%
+982,92780,Standard,Tustin,Orange,657,"56,034",0.14%
+983,92781 ,P.O. Box,Tustin,Orange,657,0,0.00%
+984,92782,Standard,Tustin,Orange,657,"29,266",0.07%
+985,92799,Standard,Santa Ana,Orange,714 / 657 / 949 / 562,0,0.00%
+986,92801,Standard,Anaheim,Orange,657 / 714 / 949,"63,163",0.16%
+987,92802,Standard,Anaheim,Orange,562 / 657 / 714 / 840 / 909 / 949,"41,914",0.11%
+988,92803 ,P.O. Box,Anaheim,Orange,562 / 626 / 714 / 840 / 909 / 949,0,0.00%
+989,92804,Standard,Anaheim,Orange,657 / 714,"86,127",0.22%
+990,92805,Standard,Anaheim,Orange,562 / 626 / 657 / 714 / 840 / 909 / 949,"74,633",0.19%
+991,92806,Standard,Anaheim,Orange,562 / 626 / 657 / 714 / 840 / 909 / 949,"40,649",0.10%
+992,92807,Standard,Anaheim,Orange,714,"37,627",0.10%
+993,92808,Standard,Anaheim,Orange,714 / 657,"20,056",0.05%
+994,92809,Standard,Anaheim,Orange,657 / 714 / 949,0,0.00%
+995,92811 ,P.O. Box,Atwood,Orange,714 / 657,0,0.00%
+996,92812 ,P.O. Box,Anaheim,Orange,562 / 626 / 714 / 840 / 909 / 949,0,0.00%
+997,92814 ,P.O. Box,Anaheim,Orange,562 / 626 / 714 / 840 / 909 / 949,0,0.00%
+998,92815 ,P.O. Box,Anaheim,Orange,562 / 626 / 714 / 840 / 909 / 949,0,0.00%
+999,92816 ,P.O. Box,Anaheim,Orange,562 / 626 / 714 / 840 / 909 / 949,0,0.00%
+1000,92817 ,P.O. Box,Anaheim,Orange,562 / 626 / 714 / 840 / 909 / 949,0,0.00%
+1001,92821,Standard,Brea,Orange,714 / 657,"41,335",0.10%
+1002,92822 ,P.O. Box,Brea,Orange,714 / 657,0,0.00%
+1003,92823,Standard,Brea,Orange,714 / 657,"6,010",0.02%
+1004,92825 ,P.O. Box,Anaheim,Orange,562 / 626 / 714 / 840 / 909 / 949,0,0.00%
+1005,92831,Standard,Fullerton,Orange,714 / 657,"38,953",0.10%
+1006,92832,Standard,Fullerton,Orange,714 / 657,"26,277",0.07%
+1007,92833,Standard,Fullerton,Orange,657 / 714,"52,598",0.13%
+1008,92834 ,P.O. Box,Fullerton,Orange,714 / 657,0,0.00%
+1009,92835,Standard,Fullerton,Orange,714 / 657,"25,450",0.06%
+1010,92836 ,P.O. Box,Fullerton,Orange,714 / 657,0,0.00%
+1011,92837 ,P.O. Box,Fullerton,Orange,714 / 657,0,0.00%
+1012,92838 ,P.O. Box,Fullerton,Orange,714 / 657,0,0.00%
+1013,92840,Standard,Garden Grove,Orange,714 / 657,"54,365",0.14%
+1014,92841,Standard,Garden Grove,Orange,657 / 714,"34,376",0.09%
+1015,92842 ,P.O. Box,Garden Grove,Orange,714 / 657,0,0.00%
+1016,92843,Standard,Garden Grove,Orange,714 / 657,"45,480",0.12%
+1017,92844,Standard,Garden Grove,Orange,714 / 657,"23,668",0.06%
+1018,92845,Standard,Garden Grove,Orange,657 / 714,"16,520",0.04%
+1019,92846 ,P.O. Box,Garden Grove,Orange,714 / 657,0,0.00%
+1020,92856 ,P.O. Box,Orange,Orange,657 / 714,0,0.00%
+1021,92857 ,P.O. Box,Orange,Orange,657 / 714,0,0.00%
+1022,92859 ,P.O. Box,Orange,Orange,657 / 714,0,0.00%
+1023,92860,Standard,Norco,Riverside,840 / 909,"26,376",0.07%
+1024,92861,Standard,Villa Park,Orange,714,"5,843",0.01%
+1025,92862,Standard,Orange,Orange,714,0,0.00%
+1026,92863 ,P.O. Box,Orange,Orange,657 / 714,0,0.00%
+1027,92864 ,P.O. Box,Orange,Orange,657 / 714,0,0.00%
+1028,92865,Standard,Orange,Orange,714,"20,859",0.05%
+1029,92866,Standard,Orange,Orange,657 / 714,"15,935",0.04%
+1030,92867,Standard,Orange,Orange,657 / 714,"44,927",0.11%
+1031,92868,Standard,Orange,Orange,657 / 714 / 949,"27,127",0.07%
+1032,92869,Standard,Orange,Orange,714,"36,349",0.09%
+1033,92870,Standard,Placentia,Orange,714 / 657,"52,749",0.13%
+1034,92871 ,P.O. Box,Placentia,Orange,714 / 657,0,0.00%
+1035,92877 ,P.O. Box,Corona,Riverside,840 / 909 / 951,0,0.00%
+1036,92878,Standard,Corona,Riverside,951,0,0.00%
+1037,92879,Standard,Corona,Riverside,840 / 909 / 951,"47,243",0.12%
+1038,92880,Standard,Eastvale,Riverside,840 / 909,"75,365",0.19%
+1039,92881,Standard,Corona,Riverside,840 / 909 / 951,"31,590",0.08%
+1040,92882,Standard,Corona,Riverside,840 / 909 / 951,"67,894",0.17%
+1041,92883,Standard,Corona,Riverside,951,"34,836",0.09%
+1042,92885 ,P.O. Box,Yorba Linda,Orange,714 / 657,0,0.00%
+1043,92886,Standard,Yorba Linda,Orange,714 / 657,"50,001",0.13%
+1044,92887,Standard,Yorba Linda,Orange,714 / 657,"20,770",0.05%
+1045,92899,Standard,Anaheim,Orange,562 / 626 / 714 / 840 / 909 / 949,0,0.00%
+1046,93001,Standard,Ventura,Ventura,805 / 820,"33,859",0.09%
+1047,93002 ,P.O. Box,Ventura,Ventura,805 / 820,0,0.00%
+1048,93003,Standard,Ventura,Ventura,805 / 820,"50,558",0.13%
+1049,93004,Standard,Ventura,Ventura,805 / 820,"31,942",0.08%
+1050,93005 ,P.O. Box,Ventura,Ventura,805 / 820,0,0.00%
+1051,93006 ,P.O. Box,Ventura,Ventura,805 / 820,0,0.00%
+1052,93007 ,P.O. Box,Ventura,Ventura,805 / 820,0,0.00%
+1053,93009 ,Unique,Ventura,Ventura,805 / 820,0,0.00%
+1054,93010,Standard,Camarillo,Ventura,805 / 820,"46,223",0.12%
+1055,93011 ,P.O. Box,Camarillo,Ventura,805 / 820,0,0.00%
+1056,93012,Standard,Camarillo,Ventura,805 / 820,"37,550",0.09%
+1057,93013,Standard,Carpinteria,Santa Barbara,805 / 820,"16,299",0.04%
+1058,93014 ,P.O. Box,Carpinteria,Santa Barbara,805 / 820,0,0.00%
+1059,93015,Standard,Fillmore,Ventura,805 / 820,"18,789",0.05%
+1060,93016 ,P.O. Box,Fillmore,Ventura,805 / 820,0,0.00%
+1061,93020 ,P.O. Box,Moorpark,Ventura,805 / 820,0,0.00%
+1062,93021,Standard,Moorpark,Ventura,805 / 820,"38,103",0.10%
+1063,93022,Standard,Oak View,Ventura,805 / 820,"6,172",0.02%
+1064,93023,Standard,Ojai,Ventura,805 / 820,"20,937",0.05%
+1065,93024 ,P.O. Box,Ojai,Ventura,805 / 820,0,0.00%
+1066,93030,Standard,Oxnard,Ventura,805 / 820,"59,011",0.15%
+1067,93031 ,P.O. Box,Oxnard,Ventura,805 / 820,0,0.00%
+1068,93032 ,P.O. Box,Oxnard,Ventura,805 / 820,0,0.00%
+1069,93033,Standard,Oxnard,Ventura,805 / 820,"79,539",0.20%
+1070,93034 ,P.O. Box,Oxnard,Ventura,805 / 820,0,0.00%
+1071,93035,Standard,Oxnard,Ventura,805 / 820,"28,070",0.07%
+1072,93036,Standard,Oxnard,Ventura,805 / 820,"48,656",0.12%
+1073,93040 ,P.O. Box,Piru,Ventura,805 / 820,"1,927",0.00%
+1074,93041,Standard,Port Hueneme,Ventura,805 / 820,"22,918",0.06%
+1075,93042 ,Unique,Point Mugu Nawc,Ventura,805 / 820,17,0.00%
+1076,93043 ,Unique,Port Hueneme Cbc Base,Ventura,805 / 820,523,0.00%
+1077,93044 ,P.O. Box,Port Hueneme,Ventura,805 / 820,0,0.00%
+1078,93060,Standard,Santa Paula,Ventura,805 / 820,"33,859",0.09%
+1079,93061 ,P.O. Box,Santa Paula,Ventura,805 / 820,0,0.00%
+1080,93062 ,P.O. Box,Simi Valley,Ventura,805 / 820,0,0.00%
+1081,93063,Standard,Simi Valley,Ventura,805 / 820,"55,076",0.14%
+1082,93064 ,Unique,Brandeis,Ventura,818,57,0.00%
+1083,93065,Standard,Simi Valley,Ventura,805 / 820,"73,943",0.19%
+1084,93066,Standard,Somis,Ventura,805 / 820,"3,141",0.01%
+1085,93067 ,P.O. Box,Summerland,Santa Barbara,805 / 820,734,0.00%
+1086,93094 ,P.O. Box,Simi Valley,Ventura,805 / 820,0,0.00%
+1087,93099 ,Unique,Simi Valley,Ventura,805 / 820,0,0.00%
+1088,93101,Standard,Santa Barbara,Santa Barbara,805 / 820,"30,513",0.08%
+1089,93102 ,P.O. Box,Santa Barbara,Santa Barbara,805 / 820,0,0.00%
+1090,93103,Standard,Santa Barbara,Santa Barbara,805 / 820,"20,029",0.05%
+1091,93105,Standard,Santa Barbara,Santa Barbara,805 / 820,"26,003",0.07%
+1092,93106 ,Unique,Santa Barbara,Santa Barbara,805 / 820,"5,203",0.01%
+1093,93107 ,P.O. Box,Santa Barbara,Santa Barbara,805 / 820,0,0.00%
+1094,93108,Standard,Santa Barbara,Santa Barbara,805 / 820,"11,243",0.03%
+1095,93109,Standard,Santa Barbara,Santa Barbara,805 / 820,"11,041",0.03%
+1096,93110,Standard,Santa Barbara,Santa Barbara,805 / 820,"16,317",0.04%
+1097,93111,Standard,Santa Barbara,Santa Barbara,805 / 820,"18,468",0.05%
+1098,93116 ,P.O. Box,Goleta,Santa Barbara,805 / 820,0,0.00%
+1099,93117,Standard,Goleta,Santa Barbara,805 / 820,"53,430",0.14%
+1100,93118 ,P.O. Box,Goleta,Santa Barbara,805 / 820,0,0.00%
+1101,93120 ,P.O. Box,Santa Barbara,Santa Barbara,805 / 820,0,0.00%
+1102,93121 ,P.O. Box,Santa Barbara,Santa Barbara,805 / 820,0,0.00%
+1103,93130 ,P.O. Box,Santa Barbara,Santa Barbara,805 / 820,0,0.00%
+1104,93140 ,P.O. Box,Santa Barbara,Santa Barbara,805 / 820,0,0.00%
+1105,93150 ,P.O. Box,Santa Barbara,Santa Barbara,805 / 820,0,0.00%
+1106,93160 ,P.O. Box,Santa Barbara,Santa Barbara,805 / 820,0,0.00%
+1107,93190 ,P.O. Box,Santa Barbara,Santa Barbara,805 / 820,0,0.00%
+1108,93199 ,Unique,Goleta,Santa Barbara,805 / 820,0,0.00%
+1109,93201 ,P.O. Box,Alpaugh,Tulare,661 / 559,"1,260",0.00%
+1110,93202,Standard,Armona,Kings,559,"4,154",0.01%
+1111,93203,Standard,Arvin,Kern,661,"20,777",0.05%
+1112,93204,Standard,Avenal,Kings,559,"13,720",0.03%
+1113,93205,Standard,Bodfish,Kern,661,"2,081",0.01%
+1114,93206,Standard,Buttonwillow,Kern,661,"1,940",0.00%
+1115,93207,Standard,California Hot Springs,Tulare,661,311,0.00%
+1116,93208 ,P.O. Box,Camp Nelson,Tulare,559,135,0.00%
+1117,93210,Standard,Coalinga,Fresno,559,"18,581",0.05%
+1118,93212,Standard,Corcoran,Kings,559,"23,138",0.06%
+1119,93215,Standard,Delano,Kern,661,"53,626",0.14%
+1120,93216 ,P.O. Box,Delano,Kern,661,0,0.00%
+1121,93218 ,P.O. Box,Ducor,Tulare,559,979,0.00%
+1122,93219,Standard,Earlimart,Tulare,661 / 559,"9,324",0.02%
+1123,93220 ,P.O. Box,Edison,Kern,661,214,0.00%
+1124,93221,Standard,Exeter,Tulare,559,"15,024",0.04%
+1125,93222 ,P.O. Box,Pine Mountain Club,Kern,661,"2,192",0.01%
+1126,93223,Standard,Farmersville,Tulare,559,"10,487",0.03%
+1127,93224,Standard,Fellows,Kern,661,388,0.00%
+1128,93225,Standard,Frazier Park,Kern,661,"4,775",0.01%
+1129,93226,Standard,Glennville,Kern,661,297,0.00%
+1130,93227 ,P.O. Box,Goshen,Tulare,559,137,0.00%
+1131,93230,Standard,Hanford,Kings,559,"68,412",0.17%
+1132,93232 ,P.O. Box,Hanford,Kings,559,0,0.00%
+1133,93234 ,P.O. Box,Huron,Fresno,559,"6,745",0.02%
+1134,93235,Standard,Ivanhoe,Tulare,559,"4,651",0.01%
+1135,93237 ,P.O. Box,Kaweah,Tulare,559,169,0.00%
+1136,93238,Standard,Kernville,Kern,760 / 442,"1,603",0.00%
+1137,93239,Standard,Kettleman City,Kings,559,"1,376",0.00%
+1138,93240,Standard,Mountain Mesa,Kern,760 / 442,"5,691",0.01%
+1139,93241,Standard,Lamont,Kern,661,"15,707",0.04%
+1140,93242,Standard,Laton,Fresno,559,"3,073",0.01%
+1141,93243,Standard,Lebec,Kern,661,"1,386",0.00%
+1142,93244,Standard,Lemon Cove,Tulare,559,229,0.00%
+1143,93245,Standard,Lemoore,Kings,559,"38,045",0.10%
+1144,93246 ,Unique,Lemoore,Kings,559,941,0.00%
+1145,93247,Standard,Lindsay,Tulare,559,"18,210",0.05%
+1146,93249,Standard,Lost Hills,Kern,661,"2,590",0.01%
+1147,93250,Standard,Mc Farland,Kern,661,"14,892",0.04%
+1148,93251,Standard,Mc Kittrick,Kern,661 / 805 / 820,250,0.00%
+1149,93252,Standard,Maricopa,Kern,661,"1,499",0.00%
+1150,93254,Standard,New Cuyama,Santa Barbara,661,780,0.00%
+1151,93255,Standard,Onyx,Kern,559,630,0.00%
+1152,93256,Standard,Pixley,Tulare,559,"5,754",0.01%
+1153,93257,Standard,Porterville,Tulare,559,"79,569",0.20%
+1154,93258 ,P.O. Box,Porterville,Tulare,559,"1,921",0.00%
+1155,93260,Standard,Posey,Tulare,661,221,0.00%
+1156,93261 ,P.O. Box,Richgrove,Tulare,559,"2,513",0.01%
+1157,93262,Standard,Sequoia National Park,Tulare,559,20,0.00%
+1158,93263,Standard,Shafter,Kern,661,"22,341",0.06%
+1159,93265,Standard,Springville,Tulare,559,"4,117",0.01%
+1160,93266,Standard,Stratford,Kings,559,"1,521",0.00%
+1161,93267,Standard,Strathmore,Tulare,559,"6,119",0.02%
+1162,93268,Standard,Taft,Kern,661,"18,502",0.05%
+1163,93270,Standard,Terra Bella,Tulare,559,"5,637",0.01%
+1164,93271,Standard,Three Rivers,Tulare,559,"1,930",0.00%
+1165,93272,Standard,Tipton,Tulare,559,"3,468",0.01%
+1166,93274,Standard,Tulare,Tulare,559,"78,493",0.20%
+1167,93275 ,P.O. Box,Tulare,Tulare,559,0,0.00%
+1168,93276 ,P.O. Box,Tupman,Kern,661,177,0.00%
+1169,93277,Standard,Visalia,Tulare,559,"53,196",0.13%
+1170,93278 ,P.O. Box,Visalia,Tulare,559,0,0.00%
+1171,93279 ,P.O. Box,Visalia,Tulare,559,0,0.00%
+1172,93280,Standard,Wasco,Kern,661,"28,182",0.07%
+1173,93282 ,P.O. Box,Waukena,Tulare,559,0,0.00%
+1174,93283,Standard,Weldon,Kern,760 / 442,"1,880",0.00%
+1175,93285,Standard,Wofford Heights,Kern,661,"2,457",0.01%
+1176,93286,Standard,Woodlake,Tulare,559,"9,735",0.02%
+1177,93287,Standard,Woody,Kern,661,221,0.00%
+1178,93290 ,P.O. Box,Visalia,Tulare,559,0,0.00%
+1179,93291,Standard,Visalia,Tulare,559,"63,366",0.16%
+1180,93292,Standard,Visalia,Tulare,559,"43,316",0.11%
+1181,93301,Standard,Bakersfield,Kern,661 / 805 / 820,"14,518",0.04%
+1182,93302 ,P.O. Box,Bakersfield,Kern,661 / 805 / 820,0,0.00%
+1183,93303 ,P.O. Box,Bakersfield,Kern,661 / 805 / 820,0,0.00%
+1184,93304,Standard,Bakersfield,Kern,661 / 805 / 820,"50,837",0.13%
+1185,93305,Standard,Bakersfield,Kern,661 / 805 / 820,"38,392",0.10%
+1186,93306,Standard,Bakersfield,Kern,661,"74,623",0.19%
+1187,93307,Standard,Bakersfield,Kern,661,"88,338",0.22%
+1188,93308,Standard,Bakersfield,Kern,661,"56,037",0.14%
+1189,93309,Standard,Bakersfield,Kern,661,"61,079",0.15%
+1190,93311,Standard,Bakersfield,Kern,661,"52,466",0.13%
+1191,93312,Standard,Bakersfield,Kern,661,"58,714",0.15%
+1192,93313,Standard,Bakersfield,Kern,661,"58,322",0.15%
+1193,93314,Standard,Bakersfield,Kern,661,"33,619",0.09%
+1194,93380 ,P.O. Box,Bakersfield,Kern,661 / 805 / 820,0,0.00%
+1195,93383 ,P.O. Box,Bakersfield,Kern,661 / 805 / 820,0,0.00%
+1196,93384 ,P.O. Box,Bakersfield,Kern,661 / 805 / 820,0,0.00%
+1197,93385 ,P.O. Box,Bakersfield,Kern,661 / 805 / 820,0,0.00%
+1198,93386 ,P.O. Box,Bakersfield,Kern,661 / 805 / 820,0,0.00%
+1199,93387 ,P.O. Box,Bakersfield,Kern,661 / 805 / 820,0,0.00%
+1200,93388 ,P.O. Box,Bakersfield,Kern,661 / 805 / 820,0,0.00%
+1201,93389 ,P.O. Box,Bakersfield,Kern,661 / 805 / 820,0,0.00%
+1202,93390 ,P.O. Box,Bakersfield,Kern,661 / 805 / 820,0,0.00%
+1203,93401,Standard,San Luis Obispo,San Luis Obispo,805 / 820,"29,877",0.08%
+1204,93402,Standard,Los Osos,San Luis Obispo,805 / 820,"14,500",0.04%
+1205,93403 ,P.O. Box,San Luis Obispo,San Luis Obispo,805 / 820,0,0.00%
+1206,93405,Standard,San Luis Obispo,San Luis Obispo,805 / 820,"23,331",0.06%
+1207,93406 ,P.O. Box,San Luis Obispo,San Luis Obispo,805 / 820,0,0.00%
+1208,93407,Standard,San Luis Obispo,San Luis Obispo,805 / 820,462,0.00%
+1209,93408 ,Unique,San Luis Obispo,San Luis Obispo,805 / 820,0,0.00%
+1210,93409 ,Unique,San Luis Obispo,San Luis Obispo,805 / 820,"3,806",0.01%
+1211,93410,Standard,San Luis Obispo,San Luis Obispo,805 / 820,"7,929",0.02%
+1212,93412 ,P.O. Box,Los Osos,San Luis Obispo,805 / 820,0,0.00%
+1213,93420,Standard,Arroyo Grande,San Luis Obispo,805 / 820,"30,540",0.08%
+1214,93421 ,P.O. Box,Arroyo Grande,San Luis Obispo,805 / 820,0,0.00%
+1215,93422,Standard,Atascadero,San Luis Obispo,805 / 820,"33,041",0.08%
+1216,93423 ,P.O. Box,Atascadero,San Luis Obispo,805 / 820,0,0.00%
+1217,93424 ,P.O. Box,Avila Beach,San Luis Obispo,805 / 820,"1,256",0.00%
+1218,93426,Standard,Bradley,San Luis Obispo,805 / 820,"1,260",0.00%
+1219,93427,Standard,Buellton,Santa Barbara,805 / 820,"5,864",0.01%
+1220,93428,Standard,Cambria,San Luis Obispo,805 / 820,"5,951",0.02%
+1221,93429 ,P.O. Box,Casmalia,Santa Barbara,805 / 820,153,0.00%
+1222,93430,Standard,Cayucos,San Luis Obispo,805 / 820,"2,849",0.01%
+1223,93432,Standard,Creston,San Luis Obispo,805 / 820,"1,174",0.00%
+1224,93433,Standard,Grover Beach,San Luis Obispo,805 / 820,"12,643",0.03%
+1225,93434,Standard,Guadalupe,Santa Barbara,805 / 820,"8,120",0.02%
+1226,93435 ,P.O. Box,Harmony,San Luis Obispo,805 / 820,0,0.00%
+1227,93436,Standard,Lompoc,Santa Barbara,805 / 820,"56,730",0.14%
+1228,93437,Standard,Lompoc,Santa Barbara,805 / 820,"3,560",0.01%
+1229,93438 ,P.O. Box,Lompoc,Santa Barbara,805 / 820,0,0.00%
+1230,93440 ,P.O. Box,Los Alamos,Santa Barbara,805 / 820,"2,048",0.01%
+1231,93441 ,P.O. Box,Los Olivos,Santa Barbara,805 / 820,"1,295",0.00%
+1232,93442,Standard,Morro Bay,San Luis Obispo,805 / 820,"11,390",0.03%
+1233,93443 ,P.O. Box,Morro Bay,San Luis Obispo,805 / 820,0,0.00%
+1234,93444,Standard,Nipomo,San Luis Obispo,805 / 820,"22,293",0.06%
+1235,93445,Standard,Oceano,San Luis Obispo,805 / 820,"7,040",0.02%
+1236,93446,Standard,Paso Robles,San Luis Obispo,805 / 820,"45,979",0.12%
+1237,93447 ,P.O. Box,Paso Robles,San Luis Obispo,805 / 820,0,0.00%
+1238,93448 ,P.O. Box,Pismo Beach,San Luis Obispo,805 / 820,0,0.00%
+1239,93449,Standard,Pismo Beach,San Luis Obispo,805 / 820,"8,096",0.02%
+1240,93450,Standard,San Ardo,Monterey,831 / 805 / 820,541,0.00%
+1241,93451,Standard,San Miguel,San Luis Obispo,805 / 820,"4,820",0.01%
+1242,93452,Standard,San Simeon,San Luis Obispo,805 / 820,522,0.00%
+1243,93453,Standard,Santa Margarita,San Luis Obispo,805 / 820,"3,045",0.01%
+1244,93454,Standard,Santa Maria,Santa Barbara,805 / 820,"40,994",0.10%
+1245,93455,Standard,Santa Maria,Santa Barbara,805 / 820,"45,282",0.11%
+1246,93456 ,P.O. Box,Santa Maria,Santa Barbara,805 / 820,0,0.00%
+1247,93457 ,P.O. Box,Santa Maria,Santa Barbara,805 / 820,0,0.00%
+1248,93458,Standard,Santa Maria,Santa Barbara,805 / 820,"59,927",0.15%
+1249,93460,Standard,Santa Ynez,Santa Barbara,805 / 820,"5,728",0.01%
+1250,93461,Standard,Shandon,San Luis Obispo,805 / 820,"1,503",0.00%
+1251,93463,Standard,Solvang,Santa Barbara,805 / 820,"8,731",0.02%
+1252,93464 ,P.O. Box,Solvang,Santa Barbara,805 / 820,0,0.00%
+1253,93465,Standard,Templeton,San Luis Obispo,805 / 820,"10,121",0.03%
+1254,93475 ,P.O. Box,Oceano,San Luis Obispo,805 / 820,0,0.00%
+1255,93483 ,P.O. Box,Grover Beach,San Luis Obispo,805 / 820,0,0.00%
+1256,93501,Standard,Mojave,Kern,661,"5,772",0.01%
+1257,93502 ,P.O. Box,Mojave,Kern,661,0,0.00%
+1258,93504 ,P.O. Box,California City,Kern,442 / 760 / 661,0,0.00%
+1259,93505,Standard,California City,Kern,442 / 760 / 661,"14,880",0.04%
+1260,93510,Standard,Acton,Los Angeles,661,"7,591",0.02%
+1261,93512,Standard,Benton,Mono,442 / 760,243,0.00%
+1262,93513,Standard,Big Pine,Inyo,760 / 442,"1,870",0.00%
+1263,93514,Standard,Bishop,Inyo,760 / 442,"14,361",0.04%
+1264,93515 ,P.O. Box,Bishop,Inyo,760 / 442,0,0.00%
+1265,93516,Standard,Boron,Kern,760 / 442,"2,114",0.01%
+1266,93517,Standard,Bridgeport,Mono,442 / 760,768,0.00%
+1267,93518,Standard,Caliente,Kern,661,"1,138",0.00%
+1268,93519 ,P.O. Box,Cantil,Kern,760 / 442,64,0.00%
+1269,93522 ,P.O. Box,Darwin,Inyo,760 / 442,37,0.00%
+1270,93523,Standard,Edwards,Kern,661 / 760,"3,293",0.01%
+1271,93524 ,Unique,Edwards,Kern,760 / 442,80,0.00%
+1272,93526,Standard,Independence,Inyo,442 / 760,628,0.00%
+1273,93527,Standard,Inyokern,Kern,760 / 442,"2,315",0.01%
+1274,93528 ,P.O. Box,Johannesburg,Kern,760 / 442,113,0.00%
+1275,93529 ,P.O. Box,June Lake,Mono,760,619,0.00%
+1276,93530 ,P.O. Box,Keeler,Inyo,760 / 442,71,0.00%
+1277,93531,Standard,Keene,Kern,661,531,0.00%
+1278,93532,Standard,Lake Hughes,Los Angeles,661,"2,373",0.01%
+1279,93534,Standard,Lancaster,Los Angeles,661,"43,906",0.11%
+1280,93535,Standard,Lancaster,Los Angeles,661,"82,149",0.21%
+1281,93536,Standard,Lancaster,Los Angeles,661,"74,283",0.19%
+1282,93539 ,P.O. Box,Lancaster,Los Angeles,661,0,0.00%
+1283,93541 ,P.O. Box,Lee Vining,Mono,442 / 760,488,0.00%
+1284,93542 ,P.O. Box,Little Lake,Inyo,760 / 442,0,0.00%
+1285,93543,Standard,Littlerock,Los Angeles,661,"14,132",0.04%
+1286,93544,Standard,Llano,Los Angeles,661 / 760,"1,126",0.00%
+1287,93545,Standard,Lone Pine,Inyo,760 / 442,"2,072",0.01%
+1288,93546,Standard,Mammoth Lakes,Mono,760 / 442,"8,545",0.02%
+1289,93549 ,P.O. Box,Olancha,Inyo,760 / 442,235,0.00%
+1290,93550,Standard,Palmdale,Los Angeles,661,"82,379",0.21%
+1291,93551,Standard,Palmdale,Los Angeles,661,"56,001",0.14%
+1292,93552,Standard,Palmdale,Los Angeles,661,"42,468",0.11%
+1293,93553,Standard,Pearblossom,Los Angeles,661,"1,921",0.00%
+1294,93554 ,P.O. Box,Randsburg,Kern,760 / 442,45,0.00%
+1295,93555,Standard,Ridgecrest,Kern,760 / 442,"32,810",0.08%
+1296,93556 ,P.O. Box,Ridgecrest,Kern,760 / 442,0,0.00%
+1297,93558 ,P.O. Box,Red Mountain,Kern,760 / 442,51,0.00%
+1298,93560,Standard,Rosamond,Kern,661,"21,581",0.05%
+1299,93561,Standard,Tehachapi,Kern,661,"31,091",0.08%
+1300,93562,Standard,Trona,San Bernardino,442 / 760,"1,633",0.00%
+1301,93563,Standard,Valyermo,Los Angeles,661 / 626,143,0.00%
+1302,93581 ,P.O. Box,Tehachapi,Kern,661,"3,660",0.01%
+1303,93584 ,P.O. Box,Lancaster,Los Angeles,661,0,0.00%
+1304,93586 ,P.O. Box,Lancaster,Los Angeles,661,0,0.00%
+1305,93590 ,P.O. Box,Palmdale,Los Angeles,661,0,0.00%
+1306,93591,Standard,Palmdale,Los Angeles,661,"7,450",0.02%
+1307,93592 ,P.O. Box,Trona,San Bernardino,442 / 760,0,0.00%
+1308,93596 ,P.O. Box,Boron,Kern,760 / 442,0,0.00%
+1309,93599 ,Unique,Palmdale,Los Angeles,661,0,0.00%
+1310,93601,Standard,Ahwahnee,Madera,209 / 350 / 559,"1,858",0.00%
+1311,93602,Standard,Auberry,Fresno,559,"3,402",0.01%
+1312,93603,Standard,Badger,Tulare,559,280,0.00%
+1313,93604,Standard,Bass Lake,Madera,559,627,0.00%
+1314,93605 ,P.O. Box,Big Creek,Fresno,559,144,0.00%
+1315,93606 ,P.O. Box,Biola,Fresno,559,"1,352",0.00%
+1316,93607 ,P.O. Box,Burrel,Fresno,559,0,0.00%
+1317,93608,Standard,Cantua Creek,Fresno,559 / 831,"1,173",0.00%
+1318,93609,Standard,Caruthers,Fresno,559,"5,694",0.01%
+1319,93610,Standard,Chowchilla,Madera,559,"23,859",0.06%
+1320,93611,Standard,Clovis,Fresno,559,"47,041",0.12%
+1321,93612,Standard,Clovis,Fresno,559,"37,368",0.09%
+1322,93613 ,P.O. Box,Clovis,Fresno,559,0,0.00%
+1323,93614,Standard,Coarsegold,Madera,559,"11,574",0.03%
+1324,93615,Standard,Cutler,Tulare,559,"5,373",0.01%
+1325,93616,Standard,Del Rey,Fresno,559,"2,225",0.01%
+1326,93618,Standard,Dinuba,Tulare,559,"30,709",0.08%
+1327,93619,Standard,Clovis,Fresno,559,"50,032",0.13%
+1328,93620,Standard,Dos Palos,Merced,209 / 350,"10,311",0.03%
+1329,93621,Standard,Dunlap,Fresno,559,520,0.00%
+1330,93622,Standard,Firebaugh,Fresno,209 / 350 / 559,"9,884",0.02%
+1331,93623,Standard,Fish Camp,Mariposa,209 / 350,75,0.00%
+1332,93624 ,P.O. Box,Five Points,Fresno,559,806,0.00%
+1333,93625,Standard,Fowler,Fresno,559,"8,194",0.02%
+1334,93626,Standard,Friant,Fresno,559,"2,132",0.01%
+1335,93627 ,P.O. Box,Helm,Fresno,559,188,0.00%
+1336,93628,Standard,Hume,Fresno,559,329,0.00%
+1337,93630,Standard,Kerman,Fresno,559,"21,103",0.05%
+1338,93631,Standard,Kingsburg,Fresno,559,"16,843",0.04%
+1339,93633 ,P.O. Box,Kings Canyon National Pk,Tulare,559,37,0.00%
+1340,93634 ,P.O. Box,Lakeshore,Fresno,559,55,0.00%
+1341,93635,Standard,Los Banos,Merced,209 / 350,"48,510",0.12%
+1342,93636,Standard,Madera,Madera,559,"14,004",0.04%
+1343,93637,Standard,Madera,Madera,559,"40,202",0.10%
+1344,93638,Standard,Madera,Madera,559,"51,106",0.13%
+1345,93639 ,P.O. Box,Madera,Madera,559,0,0.00%
+1346,93640,Standard,Mendota,Fresno,559,"13,865",0.04%
+1347,93641,Standard,Miramonte,Fresno,559,587,0.00%
+1348,93642 ,P.O. Box,Mono Hot Springs,Fresno,559,0,0.00%
+1349,93643,Standard,North Fork,Madera,559,"3,130",0.01%
+1350,93644,Standard,Oakhurst,Madera,559,"7,751",0.02%
+1351,93645,Standard,O Neals,Madera,559,297,0.00%
+1352,93646,Standard,Orange Cove,Fresno,559,"10,492",0.03%
+1353,93647,Standard,Orosi,Tulare,559,"11,143",0.03%
+1354,93648,Standard,Parlier,Fresno,559,"15,393",0.04%
+1355,93649 ,P.O. Box,Piedra,Fresno,559,0,0.00%
+1356,93650,Standard,Fresno,Fresno,559,"3,744",0.01%
+1357,93651,Standard,Prather,Fresno,559,"1,445",0.00%
+1358,93652,Standard,Raisin City,Fresno,559,410,0.00%
+1359,93653,Standard,Raymond,Madera,559,"1,050",0.00%
+1360,93654,Standard,Reedley,Fresno,559,"30,620",0.08%
+1361,93656,Standard,Riverdale,Fresno,559,"6,459",0.02%
+1362,93657,Standard,Sanger,Fresno,559,"37,464",0.09%
+1363,93660,Standard,San Joaquin,Fresno,559,"4,173",0.01%
+1364,93661 ,P.O. Box,Santa Rita Park,Merced,209 / 350,0,0.00%
+1365,93662,Standard,Selma,Fresno,559,"30,774",0.08%
+1366,93664,Standard,Shaver Lake,Fresno,559,614,0.00%
+1367,93665 ,P.O. Box,South Dos Palos,Merced,209 / 350,537,0.00%
+1368,93666 ,P.O. Box,Sultana,Tulare,559,668,0.00%
+1369,93667,Standard,Tollhouse,Fresno,559,"2,294",0.01%
+1370,93668,Standard,Tranquillity,Fresno,559,"1,054",0.00%
+1371,93669,Standard,Wishon,Madera,559,316,0.00%
+1372,93670 ,P.O. Box,Yettem,Tulare,559,80,0.00%
+1373,93673 ,P.O. Box,Traver,Tulare,559,667,0.00%
+1374,93675,Standard,Squaw Valley,Fresno,559,"3,820",0.01%
+1375,93701,Standard,Fresno,Fresno,209 / 350 / 559 / 738,"12,037",0.03%
+1376,93702,Standard,Fresno,Fresno,559,"45,741",0.12%
+1377,93703,Standard,Fresno,Fresno,559,"34,840",0.09%
+1378,93704,Standard,Fresno,Fresno,559,"28,573",0.07%
+1379,93705,Standard,Fresno,Fresno,559,"38,125",0.10%
+1380,93706,Standard,Fresno,Fresno,559,"40,965",0.10%
+1381,93707 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1382,93708 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1383,93709 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1384,93710,Standard,Fresno,Fresno,559,"30,552",0.08%
+1385,93711,Standard,Fresno,Fresno,559,"37,901",0.10%
+1386,93712 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1387,93714 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1388,93715 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1389,93716 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1390,93717 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1391,93718 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1392,93720,Standard,Fresno,Fresno,559,"47,814",0.12%
+1393,93721,Standard,Fresno,Fresno,209 / 350 / 559 / 738,"7,899",0.02%
+1394,93722,Standard,Fresno,Fresno,559,"87,364",0.22%
+1395,93723,Standard,Fresno,Fresno,559,"12,037",0.03%
+1396,93724 ,Unique,Fresno,Fresno,209 / 350 / 559 / 738,0,0.00%
+1397,93725,Standard,Fresno,Fresno,559,"26,162",0.07%
+1398,93726,Standard,Fresno,Fresno,559,"42,366",0.11%
+1399,93727,Standard,Fresno,Fresno,559,"83,212",0.21%
+1400,93728,Standard,Fresno,Fresno,209 / 350 / 559 / 738,"16,191",0.04%
+1401,93729 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1402,93730,Standard,Fresno,Fresno,559,"13,687",0.03%
+1403,93737,Standard,Fresno,Fresno,559,"6,596",0.02%
+1404,93740 ,Unique,Fresno,Fresno,559,"1,213",0.00%
+1405,93741 ,Unique,Fresno,Fresno,209 / 350 / 559 / 738,84,0.00%
+1406,93744 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1407,93745 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1408,93747 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1409,93750 ,Unique,Fresno,Fresno,559,0,0.00%
+1410,93755 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1411,93760 ,Unique,Fresno,Fresno,559,0,0.00%
+1412,93761 ,Unique,Fresno,Fresno,559,0,0.00%
+1413,93764 ,Unique,Fresno,Fresno,559,0,0.00%
+1414,93765 ,Unique,Fresno,Fresno,559,0,0.00%
+1415,93771 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1416,93772 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1417,93773 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1418,93774 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1419,93775 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1420,93776 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1421,93777 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1422,93778 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1423,93779 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1424,93786 ,Unique,Fresno,Fresno,559,0,0.00%
+1425,93790 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1426,93791 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1427,93792 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1428,93793 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1429,93794 ,P.O. Box,Fresno,Fresno,559,0,0.00%
+1430,93844 ,Unique,Fresno,Fresno,559,0,0.00%
+1431,93888 ,Unique,Fresno,Fresno,559,0,0.00%
+1432,93901,Standard,Salinas,Monterey,831 / 408,"29,700",0.08%
+1433,93902 ,P.O. Box,Salinas,Monterey,831 / 408,0,0.00%
+1434,93905,Standard,Salinas,Monterey,831 / 408,"64,209",0.16%
+1435,93906,Standard,Salinas,Monterey,831 / 408,"66,381",0.17%
+1436,93907,Standard,Salinas,Monterey,831,"23,315",0.06%
+1437,93908,Standard,Salinas,Monterey,831,"13,188",0.03%
+1438,93912 ,P.O. Box,Salinas,Monterey,831 / 408,0,0.00%
+1439,93915 ,P.O. Box,Salinas,Monterey,831 / 408,0,0.00%
+1440,93920,Standard,Big Sur,Monterey,831,"1,140",0.00%
+1441,93921 ,P.O. Box,Carmel By The Sea,Monterey,831,"2,956",0.01%
+1442,93922 ,P.O. Box,Carmel,Monterey,831,0,0.00%
+1443,93923,Standard,Carmel,Monterey,831,"12,338",0.03%
+1444,93924,Standard,Carmel Valley,Monterey,831,"6,609",0.02%
+1445,93925,Standard,Chualar,Monterey,831,"1,515",0.00%
+1446,93926,Standard,Gonzales,Monterey,831,"9,187",0.02%
+1447,93927,Standard,Greenfield,Monterey,831,"19,976",0.05%
+1448,93928 ,P.O. Box,Jolon,Monterey,831,259,0.00%
+1449,93930,Standard,King City,Monterey,831,"16,206",0.04%
+1450,93932 ,P.O. Box,Lockwood,Monterey,831,533,0.00%
+1451,93933,Standard,Marina,Monterey,831,"27,218",0.07%
+1452,93940,Standard,Monterey,Monterey,831,"30,454",0.08%
+1453,93942 ,P.O. Box,Monterey,Monterey,831,0,0.00%
+1454,93943,Standard,Monterey,Monterey,831,55,0.00%
+1455,93944 ,P.O. Box,Monterey,Monterey,831,"3,395",0.01%
+1456,93950,Standard,Pacific Grove,Monterey,831,"15,082",0.04%
+1457,93953,Standard,Pebble Beach,Monterey,831,"4,271",0.01%
+1458,93954 ,P.O. Box,San Lucas,Monterey,831 / 805 / 820,371,0.00%
+1459,93955,Standard,Seaside,Monterey,831,"32,703",0.08%
+1460,93960,Standard,Soledad,Monterey,831,"26,093",0.07%
+1461,93962 ,P.O. Box,Spreckels,Monterey,831 / 408,692,0.00%
+1462,94002,Standard,Belmont,San Mateo,650,"28,513",0.07%
+1463,94005,Standard,Brisbane,San Mateo,415 / 628 / 650,"4,836",0.01%
+1464,94010,Standard,Burlingame,San Mateo,650,"44,045",0.11%
+1465,94011 ,P.O. Box,Burlingame,San Mateo,650,0,0.00%
+1466,94014,Standard,Daly City,San Mateo,650,"48,677",0.12%
+1467,94015,Standard,Daly City,San Mateo,650,"63,489",0.16%
+1468,94016 ,P.O. Box,Daly City,San Mateo,650,0,0.00%
+1469,94017 ,P.O. Box,Daly City,San Mateo,650,0,0.00%
+1470,94018 ,P.O. Box,El Granada,San Mateo,650,"3,513",0.01%
+1471,94019,Standard,Half Moon Bay,San Mateo,650,"15,483",0.04%
+1472,94020,Standard,La Honda,San Mateo,650,"1,732",0.00%
+1473,94021,Standard,Loma Mar,San Mateo,650,171,0.00%
+1474,94022,Standard,Los Altos,Santa Clara,650,"20,842",0.05%
+1475,94023 ,P.O. Box,Los Altos,Santa Clara,650,0,0.00%
+1476,94024,Standard,Los Altos,Santa Clara,650,"23,263",0.06%
+1477,94025,Standard,Menlo Park,San Mateo,650,"42,354",0.11%
+1478,94026 ,P.O. Box,Menlo Park,San Mateo,650,0,0.00%
+1479,94027,Standard,Atherton,San Mateo,650,"7,270",0.02%
+1480,94028,Standard,Portola Valley,San Mateo,650,"6,904",0.02%
+1481,94030,Standard,Millbrae,San Mateo,650,"23,212",0.06%
+1482,94035 ,P.O. Box,Mountain View,Santa Clara,650,0,0.00%
+1483,94037 ,P.O. Box,Montara,San Mateo,650,"2,811",0.01%
+1484,94038,Standard,Moss Beach,San Mateo,650,"3,176",0.01%
+1485,94039 ,P.O. Box,Mountain View,Santa Clara,650,0,0.00%
+1486,94040,Standard,Mountain View,Santa Clara,650,"36,501",0.09%
+1487,94041,Standard,Mountain View,Santa Clara,650,"15,604",0.04%
+1488,94042 ,P.O. Box,Mountain View,Santa Clara,650,0,0.00%
+1489,94043,Standard,Mountain View,Santa Clara,650,"31,414",0.08%
+1490,94044,Standard,Pacifica,San Mateo,650,"38,675",0.10%
+1491,94060,Standard,Pescadero,San Mateo,650,"1,513",0.00%
+1492,94061,Standard,Redwood City,San Mateo,650,"36,704",0.09%
+1493,94062,Standard,Redwood City,San Mateo,650,"26,689",0.07%
+1494,94063,Standard,Redwood City,San Mateo,650,"35,836",0.09%
+1495,94064 ,P.O. Box,Redwood City,San Mateo,650,0,0.00%
+1496,94065,Standard,Redwood City,San Mateo,650,"12,781",0.03%
+1497,94066,Standard,San Bruno,San Mateo,650,"44,147",0.11%
+1498,94070,Standard,San Carlos,San Mateo,650,"31,585",0.08%
+1499,94074,Standard,San Gregorio,San Mateo,650,282,0.00%
+1500,94080,Standard,South San Francisco,San Mateo,650,"66,592",0.17%
+1501,94083 ,P.O. Box,South San Francisco,San Mateo,650,0,0.00%
+1502,94085,Standard,Sunnyvale,Santa Clara,341 / 408 / 510 / 650 / 669,"24,031",0.06%
+1503,94086,Standard,Sunnyvale,Santa Clara,341 / 408 / 510 / 650 / 669,"50,175",0.13%
+1504,94087,Standard,Sunnyvale,Santa Clara,408 / 669,"58,344",0.15%
+1505,94088 ,P.O. Box,Sunnyvale,Santa Clara,341 / 408 / 510 / 650 / 669,0,0.00%
+1506,94089,Standard,Sunnyvale,Santa Clara,341 / 408 / 510 / 650 / 669,"23,255",0.06%
+1507,94102,Standard,San Francisco,San Francisco,341 / 415 / 510 / 628,"39,432",0.10%
+1508,94103,Standard,San Francisco,San Francisco,341 / 415 / 510 / 628 / 650,"37,843",0.10%
+1509,94104,Standard,San Francisco,San Francisco,415 / 628 / 510 / 650 / 341,576,0.00%
+1510,94105,Standard,San Francisco,San Francisco,415 / 510 / 650 / 628 / 341,"14,841",0.04%
+1511,94107,Standard,San Francisco,San Francisco,341 / 415 / 510 / 628 / 650,"34,012",0.09%
+1512,94108,Standard,San Francisco,San Francisco,415 / 628 / 510 / 650 / 341,"13,097",0.03%
+1513,94109,Standard,San Francisco,San Francisco,415 / 628,"58,501",0.15%
+1514,94110,Standard,San Francisco,San Francisco,341 / 415 / 510 / 628,"68,336",0.17%
+1515,94111,Standard,San Francisco,San Francisco,628 / 415 / 510 / 341 / 650,"4,306",0.01%
+1516,94112,Standard,San Francisco,San Francisco,341 / 415 / 510 / 628 / 650,"79,314",0.20%
+1517,94114,Standard,San Francisco,San Francisco,415 / 628,"33,683",0.09%
+1518,94115,Standard,San Francisco,San Francisco,415 / 628,"35,853",0.09%
+1519,94116,Standard,San Francisco,San Francisco,415 / 628,"44,092",0.11%
+1520,94117,Standard,San Francisco,San Francisco,415 / 628,"38,451",0.10%
+1521,94118,Standard,San Francisco,San Francisco,415 / 628,"42,356",0.11%
+1522,94119 ,P.O. Box,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1523,94120 ,P.O. Box,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1524,94121,Standard,San Francisco,San Francisco,415 / 628,"43,115",0.11%
+1525,94122,Standard,San Francisco,San Francisco,415 / 628,"57,160",0.14%
+1526,94123,Standard,San Francisco,San Francisco,415 / 628,"26,131",0.07%
+1527,94124,Standard,San Francisco,San Francisco,341 / 415 / 510 / 628 / 650,"39,445",0.10%
+1528,94125 ,P.O. Box,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1529,94126 ,P.O. Box,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1530,94127,Standard,San Francisco,San Francisco,415 / 628 / 650,"20,686",0.05%
+1531,94128,Standard,San Francisco,San Mateo,650,2,0.00%
+1532,94129,Standard,San Francisco,San Francisco,415 / 628,"3,647",0.01%
+1533,94130,Standard,San Francisco,San Francisco,341 / 510,"2,747",0.01%
+1534,94131,Standard,San Francisco,San Francisco,415 / 628 / 650,"28,810",0.07%
+1535,94132,Standard,San Francisco,San Francisco,415 / 628,"27,723",0.07%
+1536,94133,Standard,San Francisco,San Francisco,415 / 628,"26,751",0.07%
+1537,94134,Standard,San Francisco,San Francisco,341 / 415 / 510 / 628 / 650,"41,695",0.11%
+1538,94137 ,Unique,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1539,94139 ,Unique,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1540,94140 ,P.O. Box,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1541,94141,Standard,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1542,94142 ,P.O. Box,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1543,94143,Standard,San Francisco,San Francisco,628,0,0.00%
+1544,94144 ,Unique,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1545,94145 ,Unique,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1546,94146 ,P.O. Box,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1547,94147 ,P.O. Box,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1548,94151 ,Unique,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1549,94158,Standard,San Francisco,San Francisco,628 / 341 / 415,"11,327",0.03%
+1550,94159 ,P.O. Box,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1551,94160 ,Unique,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1552,94161 ,Unique,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1553,94163 ,Unique,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1554,94164 ,P.O. Box,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1555,94172 ,P.O. Box,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1556,94177 ,Unique,San Francisco,San Francisco,341 / 415 / 510 / 628,0,0.00%
+1557,94188,Standard,San Francisco,San Francisco,628 / 415 / 650,3,0.00%
+1558,94203 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1559,94204 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1560,94205 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1561,94206 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1562,94209 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1563,94229 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1564,94230 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1565,94232 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1566,94235 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1567,94236 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1568,94237 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1569,94239 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1570,94240 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1571,94244 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1572,94247 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1573,94248 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1574,94249 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1575,94250 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1576,94252 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1577,94254 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1578,94256 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1579,94257 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1580,94258 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1581,94259 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1582,94261 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1583,94262 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1584,94263 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1585,94267 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1586,94268 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1587,94269 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1588,94271 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1589,94273 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1590,94274 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1591,94277 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1592,94278 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1593,94279 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1594,94280 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1595,94283 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1596,94284 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1597,94285 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1598,94287 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1599,94288 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1600,94289 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1601,94290 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1602,94293 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1603,94294 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1604,94295 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1605,94296 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1606,94297 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1607,94298 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1608,94299 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+1609,94301,Standard,Palo Alto,Santa Clara,650,"17,299",0.04%
+1610,94302 ,P.O. Box,Palo Alto,Santa Clara,650,0,0.00%
+1611,94303,Standard,Palo Alto,Santa Clara,650,"48,281",0.12%
+1612,94304,Standard,Palo Alto,Santa Clara,650,"4,569",0.01%
+1613,94305,Standard,Stanford,Santa Clara,650,"20,961",0.05%
+1614,94306,Standard,Palo Alto,Santa Clara,650,"28,659",0.07%
+1615,94309 ,P.O. Box,Palo Alto,Santa Clara,650,0,0.00%
+1616,94401,Standard,San Mateo,San Mateo,650,"35,249",0.09%
+1617,94402,Standard,San Mateo,San Mateo,650,"25,879",0.07%
+1618,94403,Standard,San Mateo,San Mateo,650,"45,057",0.11%
+1619,94404,Standard,San Mateo,San Mateo,650,"37,323",0.09%
+1620,94497 ,Unique,San Mateo,San Mateo,650,0,0.00%
+1621,94501,Standard,Alameda,Alameda,341 / 510,"64,116",0.16%
+1622,94502,Standard,Alameda,Alameda,341 / 510,"14,164",0.04%
+1623,94503,Standard,American Canyon,Napa,707 / 369,"22,069",0.06%
+1624,94505,Standard,Discovery Bay,Contra Costa,925,"15,445",0.04%
+1625,94506,Standard,Danville,Contra Costa,925,"25,361",0.06%
+1626,94507,Standard,Alamo,Contra Costa,925,"15,495",0.04%
+1627,94508,Standard,Angwin,Napa,369 / 707,"3,233",0.01%
+1628,94509,Standard,Antioch,Contra Costa,925,"69,931",0.18%
+1629,94510,Standard,Benicia,Solano,369 / 707,"27,174",0.07%
+1630,94511 ,P.O. Box,Bethel Island,Contra Costa,925,"2,131",0.01%
+1631,94512,Standard,Birds Landing,Solano,369 / 707,86,0.00%
+1632,94513,Standard,Brentwood,Contra Costa,925,"67,394",0.17%
+1633,94514,Standard,Byron,Contra Costa,925,"1,248",0.00%
+1634,94515,Standard,Calistoga,Napa,369 / 707,"6,834",0.02%
+1635,94516 ,P.O. Box,Canyon,Contra Costa,925,212,0.00%
+1636,94517,Standard,Clayton,Contra Costa,925,"12,525",0.03%
+1637,94518,Standard,Concord,Contra Costa,925,"27,209",0.07%
+1638,94519,Standard,Concord,Contra Costa,925,"18,677",0.05%
+1639,94520,Standard,Concord,Contra Costa,925,"38,383",0.10%
+1640,94521,Standard,Concord,Contra Costa,925,"42,885",0.11%
+1641,94522 ,P.O. Box,Concord,Contra Costa,925,0,0.00%
+1642,94523,Standard,Pleasant Hill,Contra Costa,925,"35,272",0.09%
+1643,94524 ,P.O. Box,Concord,Contra Costa,925,0,0.00%
+1644,94525,Standard,Crockett,Contra Costa,510 / 341,"3,288",0.01%
+1645,94526,Standard,Danville,Contra Costa,925,"33,064",0.08%
+1646,94527 ,P.O. Box,Concord,Contra Costa,925,0,0.00%
+1647,94528 ,P.O. Box,Diablo,Contra Costa,925,"1,054",0.00%
+1648,94529 ,Unique,Concord,Contra Costa,925,0,0.00%
+1649,94530,Standard,El Cerrito,Contra Costa,341 / 510,"26,360",0.07%
+1650,94531,Standard,Antioch,Contra Costa,925,"45,342",0.11%
+1651,94533,Standard,Fairfield,Solano,707 / 369,"77,380",0.20%
+1652,94534,Standard,Fairfield,Solano,707 / 369,"42,296",0.11%
+1653,94535,Standard,Travis AFB,Solano,707 / 369,"4,259",0.01%
+1654,94536,Standard,Fremont,Alameda,510 / 341 / 408 / 650 / 669 / 925,"73,172",0.19%
+1655,94537 ,P.O. Box,Fremont,Alameda,510 / 341 / 408 / 650 / 669 / 925,0,0.00%
+1656,94538,Standard,Fremont,Alameda,510 / 408 / 341 / 650 / 669 / 925,"66,424",0.17%
+1657,94539,Standard,Fremont,Alameda,510 / 408 / 341 / 650 / 669 / 925,"54,026",0.14%
+1658,94540 ,P.O. Box,Hayward,Alameda,510 / 341 / 925,0,0.00%
+1659,94541,Standard,Hayward,Alameda,510 / 341 / 925,"69,736",0.18%
+1660,94542,Standard,Hayward,Alameda,510 / 341,"15,691",0.04%
+1661,94543 ,P.O. Box,Hayward,Alameda,510 / 341 / 925,0,0.00%
+1662,94544,Standard,Hayward,Alameda,341 / 510 / 925,"79,769",0.20%
+1663,94545,Standard,Hayward,Alameda,341 / 510 / 925,"33,786",0.09%
+1664,94546,Standard,Castro Valley,Alameda,510 / 341,"46,687",0.12%
+1665,94547,Standard,Hercules,Contra Costa,510 / 341,"26,016",0.07%
+1666,94548 ,P.O. Box,Knightsen,Contra Costa,925,420,0.00%
+1667,94549,Standard,Lafayette,Contra Costa,925,"28,637",0.07%
+1668,94550,Standard,Livermore,Alameda,925,"49,959",0.13%
+1669,94551,Standard,Livermore,Alameda,925,"40,358",0.10%
+1670,94552,Standard,Castro Valley,Alameda,510 / 341,"14,721",0.04%
+1671,94553,Standard,Martinez,Contra Costa,925,"49,756",0.13%
+1672,94555,Standard,Fremont,Alameda,510 / 341,"36,887",0.09%
+1673,94556,Standard,Moraga,Contra Costa,925,"16,134",0.04%
+1674,94557 ,P.O. Box,Hayward,Alameda,510 / 341 / 925,0,0.00%
+1675,94558,Standard,Napa,Napa,707 / 369,"65,473",0.17%
+1676,94559,Standard,Napa,Napa,707 / 369,"28,137",0.07%
+1677,94560,Standard,Newark,Alameda,510 / 341,"47,533",0.12%
+1678,94561,Standard,Oakley,Contra Costa,925,"44,545",0.11%
+1679,94562 ,P.O. Box,Oakville,Napa,369 / 707,1,0.00%
+1680,94563,Standard,Orinda,Contra Costa,925,"19,496",0.05%
+1681,94564,Standard,Pinole,Contra Costa,510 / 341,"19,024",0.05%
+1682,94565,Standard,Pittsburg,Contra Costa,925,"100,341",0.25%
+1683,94566,Standard,Pleasanton,Alameda,925,"45,055",0.11%
+1684,94567,Standard,Pope Valley,Napa,369 / 707,633,0.00%
+1685,94568,Standard,Dublin,Alameda,925,"72,590",0.18%
+1686,94569 ,P.O. Box,Port Costa,Contra Costa,510 / 341,210,0.00%
+1687,94570 ,P.O. Box,Moraga,Contra Costa,925,0,0.00%
+1688,94571,Standard,Rio Vista,Solano,369 / 707,"10,439",0.03%
+1689,94572,Standard,Rodeo,Contra Costa,510 / 341,"9,622",0.02%
+1690,94573 ,P.O. Box,Rutherford,Napa,369 / 707,96,0.00%
+1691,94574,Standard,Saint Helena,Napa,369 / 707,"8,317",0.02%
+1692,94575,Standard,Moraga,Contra Costa,925,933,0.00%
+1693,94576,Standard,Deer Park,Napa,369 / 707,141,0.00%
+1694,94577,Standard,San Leandro,Alameda,341 / 510,"48,868",0.12%
+1695,94578,Standard,San Leandro,Alameda,341 / 510,"40,957",0.10%
+1696,94579,Standard,San Leandro,Alameda,341 / 510,"21,869",0.06%
+1697,94580,Standard,San Lorenzo,Alameda,341 / 510,"29,590",0.07%
+1698,94581 ,P.O. Box,Napa,Napa,707 / 369,0,0.00%
+1699,94582,Standard,San Ramon,Contra Costa,925,"49,311",0.12%
+1700,94583,Standard,San Ramon,Contra Costa,925,"38,444",0.10%
+1701,94585,Standard,Suisun City,Solano,369 / 707,"29,764",0.08%
+1702,94586,Standard,Sunol,Alameda,925,943,0.00%
+1703,94587,Standard,Union City,Alameda,510 / 341,"70,121",0.18%
+1704,94588,Standard,Pleasanton,Alameda,925,"36,398",0.09%
+1705,94589,Standard,Vallejo,Solano,707 / 369,"32,290",0.08%
+1706,94590,Standard,Vallejo,Solano,707 / 369,"39,981",0.10%
+1707,94591,Standard,Vallejo,Solano,707 / 369,"56,305",0.14%
+1708,94592,Standard,Vallejo,Solano,707 / 369,"1,082",0.00%
+1709,94595,Standard,Walnut Creek,Contra Costa,341 / 369 / 510 / 707 / 925,"17,716",0.04%
+1710,94596,Standard,Walnut Creek,Contra Costa,341 / 369 / 510 / 707 / 925,"22,861",0.06%
+1711,94597,Standard,Walnut Creek,Contra Costa,925,"23,661",0.06%
+1712,94598,Standard,Walnut Creek,Contra Costa,341 / 369 / 510 / 707 / 925,"26,826",0.07%
+1713,94599,Standard,Yountville,Napa,369 / 707,"3,540",0.01%
+1714,94601,Standard,Oakland,Alameda,341 / 510,"54,166",0.14%
+1715,94602,Standard,Oakland,Alameda,341 / 510,"29,702",0.08%
+1716,94603,Standard,Oakland,Alameda,510 / 341,"36,681",0.09%
+1717,94604 ,P.O. Box,Oakland,Alameda,341 / 415 / 510 / 628 / 925,0,0.00%
+1718,94605,Standard,Oakland,Alameda,510 / 341,"44,294",0.11%
+1719,94606,Standard,Oakland,Alameda,341 / 510,"40,768",0.10%
+1720,94607,Standard,Oakland,Alameda,510 / 341 / 415 / 628,"31,067",0.08%
+1721,94608,Standard,Emeryville,Alameda,341 / 510,"33,073",0.08%
+1722,94609,Standard,Oakland,Alameda,341 / 510,"23,578",0.06%
+1723,94610,Standard,Oakland,Alameda,510 / 341 / 415 / 628,"31,261",0.08%
+1724,94611,Standard,Oakland,Alameda,341 / 510,"40,262",0.10%
+1725,94612,Standard,Oakland,Alameda,510 / 415 / 341 / 925 / 628,"19,773",0.05%
+1726,94613 ,P.O. Box,Oakland,Alameda,341 / 510,346,0.00%
+1727,94614 ,P.O. Box,Oakland,Alameda,341 / 415 / 510 / 628 / 925,0,0.00%
+1728,94615,Standard,Oakland,Alameda,341 / 415 / 510 / 628 / 925,0,0.00%
+1729,94617,Standard,Oakland,Alameda,341 / 415 / 510 / 628 / 925,0,0.00%
+1730,94618,Standard,Oakland,Alameda,341 / 510,"16,946",0.04%
+1731,94619,Standard,Oakland,Alameda,341 / 510,"24,867",0.06%
+1732,94620 ,P.O. Box,Piedmont,Alameda,341 / 415 / 510 / 628 / 925,0,0.00%
+1733,94621,Standard,Oakland,Alameda,510 / 341,"35,816",0.09%
+1734,94622 ,Unique,Oakland,Alameda,341 / 415 / 510 / 628 / 925,0,0.00%
+1735,94623 ,P.O. Box,Oakland,Alameda,341 / 415 / 510 / 628 / 925,0,0.00%
+1736,94624 ,P.O. Box,Oakland,Alameda,341 / 415 / 510 / 628 / 925,0,0.00%
+1737,94649 ,Unique,Oakland,Alameda,341 / 415 / 510 / 628 / 925,0,0.00%
+1738,94659 ,Unique,Oakland,Alameda,341 / 415 / 510 / 628 / 925,0,0.00%
+1739,94660 ,Unique,Oakland,Alameda,341 / 415 / 510 / 628 / 925,0,0.00%
+1740,94661 ,P.O. Box,Oakland,Alameda,341 / 415 / 510 / 628 / 925,0,0.00%
+1741,94662 ,P.O. Box,Emeryville,Alameda,341 / 510,0,0.00%
+1742,94666 ,Unique,Oakland,Alameda,341 / 415 / 510 / 628 / 925,0,0.00%
+1743,94701 ,P.O. Box,Berkeley,Alameda,510 / 341,0,0.00%
+1744,94702,Standard,Berkeley,Alameda,510 / 341,"17,637",0.04%
+1745,94703,Standard,Berkeley,Alameda,510 / 341,"20,805",0.05%
+1746,94704,Standard,Berkeley,Alameda,510 / 341,"25,259",0.06%
+1747,94705,Standard,Berkeley,Alameda,510 / 341,"13,591",0.03%
+1748,94706,Standard,Albany,Alameda,341 / 510,"21,134",0.05%
+1749,94707,Standard,Berkeley,Alameda,341 / 510,"12,781",0.03%
+1750,94708,Standard,Berkeley,Alameda,341 / 510,"11,553",0.03%
+1751,94709,Standard,Berkeley,Alameda,510 / 341,"12,514",0.03%
+1752,94710,Standard,Berkeley,Alameda,341 / 510,"9,552",0.02%
+1753,94712 ,P.O. Box,Berkeley,Alameda,510 / 341,0,0.00%
+1754,94720 ,Unique,Berkeley,Alameda,510 / 341,"7,478",0.02%
+1755,94801,Standard,Richmond,Contra Costa,510 / 341,"33,486",0.08%
+1756,94802 ,P.O. Box,Richmond,Contra Costa,510 / 341,0,0.00%
+1757,94803,Standard,El Sobrante,Contra Costa,510 / 341,"26,457",0.07%
+1758,94804,Standard,Richmond,Contra Costa,510 / 341,"45,108",0.11%
+1759,94805,Standard,Richmond,Contra Costa,510 / 341,"14,958",0.04%
+1760,94806,Standard,San Pablo,Contra Costa,510 / 341,"64,589",0.16%
+1761,94807 ,P.O. Box,Richmond,Contra Costa,510 / 341,0,0.00%
+1762,94808 ,P.O. Box,Richmond,Contra Costa,510 / 341,0,0.00%
+1763,94820 ,P.O. Box,El Sobrante,Contra Costa,510 / 341,0,0.00%
+1764,94850,Standard,Richmond,Contra Costa,341 / 510,0,0.00%
+1765,94901,Standard,San Rafael,Marin,415 / 628,"43,338",0.11%
+1766,94903,Standard,San Rafael,Marin,415 / 628,"30,514",0.08%
+1767,94904,Standard,Greenbrae,Marin,415 / 628,"12,718",0.03%
+1768,94912 ,P.O. Box,San Rafael,Marin,415 / 628,0,0.00%
+1769,94913 ,P.O. Box,San Rafael,Marin,415 / 628,0,0.00%
+1770,94914 ,P.O. Box,Kentfield,Marin,415 / 628,0,0.00%
+1771,94915 ,P.O. Box,San Rafael,Marin,415 / 628,0,0.00%
+1772,94920,Standard,Belvedere Tiburon,Marin,415 / 628,"13,010",0.03%
+1773,94922,Standard,Bodega,Sonoma,369 / 707,176,0.00%
+1774,94923,Standard,Bodega Bay,Sonoma,369 / 707,"1,287",0.00%
+1775,94924,Standard,Bolinas,Marin,415 / 628,"1,507",0.00%
+1776,94925,Standard,Corte Madera,Marin,415 / 628,"10,204",0.03%
+1777,94926 ,Unique,Rohnert Park,Sonoma,369 / 707,0,0.00%
+1778,94927 ,P.O. Box,Rohnert Park,Sonoma,369 / 707,0,0.00%
+1779,94928,Standard,Rohnert Park,Sonoma,369 / 707,"47,062",0.12%
+1780,94929 ,P.O. Box,Dillon Beach,Marin,369 / 707,227,0.00%
+1781,94930,Standard,Fairfax,Marin,415 / 628,"8,729",0.02%
+1782,94931,Standard,Cotati,Sonoma,369 / 707,"9,119",0.02%
+1783,94933 ,P.O. Box,Forest Knolls,Marin,415 / 628,"1,226",0.00%
+1784,94937,Standard,Inverness,Marin,415 / 628,935,0.00%
+1785,94938 ,P.O. Box,Lagunitas,Marin,415 / 628,683,0.00%
+1786,94939,Standard,Larkspur,Marin,415 / 628,"7,465",0.02%
+1787,94940,Standard,Marshall,Marin,369 / 707,319,0.00%
+1788,94941,Standard,Mill Valley,Marin,415 / 628,"31,480",0.08%
+1789,94942 ,P.O. Box,Mill Valley,Marin,415 / 628,0,0.00%
+1790,94945,Standard,Novato,Marin,415 / 628,"17,876",0.05%
+1791,94946,Standard,Nicasio,Marin,415 / 628,624,0.00%
+1792,94947,Standard,Novato,Marin,415 / 628,"24,870",0.06%
+1793,94948 ,P.O. Box,Novato,Marin,415 / 628,0,0.00%
+1794,94949,Standard,Novato,Marin,415 / 628,"17,588",0.04%
+1795,94950 ,P.O. Box,Olema,Marin,415 / 628,60,0.00%
+1796,94951,Standard,Penngrove,Sonoma,369 / 707,"4,172",0.01%
+1797,94952,Standard,Petaluma,Sonoma,369 / 707,"33,619",0.09%
+1798,94953 ,P.O. Box,Petaluma,Sonoma,369 / 707,0,0.00%
+1799,94954,Standard,Petaluma,Sonoma,369 / 707,"38,301",0.10%
+1800,94955 ,P.O. Box,Petaluma,Sonoma,369 / 707,0,0.00%
+1801,94956,Standard,Point Reyes Station,Marin,415 / 628,"1,684",0.00%
+1802,94957 ,P.O. Box,Ross,Marin,415 / 628,"1,858",0.00%
+1803,94960,Standard,San Anselmo,Marin,415 / 628,"15,920",0.04%
+1804,94963 ,P.O. Box,San Geronimo,Marin,415 / 628,506,0.00%
+1805,94964 ,P.O. Box,San Quentin,Marin,415 / 628,"4,264",0.01%
+1806,94965,Standard,Sausalito,Marin,415 / 628,"11,447",0.03%
+1807,94966 ,P.O. Box,Sausalito,Marin,415 / 628,0,0.00%
+1808,94970,Standard,Stinson Beach,Marin,415 / 628,620,0.00%
+1809,94971 ,P.O. Box,Tomales,Marin,369 / 707,372,0.00%
+1810,94972,Standard,Valley Ford,Sonoma,369 / 707,146,0.00%
+1811,94973 ,P.O. Box,Woodacre,Marin,415 / 628,"1,516",0.00%
+1812,94974,Standard,San Quentin,Marin,415 / 628,0,0.00%
+1813,94975 ,P.O. Box,Petaluma,Sonoma,369 / 707,0,0.00%
+1814,94976 ,P.O. Box,Corte Madera,Marin,415 / 628,0,0.00%
+1815,94977 ,P.O. Box,Larkspur,Marin,415 / 628,0,0.00%
+1816,94978 ,P.O. Box,Fairfax,Marin,415 / 628,0,0.00%
+1817,94979 ,P.O. Box,San Anselmo,Marin,415 / 628,0,0.00%
+1818,94998 ,Unique,Novato,Marin,415 / 628,0,0.00%
+1819,94999,Standard,Petaluma,Sonoma,369 / 707,0,0.00%
+1820,95001 ,P.O. Box,Aptos,Santa Cruz,831,0,0.00%
+1821,95002 ,P.O. Box,Alviso,Santa Clara,341 / 408 / 510 / 650 / 669,"2,039",0.01%
+1822,95003,Standard,Aptos,Santa Cruz,831,"24,706",0.06%
+1823,95004,Standard,Aromas,Monterey,831,"4,348",0.01%
+1824,95005,Standard,Ben Lomond,Santa Cruz,831,"6,551",0.02%
+1825,95006,Standard,Boulder Creek,Santa Cruz,831,"9,454",0.02%
+1826,95007 ,P.O. Box,Brookdale,Santa Cruz,831,883,0.00%
+1827,95008,Standard,Campbell,Santa Clara,408 / 669,"49,038",0.12%
+1828,95009 ,P.O. Box,Campbell,Santa Clara,408 / 669,0,0.00%
+1829,95010,Standard,Capitola,Santa Cruz,831,"9,080",0.02%
+1830,95011 ,P.O. Box,Campbell,Santa Clara,408 / 669,0,0.00%
+1831,95012,Standard,Castroville,Monterey,831,"11,858",0.03%
+1832,95013 ,P.O. Box,Coyote,Santa Clara,669 / 408,108,0.00%
+1833,95014,Standard,Cupertino,Santa Clara,669 / 408,"62,585",0.16%
+1834,95015 ,P.O. Box,Cupertino,Santa Clara,408,0,0.00%
+1835,95017,Standard,Davenport,Santa Cruz,831,969,0.00%
+1836,95018,Standard,Felton,Santa Cruz,831,"8,003",0.02%
+1837,95019,Standard,Freedom,Santa Cruz,831 / 408,"6,603",0.02%
+1838,95020,Standard,Gilroy,Santa Clara,408 / 669,"68,090",0.17%
+1839,95021 ,P.O. Box,Gilroy,Santa Clara,408 / 669,0,0.00%
+1840,95023,Standard,Hollister,San Benito,831 / 408,"56,973",0.14%
+1841,95024 ,P.O. Box,Hollister,San Benito,831 / 408,0,0.00%
+1842,95025 ,P.O. Box,San Jose,San Benito,408 / 669,0,0.00%
+1843,95026 ,P.O. Box,Holy City,Santa Clara,408 / 669,0,0.00%
+1844,95030,Standard,Los Gatos,Santa Clara,408 / 669,"13,585",0.03%
+1845,95031 ,P.O. Box,Los Gatos,Santa Clara,408 / 669,0,0.00%
+1846,95032,Standard,Los Gatos,Santa Clara,408 / 669,"28,109",0.07%
+1847,95033,Standard,Los Gatos,Santa Clara,408 / 669,"9,565",0.02%
+1848,95035,Standard,Milpitas,Santa Clara,408,"80,440",0.20%
+1849,95036 ,P.O. Box,Milpitas,Santa Clara,341 / 408 / 510 / 650 / 669,0,0.00%
+1850,95037,Standard,Morgan Hill,Santa Clara,408 / 669,"53,126",0.13%
+1851,95038 ,P.O. Box,Morgan Hill,Santa Clara,408 / 669,0,0.00%
+1852,95039,Standard,Moss Landing,Monterey,831,"1,617",0.00%
+1853,95041 ,P.O. Box,Mount Hermon,Santa Cruz,831,602,0.00%
+1854,95042 ,P.O. Box,New Almaden,Santa Clara,408,0,0.00%
+1855,95043,Standard,Paicines,San Benito,831,709,0.00%
+1856,95044 ,P.O. Box,Redwood Estates,Santa Clara,408 / 669,0,0.00%
+1857,95045,Standard,San Juan Bautista,San Benito,831 / 408,"4,323",0.01%
+1858,95046,Standard,San Martin,Santa Clara,408 / 669,"6,361",0.02%
+1859,95050,Standard,Santa Clara,Santa Clara,408,"39,031",0.10%
+1860,95051,Standard,Santa Clara,Santa Clara,408,"61,466",0.16%
+1861,95052 ,P.O. Box,Santa Clara,Santa Clara,408,0,0.00%
+1862,95053 ,Unique,Santa Clara,Santa Clara,408,"2,582",0.01%
+1863,95054,Standard,Santa Clara,Santa Clara,408,"25,024",0.06%
+1864,95055 ,P.O. Box,Santa Clara,Santa Clara,408,0,0.00%
+1865,95056 ,P.O. Box,Santa Clara,Santa Clara,408,0,0.00%
+1866,95060,Standard,Santa Cruz,Santa Cruz,831,"47,931",0.12%
+1867,95061 ,P.O. Box,Santa Cruz,Santa Cruz,831,0,0.00%
+1868,95062,Standard,Santa Cruz,Santa Cruz,831,"36,268",0.09%
+1869,95063 ,P.O. Box,Santa Cruz,Santa Cruz,831,0,0.00%
+1870,95064,Standard,Santa Cruz,Santa Cruz,831,"8,806",0.02%
+1871,95065,Standard,Santa Cruz,Santa Cruz,831,"8,444",0.02%
+1872,95066,Standard,Scotts Valley,Santa Cruz,831,"15,483",0.04%
+1873,95067 ,P.O. Box,Scotts Valley,Santa Cruz,831,0,0.00%
+1874,95070,Standard,Saratoga,Santa Clara,669 / 408,"32,419",0.08%
+1875,95071 ,P.O. Box,Saratoga,Santa Clara,669 / 408,0,0.00%
+1876,95073,Standard,Soquel,Santa Cruz,831,"10,549",0.03%
+1877,95075,Standard,Tres Pinos,San Benito,831 / 408,470,0.00%
+1878,95076,Standard,Watsonville,Santa Cruz,831 / 408,"84,433",0.21%
+1879,95077 ,P.O. Box,Watsonville,Santa Cruz,831 / 408,0,0.00%
+1880,95101,Standard,San Jose,Santa Clara,341 / 408 / 510 / 650 / 669,0,0.00%
+1881,95103 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1882,95106 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1883,95108 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1884,95109 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1885,95110,Standard,San Jose,Santa Clara,408 / 669 / 650,"20,495",0.05%
+1886,95111,Standard,San Jose,Santa Clara,408 / 669,"60,593",0.15%
+1887,95112,Standard,San Jose,Santa Clara,408 / 669 / 650,"60,754",0.15%
+1888,95113,Standard,San Jose,Santa Clara,408 / 669 / 650,"2,658",0.01%
+1889,95115 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1890,95116,Standard,San Jose,Santa Clara,408,"51,222",0.13%
+1891,95117,Standard,San Jose,Santa Clara,408,"30,137",0.08%
+1892,95118,Standard,San Jose,Santa Clara,408,"32,764",0.08%
+1893,95119,Standard,San Jose,Santa Clara,669 / 408,"10,050",0.03%
+1894,95120,Standard,San Jose,Santa Clara,408,"38,341",0.10%
+1895,95121,Standard,San Jose,Santa Clara,408,"37,609",0.10%
+1896,95122,Standard,San Jose,Santa Clara,408,"54,056",0.14%
+1897,95123,Standard,San Jose,Santa Clara,408 / 669,"70,040",0.18%
+1898,95124,Standard,San Jose,Santa Clara,408,"50,054",0.13%
+1899,95125,Standard,San Jose,Santa Clara,408,"54,000",0.14%
+1900,95126,Standard,San Jose,Santa Clara,408,"37,372",0.09%
+1901,95127,Standard,San Jose,Santa Clara,408,"63,749",0.16%
+1902,95128,Standard,San Jose,Santa Clara,408,"34,776",0.09%
+1903,95129,Standard,San Jose,Santa Clara,408,"41,819",0.11%
+1904,95130,Standard,San Jose,Santa Clara,408,"13,584",0.03%
+1905,95131,Standard,San Jose,Santa Clara,341 / 408 / 510 / 650 / 669,"30,975",0.08%
+1906,95132,Standard,San Jose,Santa Clara,408,"40,426",0.10%
+1907,95133,Standard,San Jose,Santa Clara,408,"30,080",0.08%
+1908,95134,Standard,San Jose,Santa Clara,341 / 408 / 510 / 650 / 669,"29,746",0.08%
+1909,95135,Standard,San Jose,Santa Clara,408,"20,734",0.05%
+1910,95136,Standard,San Jose,Santa Clara,408 / 669,"45,971",0.12%
+1911,95138,Standard,San Jose,Santa Clara,669 / 408,"19,530",0.05%
+1912,95139,Standard,San Jose,Santa Clara,669 / 408,"6,764",0.02%
+1913,95140,Standard,Mount Hamilton,Santa Clara,408 / 669,276,0.00%
+1914,95141,Standard,San Jose,Santa Clara,408,0,0.00%
+1915,95148,Standard,San Jose,Santa Clara,408,"45,819",0.12%
+1916,95150 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1917,95151 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1918,95152 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1919,95153 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1920,95154 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1921,95155 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1922,95156 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1923,95157 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1924,95158 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1925,95159 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1926,95160 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1927,95161 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1928,95164 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1929,95170 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1930,95172 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1931,95173 ,P.O. Box,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1932,95190 ,Unique,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1933,95191 ,Unique,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1934,95192 ,Unique,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1935,95193 ,Unique,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1936,95194 ,Unique,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1937,95196 ,Unique,San Jose,Santa Clara,408 / 669 / 650,0,0.00%
+1938,95201 ,P.O. Box,Stockton,San Joaquin,209 / 350,0,0.00%
+1939,95202,Standard,Stockton,San Joaquin,209 / 350,"6,949",0.02%
+1940,95203,Standard,Stockton,San Joaquin,209 / 350,"18,064",0.05%
+1941,95204,Standard,Stockton,San Joaquin,209 / 350,"30,719",0.08%
+1942,95205,Standard,Stockton,San Joaquin,209 / 350,"40,720",0.10%
+1943,95206,Standard,Stockton,San Joaquin,209 / 350,"69,350",0.18%
+1944,95207,Standard,Stockton,San Joaquin,209 / 350,"52,465",0.13%
+1945,95208 ,P.O. Box,Stockton,San Joaquin,209 / 350,0,0.00%
+1946,95209,Standard,Stockton,San Joaquin,209 / 350,"44,660",0.11%
+1947,95210,Standard,Stockton,San Joaquin,209 / 350,"41,378",0.10%
+1948,95211 ,Unique,Stockton,San Joaquin,209 / 350,"1,832",0.00%
+1949,95212,Standard,Stockton,San Joaquin,209 / 350,"30,111",0.08%
+1950,95213 ,P.O. Box,Stockton,San Joaquin,209 / 350,0,0.00%
+1951,95215,Standard,Stockton,San Joaquin,209 / 350,"27,118",0.07%
+1952,95219,Standard,Stockton,San Joaquin,209 / 350,"29,392",0.07%
+1953,95220,Standard,Acampo,San Joaquin,209 / 350,"7,241",0.02%
+1954,95221 ,P.O. Box,Altaville,Calaveras,209 / 350,549,0.00%
+1955,95222,Standard,Angels Camp,Calaveras,209 / 350,"4,888",0.01%
+1956,95223,Standard,Arnold,Calaveras,209 / 350,"4,050",0.01%
+1957,95224 ,P.O. Box,Avery,Calaveras,209 / 350,367,0.00%
+1958,95225 ,P.O. Box,Burson,Calaveras,209 / 350,605,0.00%
+1959,95226 ,P.O. Box,Campo Seco,Calaveras,209 / 350,48,0.00%
+1960,95227 ,P.O. Box,Clements,San Joaquin,209 / 350,"1,009",0.00%
+1961,95228,Standard,Copperopolis,Calaveras,209 / 350,"4,571",0.01%
+1962,95229 ,P.O. Box,Douglas Flat,Calaveras,209 / 350,0,0.00%
+1963,95230,Standard,Farmington,San Joaquin,209 / 350,786,0.00%
+1964,95231,Standard,French Camp,San Joaquin,209 / 350,"4,808",0.01%
+1965,95232,Standard,Glencoe,Calaveras,209 / 350,170,0.00%
+1966,95233 ,P.O. Box,Hathaway Pines,Calaveras,209 / 350,363,0.00%
+1967,95234 ,P.O. Box,Holt,San Joaquin,209 / 350,0,0.00%
+1968,95236,Standard,Linden,San Joaquin,209 / 350,"4,476",0.01%
+1969,95237,Standard,Lockeford,San Joaquin,209 / 350,"3,259",0.01%
+1970,95240,Standard,Lodi,San Joaquin,209 / 350,"49,102",0.12%
+1971,95241 ,P.O. Box,Lodi,San Joaquin,209 / 350,0,0.00%
+1972,95242,Standard,Lodi,San Joaquin,209 / 350,"27,341",0.07%
+1973,95245,Standard,Mokelumne Hill,Calaveras,209 / 350,"2,126",0.01%
+1974,95246,Standard,Mountain Ranch,Calaveras,209 / 350,"1,307",0.00%
+1975,95247,Standard,Murphys,Calaveras,209 / 350,"3,963",0.01%
+1976,95248 ,P.O. Box,Rail Road Flat,Calaveras,209 / 350,266,0.00%
+1977,95249,Standard,San Andreas,Calaveras,209 / 350,"3,983",0.01%
+1978,95251,Standard,Vallecito,Calaveras,209 / 350,753,0.00%
+1979,95252,Standard,Valley Springs,Calaveras,209 / 350,"14,260",0.04%
+1980,95253 ,P.O. Box,Victor,San Joaquin,209 / 350,286,0.00%
+1981,95254 ,P.O. Box,Wallace,Calaveras,209 / 350,525,0.00%
+1982,95255,Standard,West Point,Calaveras,209 / 350,"1,956",0.00%
+1983,95257,Standard,Wilseyville,Calaveras,209 / 350,454,0.00%
+1984,95258,Standard,Woodbridge,San Joaquin,209 / 350,"4,054",0.01%
+1985,95267 ,P.O. Box,Stockton,San Joaquin,209 / 350,0,0.00%
+1986,95269 ,P.O. Box,Stockton,San Joaquin,209 / 350,0,0.00%
+1987,95296 ,Unique,Stockton,San Joaquin,209 / 350,0,0.00%
+1988,95297 ,Unique,Stockton,San Joaquin,209 / 350,0,0.00%
+1989,95301,Standard,Atwater,Merced,209 / 350,"40,886",0.10%
+1990,95303,Standard,Ballico,Merced,209 / 350,722,0.00%
+1991,95304,Standard,Tracy,San Joaquin,209 / 350,"16,210",0.04%
+1992,95305 ,P.O. Box,Big Oak Flat,Tuolumne,209 / 350,416,0.00%
+1993,95306,Standard,Catheys Valley,Mariposa,209 / 350,936,0.00%
+1994,95307,Standard,Ceres,Stanislaus,209 / 350 / 559,"46,346",0.12%
+1995,95309 ,P.O. Box,Chinese Camp,Tuolumne,209 / 350,9,0.00%
+1996,95310,Standard,Columbia,Tuolumne,209 / 350,"1,794",0.00%
+1997,95311,Standard,Coulterville,Mariposa,209 / 350,"1,997",0.01%
+1998,95312 ,P.O. Box,Cressey,Merced,209 / 350,251,0.00%
+1999,95313,Standard,Crows Landing,Stanislaus,209 / 350,"1,351",0.00%
+2000,95315,Standard,Delhi,Merced,209 / 350,"12,875",0.03%
+2001,95316,Standard,Denair,Stanislaus,209 / 350,"7,206",0.02%
+2002,95317,Standard,El Nido,Merced,209 / 350,750,0.00%
+2003,95318 ,P.O. Box,El Portal,Mariposa,209 / 350,413,0.00%
+2004,95319 ,P.O. Box,Empire,Stanislaus,209 / 350,"2,130",0.01%
+2005,95320,Standard,Escalon,San Joaquin,209 / 350,"13,148",0.03%
+2006,95321,Standard,Groveland,Tuolumne,209 / 350,"3,745",0.01%
+2007,95322,Standard,Gustine,Merced,209 / 350,"10,381",0.03%
+2008,95323,Standard,Hickman,Stanislaus,209 / 350,"1,266",0.00%
+2009,95324,Standard,Hilmar,Merced,209 / 350,"7,148",0.02%
+2010,95325,Standard,Hornitos,Mariposa,209 / 350,47,0.00%
+2011,95326,Standard,Hughson,Stanislaus,209 / 350,"10,429",0.03%
+2012,95327,Standard,Jamestown,Tuolumne,209 / 350,"8,837",0.02%
+2013,95328,Standard,Keyes,Stanislaus,209 / 350 / 559,"3,925",0.01%
+2014,95329,Standard,La Grange,Stanislaus,209 / 350,"2,747",0.01%
+2015,95330,Standard,Lathrop,San Joaquin,209 / 350,"29,065",0.07%
+2016,95333,Standard,Le Grand,Merced,209 / 350,"2,752",0.01%
+2017,95334,Standard,Livingston,Merced,209 / 350,"16,594",0.04%
+2018,95335,Standard,Long Barn,Tuolumne,209 / 350,412,0.00%
+2019,95336,Standard,Manteca,San Joaquin,209 / 350,"47,281",0.12%
+2020,95337,Standard,Manteca,San Joaquin,209 / 350,"44,476",0.11%
+2021,95338,Standard,Mariposa,Mariposa,209 / 350,"11,019",0.03%
+2022,95340,Standard,Merced,Merced,209 / 350,"38,606",0.10%
+2023,95341,Standard,Merced,Merced,209 / 350,"33,194",0.08%
+2024,95343,Standard,Merced,Merced,209 / 350,0,0.00%
+2025,95344 ,P.O. Box,Merced,Merced,209 / 350,0,0.00%
+2026,95345,Standard,Midpines,Mariposa,209 / 350,633,0.00%
+2027,95346,Standard,Mi Wuk Village,Tuolumne,209 / 350,"1,106",0.00%
+2028,95347 ,P.O. Box,Moccasin,Tuolumne,209 / 350,0,0.00%
+2029,95348,Standard,Merced,Merced,209 / 350,"35,066",0.09%
+2030,95350,Standard,Modesto,Stanislaus,209 / 350 / 559,"55,344",0.14%
+2031,95351,Standard,Modesto,Stanislaus,209 / 350 / 559,"48,668",0.12%
+2032,95352 ,P.O. Box,Modesto,Stanislaus,209 / 350 / 559,0,0.00%
+2033,95353 ,P.O. Box,Modesto,Stanislaus,209 / 350 / 559,0,0.00%
+2034,95354,Standard,Modesto,Stanislaus,209 / 350 / 559,"26,765",0.07%
+2035,95355,Standard,Modesto,Stanislaus,209 / 350,"62,337",0.16%
+2036,95356,Standard,Modesto,Stanislaus,209 / 350,"33,070",0.08%
+2037,95357,Standard,Modesto,Stanislaus,209 / 350,"12,692",0.03%
+2038,95358,Standard,Modesto,Stanislaus,209 / 350,"32,131",0.08%
+2039,95360,Standard,Newman,Stanislaus,209 / 350,"13,892",0.04%
+2040,95361,Standard,Oakdale,Stanislaus,209 / 350,"35,019",0.09%
+2041,95363,Standard,Patterson,Stanislaus,209 / 350,"29,309",0.07%
+2042,95364,Standard,Pinecrest,Tuolumne,209 / 350,24,0.00%
+2043,95365,Standard,Planada,Merced,209 / 350,"4,502",0.01%
+2044,95366,Standard,Ripon,San Joaquin,209 / 350,"18,239",0.05%
+2045,95367,Standard,Riverbank,Stanislaus,209 / 350,"25,421",0.06%
+2046,95368,Standard,Salida,Stanislaus,209 / 350,"13,896",0.04%
+2047,95369,Standard,Snelling,Merced,209 / 350,816,0.00%
+2048,95370,Standard,Sonora,Tuolumne,209 / 350,"28,090",0.07%
+2049,95372,Standard,Soulsbyville,Tuolumne,209 / 350,"1,838",0.00%
+2050,95373 ,P.O. Box,Standard,Tuolumne,209 / 350,0,0.00%
+2051,95374,Standard,Stevinson,Merced,209 / 350,"1,856",0.00%
+2052,95375 ,P.O. Box,Strawberry,Tuolumne,209 / 350,113,0.00%
+2053,95376,Standard,Tracy,San Joaquin,209 / 350,"53,781",0.14%
+2054,95377,Standard,Tracy,San Joaquin,209 / 350,"34,590",0.09%
+2055,95378 ,P.O. Box,Tracy,San Joaquin,209 / 350,0,0.00%
+2056,95379,Standard,Tuolumne,Tuolumne,209 / 350,"3,816",0.01%
+2057,95380,Standard,Turlock,Stanislaus,209 / 350,"42,912",0.11%
+2058,95381 ,P.O. Box,Turlock,Stanislaus,209 / 350,0,0.00%
+2059,95382,Standard,Turlock,Stanislaus,209 / 350,"38,702",0.10%
+2060,95383,Standard,Twain Harte,Tuolumne,209 / 350,"4,157",0.01%
+2061,95385,Standard,Vernalis,San Joaquin,209 / 350,515,0.00%
+2062,95386,Standard,Waterford,Stanislaus,209 / 350,"10,750",0.03%
+2063,95387 ,P.O. Box,Westley,Stanislaus,209 / 350,739,0.00%
+2064,95388,Standard,Winton,Merced,209 / 350,"13,878",0.04%
+2065,95389,Standard,Yosemite National Park,Mariposa,209 / 350,594,0.00%
+2066,95391,Standard,Tracy,San Joaquin,209 / 350,"24,709",0.06%
+2067,95397 ,Unique,Modesto,Stanislaus,209 / 350 / 559,0,0.00%
+2068,95401,Standard,Santa Rosa,Sonoma,707 / 369,"37,272",0.09%
+2069,95402 ,P.O. Box,Santa Rosa,Sonoma,707 / 369,0,0.00%
+2070,95403,Standard,Santa Rosa,Sonoma,707 / 369,"44,705",0.11%
+2071,95404,Standard,Santa Rosa,Sonoma,707 / 369,"38,034",0.10%
+2072,95405,Standard,Santa Rosa,Sonoma,707 / 369,"22,015",0.06%
+2073,95406 ,P.O. Box,Santa Rosa,Sonoma,707 / 369,0,0.00%
+2074,95407,Standard,Santa Rosa,Sonoma,707 / 369,"42,504",0.11%
+2075,95409,Standard,Santa Rosa,Sonoma,707 / 369,"27,741",0.07%
+2076,95410,Standard,Albion,Mendocino,369 / 707,974,0.00%
+2077,95412,Standard,Annapolis,Sonoma,369 / 707,275,0.00%
+2078,95415,Standard,Boonville,Mendocino,369 / 707,"1,496",0.00%
+2079,95416 ,P.O. Box,Boyes Hot Springs,Sonoma,707 / 369,0,0.00%
+2080,95417,Standard,Branscomb,Mendocino,369 / 707,168,0.00%
+2081,95418 ,P.O. Box,Calpella,Mendocino,369 / 707,0,0.00%
+2082,95419 ,P.O. Box,Camp Meeker,Sonoma,369 / 707,192,0.00%
+2083,95420,Standard,Caspar,Mendocino,369 / 707,396,0.00%
+2084,95421,Standard,Cazadero,Sonoma,369 / 707,"1,409",0.00%
+2085,95422,Standard,Clearlake,Lake,707 / 369,"17,017",0.04%
+2086,95423,Standard,Clearlake Oaks,Lake,369 / 707,"4,232",0.01%
+2087,95424 ,P.O. Box,Clearlake Park,Lake,707 / 369,0,0.00%
+2088,95425,Standard,Cloverdale,Sonoma,369 / 707,"11,252",0.03%
+2089,95426 ,P.O. Box,Cobb,Lake,369 / 707,"1,921",0.00%
+2090,95427,Standard,Comptche,Mendocino,369 / 707,492,0.00%
+2091,95428,Standard,Covelo,Mendocino,369 / 707,"3,017",0.01%
+2092,95429,Standard,Dos Rios,Mendocino,369 / 707,106,0.00%
+2093,95430 ,P.O. Box,Duncans Mills,Sonoma,369 / 707,45,0.00%
+2094,95431 ,P.O. Box,Eldridge,Sonoma,707 / 369,0,0.00%
+2095,95432,Standard,Elk,Mendocino,369 / 707,443,0.00%
+2096,95433 ,P.O. Box,El Verano,Sonoma,707 / 369,0,0.00%
+2097,95435 ,P.O. Box,Finley,Lake,369 / 707,53,0.00%
+2098,95436,Standard,Forestville,Sonoma,369 / 707,"5,265",0.01%
+2099,95437,Standard,Fort Bragg,Mendocino,369 / 707,"14,608",0.04%
+2100,95439,Standard,Fulton,Sonoma,707 / 369,747,0.00%
+2101,95441,Standard,Geyserville,Sonoma,369 / 707,"1,915",0.00%
+2102,95442,Standard,Glen Ellen,Sonoma,707 / 369,"2,955",0.01%
+2103,95443,Standard,Glenhaven,Lake,707 / 369,134,0.00%
+2104,95444,Standard,Graton,Sonoma,369 / 707,710,0.00%
+2105,95445,Standard,Gualala,Mendocino,369 / 707,"2,362",0.01%
+2106,95446,Standard,Guerneville,Sonoma,707 / 369,"4,690",0.01%
+2107,95448,Standard,Healdsburg,Sonoma,707 / 369,"16,245",0.04%
+2108,95449,Standard,Hopland,Mendocino,369 / 707,"1,422",0.00%
+2109,95450,Standard,Jenner,Sonoma,369 / 707,372,0.00%
+2110,95451,Standard,Kelseyville,Lake,369 / 707,"11,747",0.03%
+2111,95452,Standard,Kenwood,Sonoma,707 / 369,"1,141",0.00%
+2112,95453,Standard,Lakeport,Lake,369 / 707,"11,978",0.03%
+2113,95454,Standard,Laytonville,Mendocino,369 / 707,"2,796",0.01%
+2114,95456,Standard,Little River,Mendocino,369 / 707,798,0.00%
+2115,95457,Standard,Lower Lake,Lake,707 / 369,"3,231",0.01%
+2116,95458,Standard,Lucerne,Lake,707 / 369,"3,394",0.01%
+2117,95459,Standard,Manchester,Mendocino,369 / 707,581,0.00%
+2118,95460,Standard,Mendocino,Mendocino,369 / 707,"2,364",0.01%
+2119,95461,Standard,Middletown,Lake,369 / 707,"2,689",0.01%
+2120,95462,Standard,Monte Rio,Sonoma,369 / 707,"1,249",0.00%
+2121,95463,Standard,Navarro,Mendocino,369 / 707,218,0.00%
+2122,95464,Standard,Nice,Lake,369 / 707,"2,725",0.01%
+2123,95465,Standard,Occidental,Sonoma,369 / 707,"1,959",0.00%
+2124,95466,Standard,Philo,Mendocino,369 / 707,"1,219",0.00%
+2125,95467,Standard,Hidden Valley Lake,Lake,369 / 707,"6,031",0.02%
+2126,95468,Standard,Point Arena,Mendocino,369 / 707,"1,398",0.00%
+2127,95469,Standard,Potter Valley,Mendocino,369 / 707,"1,855",0.00%
+2128,95470,Standard,Redwood Valley,Mendocino,369 / 707,"6,041",0.02%
+2129,95471 ,P.O. Box,Rio Nido,Sonoma,707 / 369,677,0.00%
+2130,95472,Standard,Sebastopol,Sonoma,369 / 707,"28,430",0.07%
+2131,95473 ,P.O. Box,Sebastopol,Sonoma,369 / 707,0,0.00%
+2132,95476,Standard,Sonoma,Sonoma,707 / 369,"34,575",0.09%
+2133,95480 ,P.O. Box,Stewarts Point,Sonoma,369 / 707,64,0.00%
+2134,95481 ,P.O. Box,Talmage,Mendocino,707 / 369,0,0.00%
+2135,95482,Standard,Ukiah,Mendocino,707 / 369,"33,276",0.08%
+2136,95485,Standard,Upper Lake,Lake,369 / 707,"2,671",0.01%
+2137,95486 ,P.O. Box,Villa Grande,Sonoma,369 / 707,71,0.00%
+2138,95487 ,P.O. Box,Vineburg,Sonoma,707 / 369,0,0.00%
+2139,95488,Standard,Westport,Mendocino,369 / 707,240,0.00%
+2140,95490,Standard,Willits,Mendocino,369 / 707,"14,227",0.04%
+2141,95492,Standard,Windsor,Sonoma,369 / 707,"27,819",0.07%
+2142,95493,Standard,Witter Springs,Lake,369 / 707,218,0.00%
+2143,95494,Standard,Yorkville,Mendocino,369 / 707,291,0.00%
+2144,95497 ,P.O. Box,The Sea Ranch,Sonoma,369 / 707,"1,159",0.00%
+2145,95501,Standard,Eureka,Humboldt,369 / 707,"23,323",0.06%
+2146,95502 ,P.O. Box,Eureka,Humboldt,369 / 707,0,0.00%
+2147,95503,Standard,Eureka,Humboldt,369 / 707,"24,488",0.06%
+2148,95511,Standard,Alderpoint,Humboldt,369 / 707,268,0.00%
+2149,95514,Standard,Blocksburg,Humboldt,707 / 369,228,0.00%
+2150,95518 ,P.O. Box,Arcata,Humboldt,369 / 707,0,0.00%
+2151,95519,Standard,Mckinleyville,Humboldt,369 / 707,"18,421",0.05%
+2152,95521,Standard,Arcata,Humboldt,369 / 707,"21,581",0.05%
+2153,95524,Standard,Bayside,Humboldt,369 / 707,"1,691",0.00%
+2154,95525,Standard,Blue Lake,Humboldt,530,"1,701",0.00%
+2155,95526,Standard,Bridgeville,Humboldt,707 / 369,520,0.00%
+2156,95527,Standard,Burnt Ranch,Trinity,530,556,0.00%
+2157,95528,Standard,Carlotta,Humboldt,707 / 369,996,0.00%
+2158,95531,Standard,Crescent City,Del Norte,369 / 707,"23,223",0.06%
+2159,95532 ,Unique,Crescent City,Del Norte,369 / 707,0,0.00%
+2160,95534 ,P.O. Box,Cutten,Humboldt,369 / 707,0,0.00%
+2161,95536,Standard,Ferndale,Humboldt,707 / 369,"2,753",0.01%
+2162,95537 ,P.O. Box,Fields Landing,Humboldt,369 / 707,313,0.00%
+2163,95538 ,P.O. Box,Fort Dick,Del Norte,369 / 707,635,0.00%
+2164,95540,Standard,Fortuna,Humboldt,369 / 707,"14,055",0.04%
+2165,95542,Standard,Garberville,Humboldt,369 / 707,"2,519",0.01%
+2166,95543,Standard,Gasquet,Del Norte,369 / 707,738,0.00%
+2167,95545 ,P.O. Box,Honeydew,Humboldt,369 / 707,170,0.00%
+2168,95546,Standard,Hoopa,Humboldt,530,"3,641",0.01%
+2169,95547,Standard,Hydesville,Humboldt,369 / 707,"1,270",0.00%
+2170,95548,Standard,Klamath,Del Norte,369 / 707,"1,205",0.00%
+2171,95549,Standard,Kneeland,Humboldt,369 / 707,898,0.00%
+2172,95550,Standard,Korbel,Humboldt,369 / 707,151,0.00%
+2173,95551,Standard,Loleta,Humboldt,369 / 707,"1,871",0.00%
+2174,95552,Standard,Mad River,Trinity,369 / 707,552,0.00%
+2175,95553 ,P.O. Box,Miranda,Humboldt,707 / 369,"1,054",0.00%
+2176,95554,Standard,Myers Flat,Humboldt,707 / 369,297,0.00%
+2177,95555,Standard,Orick,Humboldt,369 / 707,415,0.00%
+2178,95556 ,P.O. Box,Orleans,Humboldt,530,650,0.00%
+2179,95558,Standard,Petrolia,Humboldt,369 / 707,548,0.00%
+2180,95559 ,P.O. Box,Phillipsville,Humboldt,369 / 707,163,0.00%
+2181,95560,Standard,Redway,Humboldt,707 / 369,"1,548",0.00%
+2182,95562,Standard,Rio Dell,Humboldt,369 / 707,"3,475",0.01%
+2183,95563 ,P.O. Box,Salyer,Trinity,530,589,0.00%
+2184,95564,Standard,Samoa,Humboldt,369 / 707,438,0.00%
+2185,95565,Standard,Scotia,Humboldt,369 / 707,875,0.00%
+2186,95567,Standard,Smith River,Del Norte,369 / 707,"1,931",0.00%
+2187,95568,Standard,Somes Bar,Siskiyou,530,164,0.00%
+2188,95569,Standard,Redcrest,Humboldt,707 / 369,211,0.00%
+2189,95570,Standard,Trinidad,Humboldt,707 / 369,"2,543",0.01%
+2190,95571 ,P.O. Box,Weott,Humboldt,707 / 369,297,0.00%
+2191,95573,Standard,Willow Creek,Humboldt,530,"1,750",0.00%
+2192,95585,Standard,Leggett,Mendocino,369 / 707,471,0.00%
+2193,95587,Standard,Piercy,Mendocino,369 / 707,144,0.00%
+2194,95589,Standard,Whitethorn,Humboldt,369 / 707,"1,648",0.00%
+2195,95595,Standard,Zenia,Trinity,369 / 707,146,0.00%
+2196,95601 ,P.O. Box,Amador City,Amador,209 / 350,284,0.00%
+2197,95602,Standard,Auburn,Placer,530,"18,364",0.05%
+2198,95603,Standard,Auburn,Placer,530,"28,021",0.07%
+2199,95604 ,P.O. Box,Auburn,Placer,530,49,0.00%
+2200,95605,Standard,West Sacramento,Yolo,279 / 530 / 916,"14,204",0.04%
+2201,95606,Standard,Brooks,Yolo,530,243,0.00%
+2202,95607,Standard,Capay,Yolo,530,311,0.00%
+2203,95608,Standard,Carmichael,Sacramento,279 / 916,"65,367",0.17%
+2204,95609 ,P.O. Box,Carmichael,Sacramento,279 / 916,0,0.00%
+2205,95610,Standard,Citrus Heights,Sacramento,279 / 916,"46,592",0.12%
+2206,95611 ,P.O. Box,Citrus Heights,Sacramento,279 / 916,0,0.00%
+2207,95612,Standard,Clarksburg,Yolo,279 / 916,"1,317",0.00%
+2208,95613 ,P.O. Box,Coloma,El Dorado,530,135,0.00%
+2209,95614,Standard,Cool,El Dorado,530,"3,891",0.01%
+2210,95615,Standard,Courtland,Sacramento,916 / 279,762,0.00%
+2211,95616,Standard,Davis,Yolo,530,"51,003",0.13%
+2212,95617 ,P.O. Box,Davis,Yolo,530,0,0.00%
+2213,95618,Standard,Davis,Yolo,530,"27,472",0.07%
+2214,95619,Standard,Diamond Springs,El Dorado,530,"4,816",0.01%
+2215,95620,Standard,Dixon,Solano,707 / 530 / 369,"21,439",0.05%
+2216,95621,Standard,Citrus Heights,Sacramento,279 / 916,"42,941",0.11%
+2217,95623,Standard,El Dorado,El Dorado,530,"4,267",0.01%
+2218,95624,Standard,Elk Grove,Sacramento,916 / 279,"66,575",0.17%
+2219,95625 ,P.O. Box,Elmira,Solano,707 / 369,175,0.00%
+2220,95626,Standard,Elverta,Sacramento,916 / 279,"5,766",0.01%
+2221,95627,Standard,Esparto,Yolo,530,"3,899",0.01%
+2222,95628,Standard,Fair Oaks,Sacramento,916 / 279,"42,824",0.11%
+2223,95629,Standard,Fiddletown,Amador,209 / 350,"1,036",0.00%
+2224,95630,Standard,Folsom,Sacramento,916 / 279,"74,787",0.19%
+2225,95631,Standard,Foresthill,Placer,530,"6,362",0.02%
+2226,95632,Standard,Galt,Sacramento,209 / 350,"31,470",0.08%
+2227,95633,Standard,Garden Valley,El Dorado,530,"3,017",0.01%
+2228,95634,Standard,Georgetown,El Dorado,530,"3,109",0.01%
+2229,95635,Standard,Greenwood,El Dorado,530,"1,236",0.00%
+2230,95636,Standard,Grizzly Flats,El Dorado,530,"1,109",0.00%
+2231,95637,Standard,Guinda,Yolo,530,322,0.00%
+2232,95638,Standard,Herald,Sacramento,209 / 350,"2,295",0.01%
+2233,95639 ,P.O. Box,Hood,Sacramento,916 / 279,273,0.00%
+2234,95640,Standard,Ione,Amador,209 / 350,"12,831",0.03%
+2235,95641,Standard,Isleton,Sacramento,916 / 279,"2,266",0.01%
+2236,95642,Standard,Jackson,Amador,209 / 350,"7,544",0.02%
+2237,95644 ,P.O. Box,Kit Carson,Amador,209 / 350,0,0.00%
+2238,95645,Standard,Knights Landing,Yolo,530,"1,715",0.00%
+2239,95646 ,P.O. Box,Kirkwood,Alpine,530,188,0.00%
+2240,95648,Standard,Lincoln,Placer,916 / 279,"54,483",0.14%
+2241,95650,Standard,Loomis,Placer,916 / 279,"13,446",0.03%
+2242,95651,Standard,Lotus,El Dorado,530,763,0.00%
+2243,95652,Standard,Mcclellan,Sacramento,279 / 916,914,0.00%
+2244,95653 ,P.O. Box,Madison,Yolo,530,579,0.00%
+2245,95654 ,P.O. Box,Martell,Amador,209 / 350,0,0.00%
+2246,95655,Standard,Mather,Sacramento,279 / 916,"4,767",0.01%
+2247,95656 ,P.O. Box,Mount Aukum,El Dorado,530,0,0.00%
+2248,95658,Standard,Newcastle,Placer,279 / 530 / 916,"6,532",0.02%
+2249,95659,Standard,Nicolaus,Sutter,530 / 916 / 279,724,0.00%
+2250,95660,Standard,North Highlands,Sacramento,279 / 916,"35,368",0.09%
+2251,95661,Standard,Roseville,Placer,916 / 279 / 530,"32,847",0.08%
+2252,95662,Standard,Orangevale,Sacramento,279 / 916,"32,688",0.08%
+2253,95663,Standard,Penryn,Placer,916 / 279,"2,905",0.01%
+2254,95664,Standard,Pilot Hill,El Dorado,530,"1,329",0.00%
+2255,95665,Standard,Pine Grove,Amador,209 / 350,"4,657",0.01%
+2256,95666,Standard,Pioneer,Amador,209 / 350,"5,398",0.01%
+2257,95667,Standard,Placerville,El Dorado,530,"37,283",0.09%
+2258,95668,Standard,Pleasant Grove,Sutter,916 / 530 / 279,872,0.00%
+2259,95669,Standard,Plymouth,Amador,209 / 279 / 350 / 916,"2,431",0.01%
+2260,95670,Standard,Rancho Cordova,Sacramento,279 / 916,"57,988",0.15%
+2261,95671 ,Unique,Represa,Sacramento,916 / 279,"5,667",0.01%
+2262,95672,Standard,Rescue,El Dorado,530,"4,700",0.01%
+2263,95673,Standard,Rio Linda,Sacramento,916 / 279,"16,290",0.04%
+2264,95674,Standard,Rio Oso,Sutter,530,855,0.00%
+2265,95675 ,P.O. Box,River Pines,Amador,209 / 350,390,0.00%
+2266,95676 ,P.O. Box,Robbins,Sutter,530,120,0.00%
+2267,95677,Standard,Rocklin,Placer,916 / 279 / 530,"28,351",0.07%
+2268,95678,Standard,Roseville,Placer,916 / 279 / 530,"45,136",0.11%
+2269,95679 ,P.O. Box,Rumsey,Yolo,530,91,0.00%
+2270,95680 ,P.O. Box,Ryde,Sacramento,916 / 209 / 279 / 350,121,0.00%
+2271,95681,Standard,Sheridan,Placer,916 / 279,"1,324",0.00%
+2272,95682,Standard,Shingle Springs,El Dorado,530,"30,233",0.08%
+2273,95683,Standard,Sloughhouse,Sacramento,916 / 279,"6,550",0.02%
+2274,95684,Standard,Somerset,El Dorado,530,"3,283",0.01%
+2275,95685,Standard,Sutter Creek,Amador,209 / 350,"4,542",0.01%
+2276,95686 ,P.O. Box,Thornton,San Joaquin,209 / 350,"1,338",0.00%
+2277,95687,Standard,Vacaville,Solano,707 / 369,"69,837",0.18%
+2278,95688,Standard,Vacaville,Solano,707 / 369,"39,571",0.10%
+2279,95689,Standard,Volcano,Amador,209 / 350,"1,274",0.00%
+2280,95690,Standard,Walnut Grove,Sacramento,916 / 209 / 279 / 350,"2,270",0.01%
+2281,95691,Standard,West Sacramento,Yolo,279 / 530 / 916,"39,849",0.10%
+2282,95692,Standard,Wheatland,Yuba,530,"4,975",0.01%
+2283,95693,Standard,Wilton,Sacramento,916 / 279,"7,549",0.02%
+2284,95694,Standard,Winters,Yolo,530,"9,629",0.02%
+2285,95695,Standard,Woodland,Yolo,530,"38,956",0.10%
+2286,95696 ,P.O. Box,Vacaville,Solano,707 / 369,0,0.00%
+2287,95697 ,P.O. Box,Yolo,Yolo,530,396,0.00%
+2288,95698 ,P.O. Box,Zamora,Yolo,530,213,0.00%
+2289,95699 ,P.O. Box,Drytown,Amador,209 / 279 / 350 / 916,175,0.00%
+2290,95701 ,P.O. Box,Alta,Placer,530,986,0.00%
+2291,95703,Standard,Applegate,Placer,530,"1,943",0.00%
+2292,95709,Standard,Camino,El Dorado,530,"4,874",0.01%
+2293,95712 ,P.O. Box,Chicago Park,Nevada,530,0,0.00%
+2294,95713,Standard,Colfax,Placer,530,"9,156",0.02%
+2295,95714 ,P.O. Box,Dutch Flat,Placer,530,360,0.00%
+2296,95715 ,P.O. Box,Emigrant Gap,Placer,530,98,0.00%
+2297,95717 ,P.O. Box,Gold Run,Placer,530,243,0.00%
+2298,95720,Standard,Kyburz,El Dorado,209 / 350 / 530,133,0.00%
+2299,95721 ,P.O. Box,Echo Lake,El Dorado,209 / 350 / 530,32,0.00%
+2300,95722,Standard,Meadow Vista,Placer,530,"4,682",0.01%
+2301,95724 ,P.O. Box,Norden,Nevada,530,0,0.00%
+2302,95726,Standard,Pollock Pines,El Dorado,530,"8,985",0.02%
+2303,95728 ,P.O. Box,Soda Springs,Nevada,530,457,0.00%
+2304,95735,Standard,Twin Bridges,El Dorado,209 / 350 / 530,87,0.00%
+2305,95736 ,P.O. Box,Weimar,Placer,530,339,0.00%
+2306,95741 ,P.O. Box,Rancho Cordova,Sacramento,279 / 916,0,0.00%
+2307,95742,Standard,Rancho Cordova,Sacramento,279 / 916,"16,260",0.04%
+2308,95746,Standard,Granite Bay,Placer,279 / 916,"22,166",0.06%
+2309,95747,Standard,Roseville,Placer,916 / 279,"75,019",0.19%
+2310,95757,Standard,Elk Grove,Sacramento,916 / 279,"55,257",0.14%
+2311,95758,Standard,Elk Grove,Sacramento,916 / 279,"64,517",0.16%
+2312,95759 ,P.O. Box,Elk Grove,Sacramento,916 / 279,0,0.00%
+2313,95762,Standard,El Dorado Hills,El Dorado,916 / 279,"47,354",0.12%
+2314,95763 ,P.O. Box,Folsom,Sacramento,916 / 279,0,0.00%
+2315,95765,Standard,Rocklin,Placer,279 / 916,"43,120",0.11%
+2316,95776,Standard,Woodland,Yolo,530,"26,612",0.07%
+2317,95798 ,P.O. Box,West Sacramento,Yolo,279 / 530 / 916,0,0.00%
+2318,95799 ,P.O. Box,West Sacramento,Yolo,279 / 530 / 916,0,0.00%
+2319,95811,Standard,Sacramento,Sacramento,916 / 279,"12,463",0.03%
+2320,95812 ,P.O. Box,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+2321,95813 ,P.O. Box,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+2322,95814,Standard,Sacramento,Sacramento,916 / 279 / 530,"12,208",0.03%
+2323,95815,Standard,Sacramento,Sacramento,916 / 279,"27,838",0.07%
+2324,95816,Standard,Sacramento,Sacramento,916 / 279 / 530,"18,606",0.05%
+2325,95817,Standard,Sacramento,Sacramento,279 / 916,"14,270",0.04%
+2326,95818,Standard,Sacramento,Sacramento,279 / 530 / 916,"22,375",0.06%
+2327,95819,Standard,Sacramento,Sacramento,916 / 279,"20,812",0.05%
+2328,95820,Standard,Sacramento,Sacramento,279 / 916,"36,848",0.09%
+2329,95821,Standard,Sacramento,Sacramento,916 / 279,"39,310",0.10%
+2330,95822,Standard,Sacramento,Sacramento,279 / 916,"45,215",0.11%
+2331,95823,Standard,Sacramento,Sacramento,279 / 916,"81,212",0.21%
+2332,95824,Standard,Sacramento,Sacramento,279 / 916,"31,524",0.08%
+2333,95825,Standard,Sacramento,Sacramento,916 / 279,"36,081",0.09%
+2334,95826,Standard,Sacramento,Sacramento,279 / 916,"39,902",0.10%
+2335,95827,Standard,Sacramento,Sacramento,279 / 916,"21,566",0.05%
+2336,95828,Standard,Sacramento,Sacramento,279 / 916,"63,116",0.16%
+2337,95829,Standard,Sacramento,Sacramento,279 / 916,"32,123",0.08%
+2338,95830,Standard,Sacramento,Sacramento,279 / 916,"1,015",0.00%
+2339,95831,Standard,Sacramento,Sacramento,279 / 916,"43,099",0.11%
+2340,95832,Standard,Sacramento,Sacramento,279 / 916,"11,930",0.03%
+2341,95833,Standard,Sacramento,Sacramento,916 / 279 / 530,"40,195",0.10%
+2342,95834,Standard,Sacramento,Sacramento,279 / 916,"35,617",0.09%
+2343,95835,Standard,Sacramento,Sacramento,279 / 916,"41,399",0.10%
+2344,95836,Standard,Sacramento,Sacramento,279 / 916,0,0.00%
+2345,95837,Standard,Sacramento,Sacramento,279 / 916,242,0.00%
+2346,95838,Standard,Sacramento,Sacramento,279 / 916,"41,340",0.10%
+2347,95840 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+2348,95841,Standard,Sacramento,Sacramento,279 / 916,"21,873",0.06%
+2349,95842,Standard,Sacramento,Sacramento,279 / 916,"34,196",0.09%
+2350,95843,Standard,Antelope,Sacramento,279 / 916,"48,234",0.12%
+2351,95851 ,P.O. Box,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+2352,95852 ,P.O. Box,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+2353,95853 ,P.O. Box,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+2354,95860 ,P.O. Box,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+2355,95864,Standard,Sacramento,Sacramento,916 / 279,"24,249",0.06%
+2356,95865 ,P.O. Box,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+2357,95866 ,P.O. Box,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+2358,95867 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+2359,95894 ,Unique,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+2360,95899 ,P.O. Box,Sacramento,Sacramento,916 / 279 / 530,0,0.00%
+2361,95901,Standard,Marysville,Yuba,530,"35,840",0.09%
+2362,95903,Standard,Beale AFB,Yuba,530,"2,412",0.01%
+2363,95910,Standard,Alleghany,Sierra,530,64,0.00%
+2364,95912,Standard,Arbuckle,Colusa,530,"4,942",0.01%
+2365,95913 ,P.O. Box,Artois,Glenn,530,369,0.00%
+2366,95914,Standard,Bangor,Butte,530,693,0.00%
+2367,95915 ,P.O. Box,Belden,Plumas,530,52,0.00%
+2368,95916,Standard,Berry Creek,Butte,530,"1,680",0.00%
+2369,95917,Standard,Biggs,Butte,530,"3,264",0.01%
+2370,95918,Standard,Browns Valley,Yuba,530,"2,259",0.01%
+2371,95919,Standard,Brownsville,Yuba,530,"1,411",0.00%
+2372,95920,Standard,Butte City,Glenn,530,267,0.00%
+2373,95922,Standard,Camptonville,Yuba,530,666,0.00%
+2374,95923,Standard,Canyon Dam,Plumas,530,53,0.00%
+2375,95924 ,P.O. Box,Cedar Ridge,Nevada,530,0,0.00%
+2376,95925,Standard,Challenge,Yuba,530,281,0.00%
+2377,95926,Standard,Chico,Butte,279 / 530 / 916,"41,259",0.10%
+2378,95927 ,P.O. Box,Chico,Butte,279 / 530 / 916,0,0.00%
+2379,95928,Standard,Chico,Butte,279 / 530 / 916,"38,378",0.10%
+2380,95929 ,Unique,Chico,Butte,279 / 530 / 916,0,0.00%
+2381,95930,Standard,Clipper Mills,Butte,530,253,0.00%
+2382,95932,Standard,Colusa,Colusa,530,"7,832",0.02%
+2383,95934,Standard,Crescent Mills,Plumas,530,322,0.00%
+2384,95935,Standard,Dobbins,Yuba,530,750,0.00%
+2385,95936 ,P.O. Box,Downieville,Sierra,530,361,0.00%
+2386,95937 ,P.O. Box,Dunnigan,Yolo,530,"1,554",0.00%
+2387,95938,Standard,Durham,Butte,530,"3,740",0.01%
+2388,95939,Standard,Elk Creek,Glenn,530,545,0.00%
+2389,95940 ,P.O. Box,Feather Falls,Butte,530,0,0.00%
+2390,95941,Standard,Forbestown,Butte,530,480,0.00%
+2391,95942,Standard,Forest Ranch,Butte,530,"1,576",0.00%
+2392,95943,Standard,Glenn,Glenn,530,774,0.00%
+2393,95944 ,P.O. Box,Goodyears Bar,Sierra,530,45,0.00%
+2394,95945,Standard,Grass Valley,Nevada,530,"26,302",0.07%
+2395,95946,Standard,Penn Valley,Nevada,530,"9,964",0.03%
+2396,95947,Standard,Greenville,Plumas,530,"1,583",0.00%
+2397,95948,Standard,Gridley,Butte,530,"11,603",0.03%
+2398,95949,Standard,Grass Valley,Nevada,530,"20,720",0.05%
+2399,95950 ,P.O. Box,Grimes,Colusa,530,413,0.00%
+2400,95951 ,P.O. Box,Hamilton City,Glenn,530,"2,385",0.01%
+2401,95953,Standard,Live Oak,Sutter,530,"11,357",0.03%
+2402,95954,Standard,Magalia,Butte,530,"8,556",0.02%
+2403,95955 ,P.O. Box,Maxwell,Colusa,530,"1,403",0.00%
+2404,95956 ,P.O. Box,Meadow Valley,Plumas,530,458,0.00%
+2405,95957,Standard,Meridian,Sutter,530,669,0.00%
+2406,95958 ,P.O. Box,Nelson,Butte,530,45,0.00%
+2407,95959,Standard,Nevada City,Nevada,530,"18,621",0.05%
+2408,95960,Standard,North San Juan,Nevada,530,762,0.00%
+2409,95961,Standard,Olivehurst,Yuba,530,"30,717",0.08%
+2410,95962,Standard,Oregon House,Yuba,530,"1,316",0.00%
+2411,95963,Standard,Orland,Glenn,530,"16,250",0.04%
+2412,95965,Standard,Oroville,Butte,530,"21,548",0.05%
+2413,95966,Standard,Oroville,Butte,530,"31,591",0.08%
+2414,95967 ,P.O. Box,Paradise,Butte,530,0,0.00%
+2415,95968,Standard,Palermo,Butte,530,"1,512",0.00%
+2416,95969,Standard,Paradise,Butte,530,"5,710",0.01%
+2417,95970,Standard,Princeton,Colusa,530,535,0.00%
+2418,95971,Standard,Quincy,Plumas,530,"5,672",0.01%
+2419,95972,Standard,Rackerby,Yuba,530,84,0.00%
+2420,95973,Standard,Chico,Butte,279 / 530 / 916,"39,609",0.10%
+2421,95974 ,P.O. Box,Richvale,Butte,530,142,0.00%
+2422,95975,Standard,Rough And Ready,Nevada,530,"1,702",0.00%
+2423,95976 ,Unique,Chico,Butte,279 / 530 / 916,0,0.00%
+2424,95977,Standard,Smartsville,Nevada,530,"1,797",0.00%
+2425,95978 ,P.O. Box,Stirling City,Butte,530,137,0.00%
+2426,95979,Standard,Stonyford,Colusa,530,519,0.00%
+2427,95980 ,P.O. Box,Storrie,Plumas,530,0,0.00%
+2428,95981,Standard,Strawberry Valley,Yuba,530,191,0.00%
+2429,95982,Standard,Sutter,Sutter,530,"3,283",0.01%
+2430,95983,Standard,Taylorsville,Plumas,530,401,0.00%
+2431,95984 ,P.O. Box,Twain,Plumas,530,139,0.00%
+2432,95986 ,P.O. Box,Washington,Nevada,530,121,0.00%
+2433,95987,Standard,Williams,Colusa,530,"6,270",0.02%
+2434,95988,Standard,Willows,Glenn,530,"8,842",0.02%
+2435,95991,Standard,Yuba City,Sutter,530,"43,345",0.11%
+2436,95992 ,P.O. Box,Yuba City,Sutter,530,0,0.00%
+2437,95993,Standard,Yuba City,Sutter,530,"37,783",0.10%
+2438,96001,Standard,Redding,Shasta,530,"33,914",0.09%
+2439,96002,Standard,Redding,Shasta,530,"35,158",0.09%
+2440,96003,Standard,Redding,Shasta,530,"45,185",0.11%
+2441,96006,Standard,Adin,Modoc,530,473,0.00%
+2442,96007,Standard,Anderson,Shasta,530,"24,056",0.06%
+2443,96008,Standard,Bella Vista,Shasta,530,"1,237",0.00%
+2444,96009 ,P.O. Box,Bieber,Lassen,530,481,0.00%
+2445,96010,Standard,Big Bar,Trinity,530,154,0.00%
+2446,96011 ,P.O. Box,Big Bend,Shasta,530,148,0.00%
+2447,96013,Standard,Burney,Shasta,530,"4,020",0.01%
+2448,96014,Standard,Callahan,Siskiyou,530,237,0.00%
+2449,96015,Standard,Canby,Modoc,530,364,0.00%
+2450,96016,Standard,Cassel,Shasta,530,399,0.00%
+2451,96017,Standard,Castella,Shasta,530,169,0.00%
+2452,96019,Standard,Shasta Lake,Shasta,530,"10,491",0.03%
+2453,96020,Standard,Chester,Plumas,530,"2,407",0.01%
+2454,96021,Standard,Corning,Tehama,530,"17,123",0.04%
+2455,96022,Standard,Cottonwood,Shasta,530,"16,528",0.04%
+2456,96023,Standard,Dorris,Siskiyou,530,"1,102",0.00%
+2457,96024,Standard,Douglas City,Trinity,530,859,0.00%
+2458,96025,Standard,Dunsmuir,Siskiyou,530,"2,225",0.01%
+2459,96027,Standard,Etna,Siskiyou,530,"1,953",0.00%
+2460,96028,Standard,Fall River Mills,Shasta,530,"1,679",0.00%
+2461,96029,Standard,Flournoy,Tehama,530,138,0.00%
+2462,96031,Standard,Forks Of Salmon,Siskiyou,530,118,0.00%
+2463,96032,Standard,Fort Jones,Siskiyou,530,"2,593",0.01%
+2464,96033,Standard,French Gulch,Shasta,530,429,0.00%
+2465,96034,Standard,Gazelle,Siskiyou,530,345,0.00%
+2466,96035,Standard,Gerber,Tehama,530,"3,175",0.01%
+2467,96037 ,P.O. Box,Greenview,Siskiyou,530,312,0.00%
+2468,96038,Standard,Grenada,Siskiyou,530,586,0.00%
+2469,96039,Standard,Happy Camp,Siskiyou,530,"1,037",0.00%
+2470,96040,Standard,Hat Creek,Shasta,530,283,0.00%
+2471,96041,Standard,Hayfork,Trinity,530,"5,574",0.01%
+2472,96044,Standard,Hornbrook,Siskiyou,530,"1,015",0.00%
+2473,96046 ,P.O. Box,Hyampom,Trinity,530,304,0.00%
+2474,96047,Standard,Igo,Shasta,530,888,0.00%
+2475,96048,Standard,Junction City,Trinity,530,698,0.00%
+2476,96049 ,P.O. Box,Redding,Shasta,530,0,0.00%
+2477,96050,Standard,Klamath River,Siskiyou,530,476,0.00%
+2478,96051,Standard,Lakehead,Shasta,530,"1,136",0.00%
+2479,96052,Standard,Lewiston,Trinity,530,"1,498",0.00%
+2480,96054 ,P.O. Box,Lookout,Modoc,530,288,0.00%
+2481,96055,Standard,Los Molinos,Tehama,530,"3,951",0.01%
+2482,96056,Standard,Mcarthur,Shasta,530,"1,444",0.00%
+2483,96057,Standard,Mccloud,Siskiyou,530,"1,202",0.00%
+2484,96058,Standard,Macdoel,Siskiyou,530,659,0.00%
+2485,96059,Standard,Manton,Tehama,530,572,0.00%
+2486,96061,Standard,Mill Creek,Tehama,530,90,0.00%
+2487,96062,Standard,Millville,Shasta,530,994,0.00%
+2488,96063 ,P.O. Box,Mineral,Tehama,530,125,0.00%
+2489,96064,Standard,Montague,Siskiyou,530,"4,387",0.01%
+2490,96065,Standard,Montgomery Creek,Shasta,530,409,0.00%
+2491,96067,Standard,Mount Shasta,Siskiyou,530,"7,145",0.02%
+2492,96068 ,P.O. Box,Nubieber,Lassen,530,185,0.00%
+2493,96069,Standard,Oak Run,Shasta,530,"1,052",0.00%
+2494,96070 ,P.O. Box,Obrien,Shasta,530,0,0.00%
+2495,96071,Standard,Old Station,Shasta,530,127,0.00%
+2496,96073,Standard,Palo Cedro,Shasta,530,"4,614",0.01%
+2497,96074 ,P.O. Box,Paskenta,Tehama,530,312,0.00%
+2498,96075,Standard,Paynes Creek,Tehama,530,427,0.00%
+2499,96076,Standard,Platina,Shasta,530,276,0.00%
+2500,96078 ,P.O. Box,Proberta,Tehama,530,57,0.00%
+2501,96079 ,P.O. Box,Shasta Lake,Shasta,530,0,0.00%
+2502,96080,Standard,Red Bluff,Tehama,530,"29,672",0.08%
+2503,96084 ,P.O. Box,Round Mountain,Shasta,530,515,0.00%
+2504,96085,Standard,Scott Bar,Siskiyou,530,63,0.00%
+2505,96086,Standard,Seiad Valley,Siskiyou,530,300,0.00%
+2506,96087 ,P.O. Box,Shasta,Shasta,530,547,0.00%
+2507,96088,Standard,Shingletown,Shasta,530,"4,781",0.01%
+2508,96089 ,P.O. Box,Shasta Lake,Shasta,530,0,0.00%
+2509,96090 ,P.O. Box,Tehama,Tehama,530,451,0.00%
+2510,96091,Standard,Trinity Center,Trinity,530,574,0.00%
+2511,96092 ,P.O. Box,Vina,Tehama,530,419,0.00%
+2512,96093 ,P.O. Box,Weaverville,Trinity,530,"4,140",0.01%
+2513,96094,Standard,Weed,Siskiyou,530,"6,908",0.02%
+2514,96095 ,P.O. Box,Whiskeytown,Shasta,530,0,0.00%
+2515,96096,Standard,Whitmore,Shasta,530,763,0.00%
+2516,96097,Standard,Yreka,Siskiyou,530,"10,131",0.03%
+2517,96099 ,P.O. Box,Redding,Shasta,530,0,0.00%
+2518,96101,Standard,Alturas,Modoc,530,"5,238",0.01%
+2519,96103,Standard,Blairsden Graeagle,Plumas,530,"1,611",0.00%
+2520,96104,Standard,Cedarville,Modoc,530,613,0.00%
+2521,96105,Standard,Chilcoot,Plumas,530,568,0.00%
+2522,96106 ,P.O. Box,Clio,Plumas,530,522,0.00%
+2523,96107,Standard,Coleville,Mono,530,"1,100",0.00%
+2524,96108,Standard,Davis Creek,Modoc,530,129,0.00%
+2525,96109,Standard,Doyle,Lassen,530,888,0.00%
+2526,96110 ,P.O. Box,Eagleville,Modoc,530,101,0.00%
+2527,96111 ,P.O. Box,Floriston,Nevada,530,80,0.00%
+2528,96112,Standard,Fort Bidwell,Modoc,530,219,0.00%
+2529,96113 ,P.O. Box,Herlong,Lassen,530,"1,898",0.00%
+2530,96114,Standard,Janesville,Lassen,530,"3,101",0.01%
+2531,96115,Standard,Lake City,Modoc,530,169,0.00%
+2532,96116 ,P.O. Box,Likely,Modoc,530,150,0.00%
+2533,96117,Standard,Litchfield,Lassen,530,337,0.00%
+2534,96118,Standard,Loyalton,Sierra,530,"1,447",0.00%
+2535,96119 ,P.O. Box,Madeline,Lassen,530,82,0.00%
+2536,96120,Standard,Markleeville,Alpine,530,955,0.00%
+2537,96121,Standard,Milford,Lassen,530,334,0.00%
+2538,96122,Standard,Portola,Plumas,530,"4,070",0.01%
+2539,96123,Standard,Ravendale,Lassen,530,100,0.00%
+2540,96124,Standard,Calpine,Sierra,530,343,0.00%
+2541,96125,Standard,Sierra City,Sierra,530,291,0.00%
+2542,96126 ,P.O. Box,Sierraville,Sierra,530,273,0.00%
+2543,96127 ,P.O. Box,Susanville,Lassen,530,0,0.00%
+2544,96128,Standard,Standish,Lassen,530,535,0.00%
+2545,96129,Standard,Beckwourth,Plumas,530,266,0.00%
+2546,96130,Standard,Susanville,Lassen,530,"22,121",0.06%
+2547,96132,Standard,Termo,Lassen,530,53,0.00%
+2548,96133,Standard,Topaz,Mono,530,175,0.00%
+2549,96134,Standard,Tulelake,Siskiyou,530,"2,028",0.01%
+2550,96135 ,P.O. Box,Vinton,Plumas,530,82,0.00%
+2551,96136,Standard,Wendel,Lassen,530,116,0.00%
+2552,96137,Standard,Westwood,Lassen,530,"3,265",0.01%
+2553,96140 ,P.O. Box,Carnelian Bay,Placer,530,"1,115",0.00%
+2554,96141 ,P.O. Box,Homewood,Placer,530,600,0.00%
+2555,96142 ,P.O. Box,Tahoma,El Dorado,530,973,0.00%
+2556,96143 ,P.O. Box,Kings Beach,Placer,530,"3,965",0.01%
+2557,96145 ,P.O. Box,Tahoe City,Placer,530,"3,189",0.01%
+2558,96146,Standard,Olympic Valley,Placer,530,"1,194",0.00%
+2559,96148 ,P.O. Box,Tahoe Vista,Placer,530,993,0.00%
+2560,96150,Standard,South Lake Tahoe,El Dorado,530,"29,518",0.07%
+2561,96151 ,P.O. Box,South Lake Tahoe,El Dorado,530,0,0.00%
+2562,96152 ,P.O. Box,South Lake Tahoe,El Dorado,530,0,0.00%
+2563,96154 ,P.O. Box,South Lake Tahoe,El Dorado,530,0,0.00%
+2564,96155 ,P.O. Box,South Lake Tahoe,El Dorado,530,8,0.00%
+2565,96156 ,P.O. Box,South Lake Tahoe,El Dorado,530,0,0.00%
+2566,96157 ,P.O. Box,South Lake Tahoe,El Dorado,530,0,0.00%
+2567,96158 ,P.O. Box,South Lake Tahoe,El Dorado,530,0,0.00%
+2568,96160 ,P.O. Box,Truckee,Nevada,530,0,0.00%
+2569,96161,Standard,Truckee,Nevada,530,"19,651",0.05%
+2570,96162 ,P.O. Box,Truckee,Nevada,530,0,0.00%
